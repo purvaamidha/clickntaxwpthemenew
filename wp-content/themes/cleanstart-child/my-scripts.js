@@ -3,7 +3,7 @@ jQuery(document).ready(function(){
    
     $("#sole1").click(function(){
         $("#incor_soleid").show();
-        $("#menu-page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#incor_partnerid").hide();
         $("#incor_limited-liabid").hide();
         $("#incor_one-personid").hide();
@@ -18,7 +18,7 @@ jQuery(document).ready(function(){
     });
      $("#part1").click(function(){
         $("#incor_partnerid").show();
-        $("#page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#incor_soleid").hide();
         $("#incor_limited-liabid").hide();
         $("#incor_one-personid").hide();
@@ -34,7 +34,7 @@ jQuery(document).ready(function(){
     
     $("#limliab1").click(function(){
         $("#incor_limited-liabid").show();
-        $("#menu-page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#incor_soleid").hide();
         $("#incor_partnerid").hide();
         $("#incor_one-personid").hide();
@@ -50,7 +50,7 @@ jQuery(document).ready(function(){
     
     $("#pers1").click(function(){
         $("#incor_one-personid").show();
-        $("#menu-page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#incor_soleid").hide();
         $("#incor_partnerid").hide();
         $("#incor_limited-liabid").hide();
@@ -66,7 +66,7 @@ jQuery(document).ready(function(){
     
     $("#priltd1").click(function(){
         $("#incor_private-ltdid").show();
-        $("#menu-page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#incor_soleid").hide();
         $("#incor_partnerid").hide();
         $("#incor_limited-liabid").hide();
@@ -82,7 +82,7 @@ jQuery(document).ready(function(){
     
     $("#publtd1").click(function(){
         $("#incor_public-ltdid").show();
-        $("#menu-page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#incor_soleid").hide();
         $("#incor_partnerid").hide();
         $("#incor_limited-liabid").hide();
@@ -98,7 +98,7 @@ jQuery(document).ready(function(){
     /*the submenu ids show hide */
     $("#overview1").click(function(){
         $("#incor_soleid").show();
-        $("#menu-page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#submenu-linksid").show();
         $("#incor_partnerid").hide();
         $("#incor_limited-liabid").hide();
