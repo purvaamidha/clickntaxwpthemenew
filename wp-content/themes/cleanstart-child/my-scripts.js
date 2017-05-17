@@ -55,7 +55,6 @@ jQuery(document).ready(function(){
         $("#incor_partnerid").hide();
         $("#incor_limited-liabid").hide();
         $("#incor_private-ltdid").hide();
-        $("#publtd1").hide();
         $("#incor_public-ltdid").hide();
         $("#incor_service-taxid").hide();
         $("#incor_features-id").hide();
@@ -100,6 +99,7 @@ jQuery(document).ready(function(){
     $("#overview1").click(function(){
         $("#incor_soleid").show();
         $("#menu-page-side-busi-cor").show();
+        $("#submenu-linksid").show();
         $("#incor_partnerid").hide();
         $("#incor_limited-liabid").hide();
         $("#incor_one-personid").hide();
@@ -125,7 +125,7 @@ jQuery(document).ready(function(){
         $("#incor_priceplan-id").hide();
         $("#incor_faq-id").hide();
         $("#incor_process-id").hide();
-        
+        $("#submenu-linksid").hide();
     });
     
     $("#features1").click(function(){
@@ -140,7 +140,7 @@ jQuery(document).ready(function(){
         $("#incor_priceplan-id").hide();
         $("#incor_faq-id").hide();
         $("#incor_process-id").hide();
-        
+        $("#submenu-linksid").hide();
     });
     
     $("#pricing1").click(function(){
@@ -155,7 +155,7 @@ jQuery(document).ready(function(){
         $("#incor_features-id").hide();
         $("#incor_faq-id").hide();
         $("#incor_process-id").hide();
-        
+        $("#submenu-linksid").hide();
     });
     
      $("#faq1").click(function(){
@@ -170,7 +170,7 @@ jQuery(document).ready(function(){
         $("#incor_features-id").hide();
         $("#incor_priceplan-id").hide();
         $("#incor_process-id").hide();
-        
+        $("#submenu-linksid").hide();
     });
     
     $("#process1").click(function(){
@@ -185,7 +185,7 @@ jQuery(document).ready(function(){
         $("#incor_features-id").hide();
         $("#incor_priceplan-id").hide();
         $("#incor_faq-id").hide();
-        
+        $("#submenu-linksid").hide();
     });
 });
  </script>
