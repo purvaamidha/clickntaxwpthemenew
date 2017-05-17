@@ -1,0 +1,1 @@
+[vc_row][vc_column width="1/1"][sc_portfoliogrid layout="classic" layout_columns="3" results="13" orderby="random" category_filters="yes"][/vc_column][/vc_row]

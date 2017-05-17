@@ -1,0 +1,5179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cleanstart\n"
+"POT-Creation-Date: 2015-06-22 14:59+0200\n"
+"PO-Revision-Date: 2015-06-22 14:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: Plethora Themes <plethorathemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;__;_e;_x;_ex\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2l plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:164
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2223
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:165
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2224
+msgid "Install Plugins"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:166
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2225
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:180
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:513
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2237
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:181
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1911
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2238
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:540
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2123
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:568
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:741
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1128
+msgid "External Link"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1133
+msgid "Private Repository"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1136
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1140
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1143
+msgid "Required"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1143
+msgid "Recommended"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1146
+msgid "Not Installed"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1148
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1150
+msgid "Not Updated"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1152
+msgid "Active"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1346
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1362
+msgid "Plugin"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1363
+msgid "Source"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1364
+msgid "Type"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1365
+msgid "Status"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1383
+msgid "Install"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1384
+msgid "Activate"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1894
+msgid "Install package not available."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1895
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1896
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1897
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1898
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1899
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:1910
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2020
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2021
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2021
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2030
+msgid "Show Details"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2021
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2030
+msgid "Hide Details"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2022
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2023
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2027
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2028
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2029
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2030
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2031
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2032
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2226
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../cleanstart/assets/tgm/class-tgm-plugin-activation.php:2239
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:33
+#: ../cleanstart/includes/metabox/metabox-layoutportfolio.php:36
+#: ../cleanstart/includes/metabox/metabox-layoutpost.php:36
+#: ../cleanstart/includes/theme-options.php:1219
+msgid "Select Layout"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:49
+#: ../cleanstart/includes/metabox/metabox-layoutpost.php:50
+#: ../cleanstart/includes/theme-options.php:1235
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:63
+msgid "Layout"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:77
+msgid "Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:89
+msgid "Catalog Layout"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:104
+msgid "Catalog Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:121
+msgid "Blog Layout Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:136
+#: ../cleanstart/includes/metabox/metabox-layoutpage.php:151
+#: ../cleanstart/includes/metabox/metabox-layoutportfolio.php:48
+#: ../cleanstart/includes/metabox/metabox-layoutpost.php:59
+msgid "Layout Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:28
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:28
+#: ../cleanstart/includes/metabox/metabox-post.php:28
+#: ../cleanstart/includes/metabox/metabox-product.php:28
+msgid "Content Display"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:29
+#: ../cleanstart/includes/metabox/metabox-page.php:56
+#: ../cleanstart/includes/metabox/metabox-page.php:650
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:29
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:129
+#: ../cleanstart/includes/metabox/metabox-post.php:29
+#: ../cleanstart/includes/metabox/metabox-post.php:141
+#: ../cleanstart/includes/metabox/metabox-product.php:29
+#: ../cleanstart/includes/metabox/metabox-product.php:80
+#: ../cleanstart/includes/module/module-woocommerce.php:1058
+msgid "Click here"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:29
+msgid " to edit default page options."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:38
+#: ../cleanstart/includes/metabox/metabox-page.php:40
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:39
+msgid "Show Title On Content"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:41
+#: ../cleanstart/includes/theme-options.php:1241
+msgid ""
+"Depending on your head panel settings, you might need to display title on "
+"content "
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:54
+#: ../cleanstart/includes/metabox/metabox-page.php:648
+#: ../cleanstart/includes/metabox/metabox-page.php:1093
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:127
+#: ../cleanstart/includes/metabox/metabox-post.php:139
+#: ../cleanstart/includes/metabox/metabox-product.php:78
+#: ../cleanstart/includes/theme-options.php:760
+msgid "Head Panel"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:56
+#: ../cleanstart/includes/metabox/metabox-page.php:650
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:129
+#: ../cleanstart/includes/metabox/metabox-post.php:141
+#: ../cleanstart/includes/metabox/metabox-product.php:80
+msgid " to edit default head panel options."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:63
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:136
+#: ../cleanstart/includes/metabox/metabox-post.php:148
+#: ../cleanstart/includes/theme-options.php:847
+#: ../cleanstart/includes/theme-options.php:878
+#: ../cleanstart/includes/theme-options.php:910
+msgid "Title / Subtitle Behaviour"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:65
+msgid "NOTICE"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:66
+msgid ""
+"If a slider is selected as a background, title/subtitle are set on each slide"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:80
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:149
+#: ../cleanstart/includes/metabox/metabox-post.php:162
+#: ../cleanstart/includes/theme-options.php:859
+#: ../cleanstart/includes/theme-options.php:891
+#: ../cleanstart/includes/theme-options.php:922
+msgid "Title Text // Custom"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:87
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:156
+#: ../cleanstart/includes/metabox/metabox-post.php:169
+#: ../cleanstart/includes/theme-options.php:866
+#: ../cleanstart/includes/theme-options.php:898
+#: ../cleanstart/includes/theme-options.php:929
+msgid "Subtitle Text // Custom"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:93
+#: ../cleanstart/includes/metabox/metabox-page.php:815
+#: ../cleanstart/includes/metabox/metabox-page.php:1261
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:162
+#: ../cleanstart/includes/metabox/metabox-post.php:175
+#: ../cleanstart/includes/metabox/metabox-product.php:114
+#: ../cleanstart/includes/theme-options.php:816
+msgid "Title/Subtitle Text Align"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:115
+#: ../cleanstart/includes/metabox/metabox-page.php:656
+#: ../cleanstart/includes/metabox/metabox-page.php:1102
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:184
+#: ../cleanstart/includes/metabox/metabox-post.php:197
+#: ../cleanstart/includes/metabox/metabox-product.php:136
+#: ../cleanstart/includes/theme-options.php:773
+msgid "Background Type"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:124
+#: ../cleanstart/includes/metabox/metabox-page.php:131
+#: ../cleanstart/includes/metabox/metabox-page.php:664
+#: ../cleanstart/includes/metabox/metabox-page.php:1110
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:193
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:200
+#: ../cleanstart/includes/metabox/metabox-post.php:206
+#: ../cleanstart/includes/metabox/metabox-post.php:213
+#: ../cleanstart/includes/metabox/metabox-product.php:145
+#: ../cleanstart/includes/metabox/metabox-product.php:152
+#: ../cleanstart/includes/theme-options.php:790
+msgid "Panel Height"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:138
+#: ../cleanstart/includes/metabox/metabox-page.php:678
+#: ../cleanstart/includes/metabox/metabox-page.php:1124
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:208
+#: ../cleanstart/includes/metabox/metabox-post.php:221
+#: ../cleanstart/includes/metabox/metabox-product.php:160
+#: ../cleanstart/includes/theme-options.php:778
+msgid "Other Image"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:139
+#: ../cleanstart/includes/metabox/metabox-page.php:679
+#: ../cleanstart/includes/metabox/metabox-page.php:1125
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:209
+#: ../cleanstart/includes/metabox/metabox-post.php:222
+#: ../cleanstart/includes/metabox/metabox-product.php:161
+msgid "Upload an image other than your featured image"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:146
+#: ../cleanstart/includes/metabox/metabox-page.php:696
+#: ../cleanstart/includes/metabox/metabox-page.php:1133
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:217
+#: ../cleanstart/includes/metabox/metabox-post.php:230
+#: ../cleanstart/includes/metabox/metabox-product.php:169
+msgid "Select Slider"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:147
+#: ../cleanstart/includes/metabox/metabox-page.php:697
+#: ../cleanstart/includes/metabox/metabox-page.php:1134
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:218
+#: ../cleanstart/includes/metabox/metabox-post.php:231
+#: ../cleanstart/includes/metabox/metabox-product.php:170
+msgid ""
+"Select a slider to be displayed. You should create one first! Slider "
+"settings will be applied here too!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:157
+#: ../cleanstart/includes/metabox/metabox-page.php:686
+#: ../cleanstart/includes/metabox/metabox-page.php:1145
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:229
+#: ../cleanstart/includes/metabox/metabox-post.php:242
+#: ../cleanstart/includes/metabox/metabox-product.php:181
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:158
+#: ../cleanstart/includes/metabox/metabox-page.php:687
+#: ../cleanstart/includes/metabox/metabox-page.php:1146
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:230
+#: ../cleanstart/includes/metabox/metabox-post.php:243
+#: ../cleanstart/includes/metabox/metabox-product.php:182
+msgid ""
+"Select a Revolution slider to be displayed ( must have Revolution Slider "
+"plugin installed, not included with theme )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:169
+#: ../cleanstart/includes/metabox/metabox-page.php:712
+#: ../cleanstart/includes/metabox/metabox-page.php:1158
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:242
+#: ../cleanstart/includes/metabox/metabox-post.php:255
+#: ../cleanstart/includes/metabox/metabox-product.php:194
+#: ../cleanstart/includes/theme-options.php:780
+msgid "Local video"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:170
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:243
+#: ../cleanstart/includes/metabox/metabox-post.php:256
+#: ../cleanstart/includes/metabox/metabox-product.php:195
+msgid "Upload a video file ( supported formats: FLV | MP4 | WEBM )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:178
+#: ../cleanstart/includes/metabox/metabox-page.php:722
+#: ../cleanstart/includes/metabox/metabox-page.php:1168
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:252
+#: ../cleanstart/includes/metabox/metabox-post.php:265
+#: ../cleanstart/includes/metabox/metabox-product.php:204
+msgid "Video cover image"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:179
+#: ../cleanstart/includes/metabox/metabox-page.php:723
+#: ../cleanstart/includes/metabox/metabox-page.php:1169
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:253
+#: ../cleanstart/includes/metabox/metabox-post.php:266
+#: ../cleanstart/includes/metabox/metabox-product.php:205
+msgid ""
+"Set a cover image for this video. It MUST have a 16x9 proportion to display "
+"properly "
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:185
+#: ../cleanstart/includes/metabox/metabox-page.php:730
+#: ../cleanstart/includes/metabox/metabox-page.php:1176
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:260
+#: ../cleanstart/includes/metabox/metabox-post.php:273
+#: ../cleanstart/includes/metabox/metabox-product.php:212
+msgid "Video controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:186
+#: ../cleanstart/includes/metabox/metabox-page.php:731
+#: ../cleanstart/includes/metabox/metabox-page.php:1177
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:261
+#: ../cleanstart/includes/metabox/metabox-post.php:274
+#: ../cleanstart/includes/metabox/metabox-product.php:213
+msgid "Click 'Off' if you want to hide video controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:194
+#: ../cleanstart/includes/metabox/metabox-page.php:739
+#: ../cleanstart/includes/metabox/metabox-page.php:1185
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:270
+#: ../cleanstart/includes/metabox/metabox-post.php:283
+#: ../cleanstart/includes/metabox/metabox-product.php:222
+msgid "Video sound"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:195
+#: ../cleanstart/includes/metabox/metabox-page.php:740
+#: ../cleanstart/includes/metabox/metabox-page.php:1186
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:271
+#: ../cleanstart/includes/metabox/metabox-post.php:284
+#: ../cleanstart/includes/metabox/metabox-product.php:223
+msgid "Click 'Off' if you want this video to be silent"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:203
+#: ../cleanstart/includes/metabox/metabox-page.php:748
+#: ../cleanstart/includes/metabox/metabox-page.php:1194
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:280
+#: ../cleanstart/includes/metabox/metabox-post.php:293
+#: ../cleanstart/includes/metabox/metabox-product.php:232
+msgid "Video autoplay"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:204
+#: ../cleanstart/includes/metabox/metabox-page.php:749
+#: ../cleanstart/includes/metabox/metabox-page.php:1195
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:281
+#: ../cleanstart/includes/metabox/metabox-post.php:294
+#: ../cleanstart/includes/metabox/metabox-product.php:233
+msgid "Click 'On' if you want this video to start automatically"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:212
+#: ../cleanstart/includes/metabox/metabox-page.php:757
+#: ../cleanstart/includes/metabox/metabox-page.php:1203
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:290
+#: ../cleanstart/includes/metabox/metabox-post.php:303
+#: ../cleanstart/includes/metabox/metabox-product.php:242
+msgid "Video loop"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:213
+#: ../cleanstart/includes/metabox/metabox-page.php:758
+#: ../cleanstart/includes/metabox/metabox-page.php:1204
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:291
+#: ../cleanstart/includes/metabox/metabox-post.php:304
+#: ../cleanstart/includes/metabox/metabox-product.php:243
+msgid "Click 'On' if you want this video to loop"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:222
+#: ../cleanstart/includes/metabox/metabox-page.php:766
+#: ../cleanstart/includes/metabox/metabox-page.php:1212
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:302
+#: ../cleanstart/includes/metabox/metabox-post.php:315
+#: ../cleanstart/includes/metabox/metabox-product.php:254
+msgid "Map Latitude"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:223
+#: ../cleanstart/includes/metabox/metabox-page.php:230
+#: ../cleanstart/includes/metabox/metabox-page.php:767
+#: ../cleanstart/includes/metabox/metabox-page.php:774
+#: ../cleanstart/includes/metabox/metabox-page.php:1213
+#: ../cleanstart/includes/metabox/metabox-page.php:1220
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:303
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:310
+#: ../cleanstart/includes/metabox/metabox-post.php:316
+#: ../cleanstart/includes/metabox/metabox-post.php:323
+#: ../cleanstart/includes/metabox/metabox-product.php:255
+#: ../cleanstart/includes/metabox/metabox-product.php:262
+msgid "Example:"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:229
+#: ../cleanstart/includes/metabox/metabox-page.php:773
+#: ../cleanstart/includes/metabox/metabox-page.php:1219
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:309
+#: ../cleanstart/includes/metabox/metabox-post.php:322
+#: ../cleanstart/includes/metabox/metabox-product.php:261
+msgid "Map Longtitude"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:237
+#: ../cleanstart/includes/metabox/metabox-page.php:780
+#: ../cleanstart/includes/metabox/metabox-page.php:1226
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:317
+#: ../cleanstart/includes/metabox/metabox-post.php:330
+#: ../cleanstart/includes/metabox/metabox-product.php:269
+msgid "Map Type"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:245
+#: ../cleanstart/includes/metabox/metabox-page.php:246
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:325
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:326
+#: ../cleanstart/includes/metabox/metabox-post.php:338
+#: ../cleanstart/includes/metabox/metabox-post.php:339
+#: ../cleanstart/includes/metabox/metabox-product.php:277
+#: ../cleanstart/includes/metabox/metabox-product.php:278
+msgid "Show Map Type Switcher"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:254
+#: ../cleanstart/includes/metabox/metabox-page.php:267
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:334
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:347
+#: ../cleanstart/includes/metabox/metabox-post.php:347
+#: ../cleanstart/includes/metabox/metabox-post.php:360
+#: ../cleanstart/includes/metabox/metabox-product.php:286
+#: ../cleanstart/includes/metabox/metabox-product.php:299
+msgid "Select MapType Switcher Style"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:255
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:335
+#: ../cleanstart/includes/metabox/metabox-post.php:348
+#: ../cleanstart/includes/metabox/metabox-product.php:287
+msgid "Select the display style of the MapType Switcher button"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:268
+msgid ""
+"Select the <a href=\"https://developers.google.com/maps/documentation/"
+"javascript/images/control-positions.png\" target=\"_blank\">position</a> of "
+"the MapType Switcher button."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:286
+#: ../cleanstart/includes/metabox/metabox-page.php:788
+#: ../cleanstart/includes/metabox/metabox-page.php:1234
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:366
+#: ../cleanstart/includes/metabox/metabox-post.php:379
+#: ../cleanstart/includes/metabox/metabox-product.php:318
+msgid "Map Zoom"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:296
+#: ../cleanstart/includes/metabox/metabox-page.php:297
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:376
+#: ../cleanstart/includes/metabox/metabox-post.php:389
+#: ../cleanstart/includes/metabox/metabox-post.php:390
+#: ../cleanstart/includes/metabox/metabox-product.php:328
+#: ../cleanstart/includes/metabox/metabox-product.php:329
+msgid "Show Map Zoom Controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:305
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:385
+#: ../cleanstart/includes/metabox/metabox-post.php:398
+#: ../cleanstart/includes/metabox/metabox-product.php:337
+msgid "Set Zoom Controls Style"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:306
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:386
+#: ../cleanstart/includes/metabox/metabox-post.php:399
+#: ../cleanstart/includes/metabox/metabox-product.php:338
+msgid "Select the style of the Zoom Controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:318
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:398
+#: ../cleanstart/includes/metabox/metabox-post.php:411
+#: ../cleanstart/includes/metabox/metabox-product.php:350
+msgid "Set Zoom Controls Position"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:319
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:399
+#: ../cleanstart/includes/metabox/metabox-post.php:412
+#: ../cleanstart/includes/metabox/metabox-product.php:351
+msgid ""
+"Select the <a href=\"https://developers.google.com/maps/documentation/"
+"javascript/images/control-positions.png\" target=\"_blank\">position</a> of "
+"the Zoom Controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:337
+#: ../cleanstart/includes/metabox/metabox-page.php:338
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:417
+#: ../cleanstart/includes/metabox/metabox-post.php:430
+#: ../cleanstart/includes/metabox/metabox-product.php:369
+msgid "Show Map Pan Controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:346
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:426
+#: ../cleanstart/includes/metabox/metabox-post.php:439
+#: ../cleanstart/includes/metabox/metabox-product.php:378
+msgid "Set Pan Controls Position"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:347
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:427
+#: ../cleanstart/includes/metabox/metabox-post.php:440
+#: ../cleanstart/includes/metabox/metabox-product.php:379
+msgid ""
+"Select the <a href=\"https://developers.google.com/maps/documentation/"
+"javascript/images/control-positions.png\" target=\"_blank\">position</a> of "
+"the Pan Controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:364
+#: ../cleanstart/includes/metabox/metabox-page.php:798
+#: ../cleanstart/includes/metabox/metabox-page.php:1244
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:444
+#: ../cleanstart/includes/metabox/metabox-post.php:457
+#: ../cleanstart/includes/metabox/metabox-product.php:396
+msgid "Map Mark"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:365
+#: ../cleanstart/includes/metabox/metabox-page.php:799
+#: ../cleanstart/includes/metabox/metabox-page.php:1245
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:445
+#: ../cleanstart/includes/metabox/metabox-post.php:458
+#: ../cleanstart/includes/metabox/metabox-product.php:397
+msgid "Show a mark over the given location"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:373
+#: ../cleanstart/includes/metabox/metabox-page.php:807
+#: ../cleanstart/includes/metabox/metabox-page.php:1253
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:453
+#: ../cleanstart/includes/metabox/metabox-post.php:466
+#: ../cleanstart/includes/metabox/metabox-product.php:405
+msgid "Show controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:374
+#: ../cleanstart/includes/metabox/metabox-page.php:808
+#: ../cleanstart/includes/metabox/metabox-page.php:1254
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:454
+#: ../cleanstart/includes/metabox/metabox-post.php:467
+#: ../cleanstart/includes/metabox/metabox-product.php:406
+msgid "Show pan and zoom controls"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:382
+#: ../cleanstart/includes/metabox/metabox-page.php:383
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:462
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:463
+#: ../cleanstart/includes/metabox/metabox-post.php:476
+#: ../cleanstart/includes/metabox/metabox-post.php:477
+#: ../cleanstart/includes/metabox/metabox-product.php:414
+#: ../cleanstart/includes/metabox/metabox-product.php:415
+msgid "Change Marker Message"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:391
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:471
+#: ../cleanstart/includes/metabox/metabox-post.php:485
+#: ../cleanstart/includes/metabox/metabox-product.php:423
+msgid "Custom Marker Icon"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:392
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:472
+#: ../cleanstart/includes/metabox/metabox-post.php:486
+#: ../cleanstart/includes/metabox/metabox-product.php:424
+msgid "Upload an image to use as your map marker"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:397
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:477
+#: ../cleanstart/includes/metabox/metabox-post.php:491
+#: ../cleanstart/includes/metabox/metabox-product.php:429
+msgid " InfoWindow"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:398
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:478
+#: ../cleanstart/includes/metabox/metabox-post.php:492
+#: ../cleanstart/includes/metabox/metabox-product.php:430
+msgid "Display Info Window on Marker click "
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:399
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:479
+#: ../cleanstart/includes/metabox/metabox-post.php:493
+#: ../cleanstart/includes/metabox/metabox-product.php:431
+msgid "Some HTML is allowed."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:406
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:486
+#: ../cleanstart/includes/metabox/metabox-post.php:500
+#: ../cleanstart/includes/metabox/metabox-product.php:438
+msgid "Anchor X Coordinate"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:408
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:488
+#: ../cleanstart/includes/metabox/metabox-post.php:502
+#: ../cleanstart/includes/metabox/metabox-product.php:440
+msgid "Set your custom marker's anchor X point"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:409
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:489
+#: ../cleanstart/includes/metabox/metabox-post.php:503
+#: ../cleanstart/includes/metabox/metabox-product.php:441
+msgid "Set the X point."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:418
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:498
+#: ../cleanstart/includes/metabox/metabox-post.php:512
+#: ../cleanstart/includes/metabox/metabox-product.php:450
+msgid "Anchor Y Coordinate"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:420
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:500
+#: ../cleanstart/includes/metabox/metabox-post.php:514
+#: ../cleanstart/includes/metabox/metabox-product.php:452
+msgid "Set your custom marker's anchor Y point"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:421
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:501
+#: ../cleanstart/includes/metabox/metabox-post.php:515
+#: ../cleanstart/includes/metabox/metabox-product.php:453
+msgid "Set the Y point."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:432
+#: ../cleanstart/includes/metabox/metabox-page.php:433
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:512
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:513
+#: ../cleanstart/includes/metabox/metabox-post.php:526
+#: ../cleanstart/includes/metabox/metabox-post.php:527
+#: ../cleanstart/includes/metabox/metabox-product.php:464
+#: ../cleanstart/includes/metabox/metabox-product.php:465
+msgid "Enable StreetView"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:441
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:521
+#: ../cleanstart/includes/metabox/metabox-post.php:535
+#: ../cleanstart/includes/metabox/metabox-product.php:473
+msgid "Set StreetView Icon Position"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:442
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:522
+#: ../cleanstart/includes/metabox/metabox-post.php:536
+#: ../cleanstart/includes/metabox/metabox-product.php:474
+msgid ""
+"Select the <a href=\"https://developers.google.com/maps/documentation/"
+"javascript/images/control-positions.png\" target=\"_blank\">position</a> of "
+"the StreetView Icon"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:460
+#: ../cleanstart/includes/metabox/metabox-page.php:461
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:540
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:541
+#: ../cleanstart/includes/metabox/metabox-post.php:554
+#: ../cleanstart/includes/metabox/metabox-post.php:555
+#: ../cleanstart/includes/metabox/metabox-product.php:492
+#: ../cleanstart/includes/metabox/metabox-product.php:493
+msgid "Show Map Scale"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:469
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:550
+#: ../cleanstart/includes/metabox/metabox-post.php:564
+#: ../cleanstart/includes/metabox/metabox-product.php:502
+msgid "Other Elements"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:476
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:559
+#: ../cleanstart/includes/metabox/metabox-post.php:573
+#: ../cleanstart/includes/theme-options.php:534
+msgid "Header layout"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:483
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:566
+#: ../cleanstart/includes/metabox/metabox-post.php:580
+msgid "Twitter feed display"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:484
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:567
+#: ../cleanstart/includes/metabox/metabox-post.php:581
+#: ../cleanstart/includes/theme-options.php:1560
+msgid "For further Twitter feed options, please check"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:484
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:567
+#: ../cleanstart/includes/metabox/metabox-post.php:581
+#: ../cleanstart/includes/theme-options.php:1560
+msgid "Theme Settings > Social & APIs tab"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:496
+msgid "One Page Scrolling"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:497
+msgid "Enables smooth page scrolling for one-pager implementations"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:507
+msgid "One Page Scrolling Speed"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:520
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:578
+#: ../cleanstart/includes/metabox/metabox-post.php:592
+msgid "Header Side Corners"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:529
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:589
+#: ../cleanstart/includes/metabox/metabox-post.php:603
+msgid "Footer Side Corners"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:538
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:599
+#: ../cleanstart/includes/metabox/metabox-post.php:613
+#: ../cleanstart/includes/metabox/metabox-product.php:510
+#: ../cleanstart/includes/theme-options.php:675
+msgid "Top toolbar"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:546
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:610
+#: ../cleanstart/includes/metabox/metabox-post.php:623
+#: ../cleanstart/includes/metabox/metabox-product.php:518
+#: ../cleanstart/includes/theme-options.php:685
+msgid "Top toolbar layout"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:557
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:623
+#: ../cleanstart/includes/metabox/metabox-post.php:635
+#: ../cleanstart/includes/metabox/metabox-product.php:529
+#: ../cleanstart/includes/theme-options.php:698
+msgid "Top toolbar custom text"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:558
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:625
+#: ../cleanstart/includes/metabox/metabox-post.php:636
+#: ../cleanstart/includes/metabox/metabox-product.php:530
+#: ../cleanstart/includes/theme-options.php:700
+#: ../cleanstart/includes/theme-options.php:1537
+#: ../cleanstart/includes/theme-options.php:1545
+msgid "HTML tags allowed"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:574
+msgid "Blog Listings Display"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:581
+#: ../cleanstart/includes/metabox/metabox-post.php:117
+msgid "Content/Excerpt Display"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:582
+#: ../cleanstart/includes/metabox/metabox-post.php:118
+msgid ""
+"Displaying content will allow you to display posts containing the WP editor "
+"\"More\" tag."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:585
+#: ../cleanstart/includes/metabox/metabox-post.php:121
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:586
+#: ../cleanstart/includes/metabox/metabox-post.php:122
+msgid "Display Content"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:592
+#: ../cleanstart/includes/metabox/metabox-post.php:129
+msgid "Show \"Read More\" Button"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:599
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:165
+msgid "Button Text"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:600
+#: ../cleanstart/includes/partials/content-audio.php:15
+#: ../cleanstart/includes/partials/content-video.php:15
+#: ../cleanstart/includes/partials/content.php:15
+msgid "Read More"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:605
+#: ../cleanstart/includes/metabox/metabox-page.php:611
+msgid "No Posts"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:605
+#: ../cleanstart/includes/module/module-woocommerce.php:665
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:122
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:154
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:88
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:220
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:111
+#: ../cleanstart/includes/theme-options.php:580
+#: ../cleanstart/includes/widget/widget-aboutus.php:163
+msgid "Title"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:606
+msgid "No posts where found!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:611
+#: ../cleanstart/includes/widget/widget-aboutus.php:168
+msgid "Description"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:612
+msgid "Unfortunately, no posts were found! Please try again soon!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:617
+#: ../cleanstart/includes/metabox/metabox-post.php:68
+#: ../cleanstart/includes/theme-options.php:1176
+msgid "Show Categories Info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:623
+msgid "Show Tag Info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:629
+#: ../cleanstart/includes/metabox/metabox-post.php:82
+#: ../cleanstart/includes/theme-options.php:1188
+msgid "Show Author Info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:635
+#: ../cleanstart/includes/metabox/metabox-post.php:89
+#: ../cleanstart/includes/theme-options.php:1194
+msgid "Show Date Info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:641
+#: ../cleanstart/includes/metabox/metabox-post.php:95
+#: ../cleanstart/includes/theme-options.php:1200
+msgid "Show Comments Count Info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:671
+#: ../cleanstart/includes/metabox/metabox-page.php:1117
+#: ../cleanstart/includes/theme-options.php:799
+msgid "Panel Height / Skin Color"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:713
+#: ../cleanstart/includes/metabox/metabox-page.php:1159
+msgid "Upload a video file ( supported formats: FLV | MP4 )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:836
+#: ../cleanstart/includes/metabox/metabox-page.php:1282
+#: ../cleanstart/includes/theme-options.php:941
+msgid "Title Text"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:841
+#: ../cleanstart/includes/metabox/metabox-page.php:1288
+#: ../cleanstart/includes/theme-options.php:947
+msgid "Subtitle Text"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:846
+#: ../cleanstart/includes/theme-options.php:954
+msgid "Title Text Prefix // Category"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:847
+#: ../cleanstart/includes/theme-options.php:955
+msgid ""
+"Will be displayed on the <strong>head panel title</strong>, right before the "
+"selected category name"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:852
+#: ../cleanstart/includes/theme-options.php:961
+msgid "Subtitle Text Source // Category"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:853
+#: ../cleanstart/includes/theme-options.php:962
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when a category is "
+"selected.<br/><small>Descriptions for each category can be set on <a href=\""
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:865
+#: ../cleanstart/includes/theme-options.php:975
+msgid "Custom Subtitle // Category"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:866
+#: ../cleanstart/includes/theme-options.php:976
+msgid "Will be displayed when any <strong>category</strong> is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:871
+#: ../cleanstart/includes/theme-options.php:982
+msgid "Title Text Prefix // Tag"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:872
+#: ../cleanstart/includes/theme-options.php:983
+msgid "Will be displayed right before the selected <strong>tag</strong> name"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:877
+#: ../cleanstart/includes/theme-options.php:989
+msgid "Subtitle Text Source // Tag"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:878
+#: ../cleanstart/includes/theme-options.php:990
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when a <strong>tag</"
+"strong> is selected.<br/><small>Descriptions for each tag can be set on <a "
+"href=\""
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:890
+#: ../cleanstart/includes/theme-options.php:1003
+msgid "Custom Subtitle // Tag"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:891
+#: ../cleanstart/includes/theme-options.php:1004
+msgid "Will be displayed  when a <strong>tag</strong> is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:896
+#: ../cleanstart/includes/theme-options.php:1010
+msgid "Title Prefix // Date"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:897
+#: ../cleanstart/includes/theme-options.php:1011
+msgid ""
+"This text will be displayed on the <strong>head panel title</strong>, right "
+"before the selected <strong>date range</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:902
+#: ../cleanstart/includes/theme-options.php:1017
+msgid "Subtitle Text // Date"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:903
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when a <strong>date "
+"range</strong> is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:914
+#: ../cleanstart/includes/theme-options.php:1030
+msgid "Custom Subtitle Text // Date"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:915
+#: ../cleanstart/includes/theme-options.php:1031
+msgid "Will be displayed when a <strong>date range</strong> is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:920
+#: ../cleanstart/includes/theme-options.php:1037
+msgid "Title Text Prefix // Author"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:921
+#: ../cleanstart/includes/theme-options.php:1038
+msgid "Will be displayed right before the <strong>author's name</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:926
+#: ../cleanstart/includes/theme-options.php:1044
+msgid "Subtitle Text // Author"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:927
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when an "
+"<strong>author</strong> is selected.<br/><small>Biographical info for each "
+"user can be set on <a href=\""
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:939
+#: ../cleanstart/includes/theme-options.php:1058
+msgid "Custom Subtitle Text // Author"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:940
+#: ../cleanstart/includes/theme-options.php:1059
+msgid "Will be displayed when an <strong>author</strong> is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:945
+#: ../cleanstart/includes/theme-options.php:1065
+msgid "Title Text Prefix // Search"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:946
+#: ../cleanstart/includes/theme-options.php:1066
+msgid "Will be displayed right before the user <strong>search term</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:951
+#: ../cleanstart/includes/theme-options.php:1072
+msgid "Subtitle Text // Search"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:952
+#: ../cleanstart/includes/theme-options.php:1073
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when a "
+"<strong>search</strong> is done"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:963
+#: ../cleanstart/includes/theme-options.php:1085
+msgid "Custom Subtitle Text // Search"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:964
+#: ../cleanstart/includes/theme-options.php:1086
+msgid "Will be displayed when a <strong>search</strong> is done"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:970
+msgid "Catalog Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:971
+msgid ""
+"Notice: these options affect only the shop catalog view. Click here for "
+"default single product view options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:979
+msgid "Products Displayed Per Page"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:989
+msgid "Products Grid Columns"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:999
+msgid "Catalog Page Title"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1000
+#: ../cleanstart/includes/metabox/metabox-page.php:1012
+msgid ""
+"By default, category description ( if exists ) is displayed right after shop "
+"title."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1003
+#: ../cleanstart/includes/metabox/metabox-page.php:1015
+#: ../cleanstart/includes/metabox/metabox-page.php:1026
+#: ../cleanstart/includes/metabox/metabox-page.php:1036
+#: ../cleanstart/includes/metabox/metabox-page.php:1046
+#: ../cleanstart/includes/metabox/metabox-page.php:1056
+#: ../cleanstart/includes/metabox/metabox-page.php:1066
+#: ../cleanstart/includes/metabox/metabox-page.php:1076
+#: ../cleanstart/includes/metabox/metabox-page.php:1086
+#: ../cleanstart/includes/metabox/metabox-product.php:40
+#: ../cleanstart/includes/metabox/metabox-product.php:50
+#: ../cleanstart/includes/metabox/metabox-product.php:60
+#: ../cleanstart/includes/metabox/metabox-product.php:70
+#: ../cleanstart/includes/module/module-woocommerce.php:1104
+#: ../cleanstart/includes/module/module-woocommerce.php:1115
+#: ../cleanstart/includes/module/module-woocommerce.php:1125
+#: ../cleanstart/includes/module/module-woocommerce.php:1135
+#: ../cleanstart/includes/module/module-woocommerce.php:1145
+#: ../cleanstart/includes/module/module-woocommerce.php:1155
+#: ../cleanstart/includes/module/module-woocommerce.php:1165
+#: ../cleanstart/includes/module/module-woocommerce.php:1175
+#: ../cleanstart/includes/module/module-woocommerce.php:1185
+#: ../cleanstart/includes/module/module-woocommerce.php:1196
+#: ../cleanstart/includes/module/module-woocommerce.php:1206
+#: ../cleanstart/includes/module/module-woocommerce.php:1216
+#: ../cleanstart/includes/theme-options.php:552
+#: ../cleanstart/includes/theme-options.php:678
+#: ../cleanstart/includes/theme-options.php:711
+#: ../cleanstart/includes/theme-options.php:1146
+#: ../cleanstart/includes/theme-options.php:1157
+#: ../cleanstart/includes/theme-options.php:1244
+#: ../cleanstart/includes/theme-options.php:1279
+#: ../cleanstart/includes/theme-options.php:1310
+#: ../cleanstart/includes/theme-options.php:1339
+#: ../cleanstart/includes/theme-options.php:1438
+#: ../cleanstart/includes/theme-options.php:1470
+#: ../cleanstart/includes/theme-options.php:1515
+#: ../cleanstart/includes/theme-options.php:1563
+msgid "Display"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1004
+#: ../cleanstart/includes/metabox/metabox-page.php:1016
+#: ../cleanstart/includes/metabox/metabox-page.php:1027
+#: ../cleanstart/includes/metabox/metabox-page.php:1037
+#: ../cleanstart/includes/metabox/metabox-page.php:1047
+#: ../cleanstart/includes/metabox/metabox-page.php:1057
+#: ../cleanstart/includes/metabox/metabox-page.php:1067
+#: ../cleanstart/includes/metabox/metabox-page.php:1077
+#: ../cleanstart/includes/metabox/metabox-page.php:1087
+#: ../cleanstart/includes/metabox/metabox-product.php:41
+#: ../cleanstart/includes/metabox/metabox-product.php:51
+#: ../cleanstart/includes/metabox/metabox-product.php:61
+#: ../cleanstart/includes/metabox/metabox-product.php:71
+#: ../cleanstart/includes/module/module-woocommerce.php:1105
+#: ../cleanstart/includes/module/module-woocommerce.php:1116
+#: ../cleanstart/includes/module/module-woocommerce.php:1126
+#: ../cleanstart/includes/module/module-woocommerce.php:1136
+#: ../cleanstart/includes/module/module-woocommerce.php:1146
+#: ../cleanstart/includes/module/module-woocommerce.php:1156
+#: ../cleanstart/includes/module/module-woocommerce.php:1166
+#: ../cleanstart/includes/module/module-woocommerce.php:1176
+#: ../cleanstart/includes/module/module-woocommerce.php:1186
+#: ../cleanstart/includes/module/module-woocommerce.php:1197
+#: ../cleanstart/includes/module/module-woocommerce.php:1207
+#: ../cleanstart/includes/module/module-woocommerce.php:1217
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:143
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:143
+#: ../cleanstart/includes/theme-options.php:553
+#: ../cleanstart/includes/theme-options.php:679
+#: ../cleanstart/includes/theme-options.php:712
+#: ../cleanstart/includes/theme-options.php:1147
+#: ../cleanstart/includes/theme-options.php:1158
+#: ../cleanstart/includes/theme-options.php:1245
+#: ../cleanstart/includes/theme-options.php:1280
+#: ../cleanstart/includes/theme-options.php:1311
+#: ../cleanstart/includes/theme-options.php:1340
+#: ../cleanstart/includes/theme-options.php:1439
+#: ../cleanstart/includes/theme-options.php:1471
+#: ../cleanstart/includes/theme-options.php:1516
+#: ../cleanstart/includes/theme-options.php:1564
+msgid "Hide"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1011
+msgid "Category Description"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1023
+msgid "Breadcrumbs ( Catalog View )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1033
+msgid "Results Count Info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1043
+msgid "Order Dropdown Field"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1053
+msgid "Ratings ( Catalog View )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1063
+msgid "Prices ( Catalog View )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1073
+msgid "\"Add To Cart\" Button ( Catalog View )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1083
+msgid "\"Sale!\" Icon ( Catalog View )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1094
+msgid "Notice: these options affect only the shop catalog head panel."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1283
+msgid "This is the default catalog title"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1289
+msgid "This is the default catalog subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1294
+msgid "Title Text Prefix // Shopping Category"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1295
+msgid ""
+"Will be displayed on the <strong>head panel title</strong>, right before the "
+"selected shopping category name"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1296
+msgid "Shopping Category: "
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1301
+msgid "Subtitle Text Source // Shopping Category"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1302
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when a shopping "
+"category is selected.<br/><small>Descriptions for each shopping category can "
+"be set on <a href=\""
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1305
+#: ../cleanstart/includes/metabox/metabox-page.php:1333
+#: ../cleanstart/includes/metabox/metabox-page.php:1361
+#: ../cleanstart/includes/theme-options.php:965
+#: ../cleanstart/includes/theme-options.php:993
+#: ../cleanstart/includes/theme-options.php:1021
+#: ../cleanstart/includes/theme-options.php:1048
+#: ../cleanstart/includes/theme-options.php:1076
+msgid "No Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1306
+#: ../cleanstart/includes/metabox/metabox-page.php:1334
+#: ../cleanstart/includes/metabox/metabox-page.php:1362
+msgid "Use Catalog Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1307
+msgid "Use Selected Shopping Category Description"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1308
+#: ../cleanstart/includes/metabox/metabox-page.php:1336
+#: ../cleanstart/includes/metabox/metabox-page.php:1363
+#: ../cleanstart/includes/theme-options.php:968
+#: ../cleanstart/includes/theme-options.php:996
+#: ../cleanstart/includes/theme-options.php:1023
+#: ../cleanstart/includes/theme-options.php:1051
+#: ../cleanstart/includes/theme-options.php:1078
+msgid "Use Custom Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1315
+msgid "Custom Subtitle // Shopping Category"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1316
+msgid ""
+"Will be displayed when any <strong>shopping category</strong> is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1317
+msgid ""
+"This is the custom head panel subtitle text, displayed when any shopping "
+"category is selected."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1322
+msgid "Title Text Prefix // Shopping Tag"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1323
+msgid ""
+"Will be displayed right before the selected <strong>shopping tag</strong> "
+"name"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1329
+msgid "Subtitle Text Source // Shopping Tag"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1330
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when a "
+"<strong>shopping tag</strong> is selected.<br/><small>Descriptions for each "
+"tag can be set on <a href=\""
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1335
+msgid "Use Selected Shopping Tag Description"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1343
+msgid "Custom Subtitle // Shopping Tag"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1344
+msgid "Will be displayed  when a <strong>shopping tag</strong> is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1345
+msgid ""
+"This is the custom head panel subtitle text, displayed when a shopping tag "
+"is selected"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1350
+msgid "Title Text Prefix // Product Search"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1351
+msgid ""
+"Will be displayed right before the user <strong>product search term</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1352
+msgid "Product search: "
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1357
+msgid "Subtitle Text // Product Search"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1358
+msgid ""
+"Select the <strong>head panel subtitle</strong> behavior when a "
+"<strong>product search</strong> is done"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1370
+msgid "Custom Subtitle Text // Product Search"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1371
+msgid "Will be displayed when a <strong>product search</strong> is done"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1372
+msgid ""
+"This is the custom header subtitle text, displayed when when a "
+"<strong>product search</strong> is done"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1393
+msgid "Blog Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1413
+msgid "Products Catalog Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1429
+msgid "Page Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1494
+msgid "This is important!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1495
+msgid ""
+"This is the static <strong>Posts page</strong>, or let's simply say that "
+"this is your blog page!. Here are all the blog settings you need!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1496
+msgid ""
+"However, if you plan to change your static Posts page frequently (!), we "
+"advise you to set up first the default blog settings on: "
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1497
+msgid "Theme Settings > Blog"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1497
+msgid "Theme Settings > Head Panel > Blog Pages"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1498
+msgid ""
+"By doing so, every time you change your static Posts page, most of your "
+"settings will follow!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-page.php:1499
+msgid "Hide This GIANT Notice Please!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:29
+msgid "Personal info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:38
+msgid "Job position"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:39
+msgid "Give a short job description"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:47
+msgid "About note"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:48
+msgid "A few words about this person"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:49
+msgid "HTML can be used"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:57
+msgid "Main photo"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:58
+msgid "Upload a photo of this person"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:65
+msgid "Hover photo"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:66
+msgid "Upload an alternative photo for the image hover effect."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:75
+msgid "Contact & Social"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:83
+msgid "E-mail"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:84
+msgid "Enter a mail account or leave empty"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:92
+#: ../cleanstart/includes/widget/widget-aboutus.php:183
+msgid "Skype"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:93
+msgid "Enter Skype name or leave empty"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:101
+#: ../cleanstart/includes/widget/widget-aboutus.php:188
+msgid "Facebook"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:102
+#: ../cleanstart/includes/metabox/metabox-person.php:111
+#: ../cleanstart/includes/metabox/metabox-person.php:120
+#: ../cleanstart/includes/metabox/metabox-person.php:129
+#: ../cleanstart/includes/metabox/metabox-person.php:138
+#: ../cleanstart/includes/metabox/metabox-person.php:147
+#: ../cleanstart/includes/metabox/metabox-person.php:157
+#: ../cleanstart/includes/metabox/metabox-person.php:166
+#: ../cleanstart/includes/metabox/metabox-person.php:175
+#: ../cleanstart/includes/metabox/metabox-person.php:184
+#: ../cleanstart/includes/metabox/metabox-person.php:193
+msgid "Enter profile link or leave empty"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:110
+#: ../cleanstart/includes/widget/widget-aboutus.php:193
+msgid "Twitter"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:119
+#: ../cleanstart/includes/widget/widget-aboutus.php:213
+msgid "Google+"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:128
+#: ../cleanstart/includes/widget/widget-aboutus.php:203
+msgid "LinkedIn"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:137
+#: ../cleanstart/includes/widget/widget-aboutus.php:198
+msgid "YouTube"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:146
+msgid "Vimeo"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:156
+#: ../cleanstart/includes/widget/widget-aboutus.php:208
+msgid "Pinterest"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:165
+#: ../cleanstart/includes/widget/widget-aboutus.php:218
+msgid "Tumblr"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:174
+#: ../cleanstart/includes/widget/widget-aboutus.php:228
+msgid "Flickr"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:183
+msgid "Dribble"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:192
+#: ../cleanstart/includes/widget/widget-aboutus.php:223
+msgid "Instagram"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-person.php:204
+msgid "Person Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:29
+msgid "Empty fields will not be displayed."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:29
+msgid " to edit default values."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:40
+#: ../cleanstart/includes/metabox/metabox-post.php:46
+#: ../cleanstart/includes/theme-options.php:1276
+msgid ""
+"Might want to hide this if you have chosen to display the title on head panel"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:51
+#: ../cleanstart/includes/theme-options.php:1287
+msgid "Show Info Fields Box"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:61
+msgid "Info Fields"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:62
+msgid ""
+"Place anything here, but we would advise you to keep the default HTML "
+"structure!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:69
+#: ../cleanstart/includes/partials/layout-singleportfolio.php:230
+#: ../cleanstart/includes/partials/layout-singleportfolio.php:240
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:170
+msgid "Rating"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:81
+msgid "Link button title"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:88
+msgid "Link button url"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:94
+#: ../cleanstart/includes/theme-options.php:1307
+msgid "Navigation Buttons"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:104
+#: ../cleanstart/includes/theme-options.php:1336
+msgid "Related Portfolio Items"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:115
+#: ../cleanstart/includes/theme-options.php:1349
+msgid "Max: 18 items"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:116
+#: ../cleanstart/includes/theme-options.php:1348
+msgid "Related Portfolio Items Results"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:137
+#: ../cleanstart/includes/metabox/metabox-post.php:149
+msgid ""
+"Notice: if a slider is selected as a background, title/subtitle are set on "
+"each slide"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:348
+#: ../cleanstart/includes/metabox/metabox-post.php:361
+#: ../cleanstart/includes/metabox/metabox-product.php:300
+msgid ""
+"Select the position of the MapType Switcher button. <a href=\"https://"
+"developers.google.com/maps/documentation/javascript/images/control-positions."
+"png\" target=\"_blank\"></a>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:377
+msgid "Show Map Zoom Controlsr"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:418
+#: ../cleanstart/includes/metabox/metabox-post.php:431
+#: ../cleanstart/includes/metabox/metabox-product.php:370
+msgid "Show Map Pan Controlsr"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:600
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:611
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:624
+#: ../cleanstart/includes/theme-options.php:535
+#: ../cleanstart/includes/theme-options.php:549
+#: ../cleanstart/includes/theme-options.php:676
+#: ../cleanstart/includes/theme-options.php:686
+#: ../cleanstart/includes/theme-options.php:699
+#: ../cleanstart/includes/theme-options.php:708
+#: ../cleanstart/includes/theme-options.php:1467
+#: ../cleanstart/includes/theme-options.php:1559
+msgid "Can be overriden on page/post settings"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfolio.php:646
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:37
+msgid "Media format"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:48
+msgid "Gallery"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:49
+msgid "Add as many images as you need for the presentation."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:49
+msgid "Description and URL fields will not be displayed on the frontend"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:51
+msgid "This title will be displayed on image gallery."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:52
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:53
+msgid "This will not be used on the front end!"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-portfoliogallery.php:64
+msgid "Featured Gallery"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:29
+#: ../cleanstart/includes/metabox/metabox-product.php:29
+msgid " to change default values.<br>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:38
+msgid "Single Post View"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:45
+#: ../cleanstart/includes/theme-options.php:1240
+msgid "Display Title"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:57
+msgid "Display Featured Media"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:58
+msgid ""
+"Might want to hide this if you have chosen to display media on head panel"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:75
+#: ../cleanstart/includes/theme-options.php:1182
+msgid "Show Tags Info"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:100
+msgid "Listing View"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:105
+msgid "Featured Media Display"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:106
+#: ../cleanstart/includes/theme-options.php:1165
+#: ../cleanstart/includes/theme-options.php:1168
+msgid "According To Post Format"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:106
+#: ../cleanstart/includes/theme-options.php:1165
+msgid ""
+"will display the featured video/audio in posts list (according on its post "
+"format)."
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:106
+msgid "You can set the post format on Format box on the right"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-post.php:644
+msgid "Post Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-postaudio.php:37
+msgid "Audio Link"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-postaudio.php:38
+msgid ""
+"Enter audio url/share link from: <strong>SoundCloud | Spotify | Rdio </"
+"strong>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-postaudio.php:50
+msgid "Featured Audio"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-postvideo.php:37
+msgid "Video Link"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-postvideo.php:38
+msgid ""
+"Enter video url/share link from: <strong>YouTube | Vimeo | Dailymotion | "
+"Blip | Wordpress.tv</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-postvideo.php:50
+msgid "Featured Video"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:37
+#: ../cleanstart/includes/module/module-woocommerce.php:1100
+msgid "Title Display"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:38
+#: ../cleanstart/includes/module/module-woocommerce.php:1101
+msgid "Display product title on content view"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:48
+#: ../cleanstart/includes/module/module-woocommerce.php:1122
+msgid "Ratings ( Product Page )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:58
+#: ../cleanstart/includes/module/module-woocommerce.php:1132
+msgid "Price  ( Product Page )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:68
+#: ../cleanstart/includes/module/module-woocommerce.php:1142
+msgid "\"Add To Cart\" Button ( Product Page )"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:87
+#: ../cleanstart/includes/module/module-woocommerce.php:1253
+msgid "Head Panel Title / Subtitle Behaviour"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:91
+#: ../cleanstart/includes/module/module-woocommerce.php:1257
+msgid "Product Title / Custom Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:92
+#: ../cleanstart/includes/module/module-woocommerce.php:1258
+msgid "Custom Title / Custom Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:93
+#: ../cleanstart/includes/module/module-woocommerce.php:1259
+#: ../cleanstart/includes/theme-options.php:884
+#: ../cleanstart/includes/theme-options.php:915
+msgid "No Title / Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:100
+#: ../cleanstart/includes/module/module-woocommerce.php:1266
+msgid "Head Panel Title Text // Custom"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:101
+#: ../cleanstart/includes/module/module-woocommerce.php:1267
+msgid "This is the default single product custom title"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:107
+#: ../cleanstart/includes/module/module-woocommerce.php:1273
+msgid "Head Panel Subtitle Text // Custom"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:108
+#: ../cleanstart/includes/module/module-woocommerce.php:1274
+msgid "This is the default single product custom subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-product.php:538
+msgid "Product Post Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:28
+msgid "Slides"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:35
+msgid "Slides Options"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:36
+msgid "Add as many slides as you need"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:37
+msgid "Not enabled yet, leave this empty"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:43
+msgid "Settings"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:50
+#: ../cleanstart/includes/theme-options.php:1585
+msgid "Auto Slideshow"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:60
+#: ../cleanstart/includes/theme-options.php:1596
+msgid "Animation Type"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:63
+#: ../cleanstart/includes/theme-options.php:1599
+msgid "Slide"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:64
+#: ../cleanstart/includes/theme-options.php:1600
+msgid "Fade"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:72
+#: ../cleanstart/includes/theme-options.php:1607
+msgid "Slideshow Direction"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:81
+#: ../cleanstart/includes/theme-options.php:1618
+msgid "Slideshow Loop"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:88
+#: ../cleanstart/includes/theme-options.php:1626
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:89
+#: ../cleanstart/includes/theme-options.php:1627
+msgid "Set the speed of the slideshow cycling, in seconds"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:97
+#: ../cleanstart/includes/theme-options.php:1636
+msgid "Animation Speed"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:98
+#: ../cleanstart/includes/theme-options.php:1637
+msgid "Set the speed of the animations, in MILLIseconds"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:106
+#: ../cleanstart/includes/theme-options.php:1646
+msgid "Show navigation arrows"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:113
+#: ../cleanstart/includes/theme-options.php:1654
+msgid "Show navigation bullets"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:120
+#: ../cleanstart/includes/theme-options.php:1662
+msgid "Randomize"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:121
+#: ../cleanstart/includes/theme-options.php:1663
+msgid "Random slide order everytime the slider starts"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:128
+#: ../cleanstart/includes/theme-options.php:1671
+msgid "Pause On Action"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:129
+#: ../cleanstart/includes/theme-options.php:1672
+msgid ""
+"Pause the slideshow when interacting with control elements, highly "
+"recommended"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:136
+#: ../cleanstart/includes/theme-options.php:1680
+msgid "Pause On Hover"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:137
+#: ../cleanstart/includes/theme-options.php:1681
+msgid ""
+"Pause the slideshow when hovering over slider, then resume when no longer "
+"hovering"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:144
+#: ../cleanstart/includes/theme-options.php:1689
+msgid "Linked Slides Behavior"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:145
+#: ../cleanstart/includes/theme-options.php:1690
+msgid "Set browser window behavior for linked slides"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:147
+#: ../cleanstart/includes/theme-options.php:1693
+msgid "Open in same window"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:148
+#: ../cleanstart/includes/theme-options.php:1694
+msgid "Open in new window"
+msgstr ""
+
+#: ../cleanstart/includes/metabox/metabox-slider.php:157
+msgid "Slider Options"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-navwalker.php:162
+#: ../cleanstart/includes/module/module-navwalker.php:241
+msgid "Please Create a Menu"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-twitterapiexchange.php:78
+msgid "Can't get the bearer token, check your credentials"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-twitterapiexchange.php:134
+msgid "Bearer Token is good, check your query"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:108
+msgid "Products Catalog Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:109
+msgid "Default sidebar for catalog page"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:118
+msgid "Single Product Posts Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:119
+msgid "Default sidebar for single product posts"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:128
+msgid "General WooCommerce Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:129
+msgid "Default sidebar for cart, checkout, terms and my account pages"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:601
+msgid "Add to cart"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:639
+#: ../cleanstart/includes/module/module-woocommerce.php:926
+msgid "Maximum results"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:641
+#: ../cleanstart/includes/module/module-woocommerce.php:928
+msgid ""
+"Set the maximum product results. Leave empty or set it to zero to display "
+"all results"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:651
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:143
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:121
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:121
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:85
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:151
+msgid "Grid columns"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:662
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:135
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:135
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:101
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:109
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:164
+msgid "Order by"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:664
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:136
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:136
+#: ../cleanstart/includes/theme-options.php:1301
+msgid "Date"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:666
+msgid "ID"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:667
+msgid "Sales"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:668
+msgid "Price"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:669
+msgid "Menu Order"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:670
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:136
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:136
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:171
+msgid "Random"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:681
+msgid "Order"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:682
+msgid "Descending"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:682
+msgid "Ascending"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:702
+msgid "Select a product"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:722
+msgid "Select an attribute"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:734
+#: ../cleanstart/includes/partials/layout-singleportfolio.php:228
+#: ../cleanstart/includes/partials/layout-singleportfolio.php:238
+msgid "Category"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:736
+msgid "Select Category"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:745
+msgid "Recent Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:746
+msgid "Lists recent products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:765
+msgid "Featured Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:766
+msgid "Lists featured products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:785
+msgid "Single Product"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:786
+msgid "Show a single product"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:802
+msgid "Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:803
+msgid "Show multiple products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:814
+msgid "Select products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:829
+msgid "Add To Cart Button"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:830
+msgid "Show the price/cart button of a single product"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:841
+#: ../cleanstart/includes/theme-options.php:1960
+msgid "Custom CSS"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:854
+msgid "Product Page"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:855
+msgid "Show a full single product page"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:870
+msgid "Product Category"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:871
+msgid "Show multiple products in a category"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:893
+#: ../cleanstart/includes/module/module-woocommerce.php:1152
+msgid "Product Categories"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:894
+msgid "Display product categories loop"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:905
+msgid "Hide empty"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:912
+msgid "Parent"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:914
+msgid "Set the parent paramater to 0 to display only top level categories"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:919
+msgid "Display categories"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:921
+msgid "Add the IDs of the categories you want to display (comma separated)"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:943
+msgid "Sale Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:944
+msgid "List all products on sale"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:965
+msgid "Best Selling Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:966
+msgid "List best selling products on sale"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:985
+msgid "Top Rated Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:986
+msgid "List top rated products on sale"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1007
+msgid "Product Attribute"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1008
+msgid "List products with an attribute shortcode"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1019
+msgid "Add an attribute filter"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1020
+msgid "Add a filter for the attribute you've just selected above"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1039
+#: ../cleanstart/includes/module/module-woocommerce.php:1203
+msgid "Related Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1040
+msgid "List related products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1058
+msgid "if you need to configure shop catalog display"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1059
+msgid ""
+"It seems that you <span style=\"color:red\">have not set a shop page yet!</"
+"span> You should go for it, in order to be able to configure <u>shop "
+"catalog</u> display on selected page edit"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1061
+msgid ""
+"<br>If you are using a speed optimization plugin, don't forget to "
+"<strong>clear cache</strong> after options update"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1065
+msgid "WooCommerce"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1071
+msgid "Single Product Display"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1072
+msgid "All options can be overriden on a single product post"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1077
+msgid "Product Post Layout"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1093
+msgid "Product Post Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1112
+msgid "Breadcrumbs ( Product Page )"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1162
+msgid "\"Sale\" Icon ( Product Page )"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1172
+msgid "Description Tab"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1182
+msgid "Reviews Tab"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1192
+msgid "Additional Information Tab"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1193
+msgid ""
+"Remember that this tab is NOT displayed by defaul if product has no "
+"attributes"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1213
+msgid "Upsell Products"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1224
+msgid "Related/Upsell Products Max Results"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1235
+msgid "Related/Upsell Products Columns"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1246
+msgid "Single Product Head Panel"
+msgstr ""
+
+#: ../cleanstart/includes/module/module-woocommerce.php:1247
+msgid "Head Panel title & subtitle behavior on single product posts"
+msgstr ""
+
+#: ../cleanstart/includes/partials/content.php:32
+#: ../cleanstart/includes/partials/layout-single.php:47
+#: ../cleanstart/includes/partials/loop.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:55
+msgid "Your name"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:55
+msgid "Your email"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:56
+msgid "Your comment"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:60
+msgid "Add comment"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:61
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:62
+msgid "Cancel"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-comments.php:63
+msgid "Reply"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-navigation-main.php:34
+msgid "MENU"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-searchform.php:24
+#: ../cleanstart/includes/partials/element-searchform.php:36
+msgid "Search"
+msgstr ""
+
+#: ../cleanstart/includes/partials/element-searchform.php:38
+msgid "Go!"
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-pluginalert.php:17
+#: ../cleanstart/includes/partials/layout-pluginalert.php:34
+msgid "You are just one step away!"
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-pluginalert.php:35
+msgid ""
+"This theme requires the <strong>Plethora Themes Framework</strong> plugin."
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-pluginalert.php:36
+msgid "You have to "
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-pluginalert.php:36
+msgid "install and activate it"
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-pluginalert.php:36
+msgid "please!"
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-singleportfolio.php:85
+#: ../cleanstart/includes/theme-options.php:1320
+msgid "Previous"
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-singleportfolio.php:86
+#: ../cleanstart/includes/partials/loop.php:97
+#: ../cleanstart/includes/theme-options.php:1328
+msgid "Next"
+msgstr ""
+
+#: ../cleanstart/includes/partials/layout-singleportfolio.php:263
+#: ../cleanstart/includes/theme-options.php:1362
+msgid "Related Projects"
+msgstr ""
+
+#: ../cleanstart/includes/partials/loop.php:66
+msgid "Prev"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:33
+#: ../cleanstart/includes/posttype/posttype-person.php:35
+msgid "Persons"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:34
+msgid "Person"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:72
+msgid "person"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:102
+#: ../cleanstart/includes/posttype/posttype-person.php:104
+msgid "Sections"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:103
+msgid "Section"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:105
+msgid "All Sections"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:106
+msgid "Edit Section"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:107
+msgid "View Section"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:108
+msgid "Update Section"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:109
+msgid "Add New Section"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:110
+msgid "New Section Name"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:111
+msgid "Parent Section"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:112
+msgid "Parent Section:"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:113
+msgid "Search Sections"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:114
+msgid "Popular Sections"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:115
+msgid "Separate Sections with commas"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:116
+msgid "Add or remove Sections"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:117
+msgid "Choose from most used Sections"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:118
+msgid "No Sections found"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:135
+msgid "section"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-person.php:170
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:92
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:130
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:222
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:91
+#: ../cleanstart/includes/theme-options.php:573
+msgid "Image"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:33
+#: ../cleanstart/includes/theme-options.php:1256
+msgid "Portfolio"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:34
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:35
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:72
+msgid "portfolio"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:101
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:103
+msgid "Project Types"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:102
+msgid "Project Type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:104
+msgid "All Project Types"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:105
+msgid "Edit Project Type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:106
+msgid "View Project Type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:107
+msgid "Update Project Type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:108
+msgid "Add New Project Type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:109
+msgid "New Project Type Name"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:110
+msgid "Parent Project Type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:111
+msgid "Parent Project Type:"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:112
+msgid "Search Project Types"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:113
+msgid "Popular Project Types"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:114
+msgid "Seperate Project Types with commas"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:115
+msgid "Add or remove Project Types"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:116
+msgid "Choose from most used Project Types"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:117
+msgid "No Project Types found"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:134
+msgid "project-type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:174
+msgid "Portfolio post type"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:175
+msgid "Activate/deactivate portfolio custom post pype"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-portfolio.php:176
+msgid ""
+"On deactivation, all settings related to this feature will be removed. "
+"However, they will not be deleted permanently."
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-slider.php:32
+#: ../cleanstart/includes/posttype/posttype-slider.php:34
+#: ../cleanstart/includes/theme-options.php:1579
+msgid "Sliders"
+msgstr ""
+
+#: ../cleanstart/includes/posttype/posttype-slider.php:33
+#: ../cleanstart/includes/theme-options.php:779
+msgid "Slider"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-button.php:76
+msgid "Button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-button.php:77
+msgid "Simple button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-button.php:89
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:160
+msgid "Button text and link"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-button.php:91
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:162
+msgid ""
+"Add button text and link. Button gets its text from the value you enter in "
+"the title field."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-button.php:99
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:174
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:198
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:155
+msgid "Select button class"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-button.php:110
+#: ../cleanstart/includes/shortcode/shortcode-button.php:124
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:186
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:205
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:166
+msgid "Button styling class."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-button.php:118
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:178
+msgid "Select button size"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:99
+msgid "Call to Action"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:100
+msgid "Call to Action Section"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:112
+msgid "Section's icon image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:114
+msgid "Set the icon image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:124
+msgid "Add Title"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:136
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:234
+msgid "Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:138
+msgid "Add a subtitle (accepts HTML)."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:150
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:131
+msgid "Display button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-calltoaction.php:152
+msgid "Add a button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-clients.php:76
+msgid "Clients"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-clients.php:77
+msgid "Our Clients Section"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-clients.php:89
+msgid "Client images"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-clients.php:91
+msgid "Select client images and set Title and (optional) URL as Caption."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:76
+msgid "Contact Card"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:77
+msgid "Contact information block."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:90
+msgid "Some Image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:92
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:224
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:93
+msgid "Put some image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:100
+msgid "Company name"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:102
+msgid "Company name (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:114
+msgid "Industry"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:116
+msgid "Company description (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:128
+msgid "Contact information"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-contactcard.php:130
+msgid "Add phone, email, Skype, etc. (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:71
+msgid "Features Teaser"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:72
+msgid "Add a Features Teaser Block"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:90
+msgid "Select Image or Icon"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:93
+msgid "Icon"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:96
+msgid "Select whether to display an image or an icon."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:104
+msgid "Select Icon"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:105
+msgid "Select icon to display."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:132
+msgid "Image to display"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:144
+msgid "Image/Icon link"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:146
+msgid "Enter a link for the image/icon."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:157
+msgid "Add a title (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:169
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:121
+msgid "Text Content"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-featuresteaser.php:171
+msgid "Add a description text for your price plan (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:117
+msgid "Gallery Grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:118
+msgid "Build a custom gallery grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:128
+msgid "Select images"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:129
+msgid "Multiple images selection"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:135
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:114
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:114
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:145
+msgid "Grid layout"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:136
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:115
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:115
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:146
+msgid "Classic"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:136
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:115
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:115
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:146
+msgid "Masonry"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:137
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:116
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:116
+msgid "Select the desired post grid layout"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-gallerygrid.php:145
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:123
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:123
+msgid "Set the number of grid columns you need"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:90
+msgid "Place your title"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:102
+msgid "Text content"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:104
+msgid "Place your text content here (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:116
+msgid "Text section width"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:118
+msgid "Set your text section's width"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:126
+msgid "Text content position"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:128
+msgid "Position your text content."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:136
+msgid "Select type for the media section"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:138
+msgid "Embed video"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:146
+msgid "Video link"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:148
+msgid ""
+"Add a video link.<br><span style='color:red'>For YouTube videos</span> you "
+"must use the <strong>http://www.youtube.com/embed/myvideo</strong> format."
+"<br><strong>Example: https://www.youtube.com/watch?v=j6pwTk4D8WI -> https://"
+"www.youtube.com/embed/j6pwTk4D8WI</strong></span>"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:163
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:126
+msgid "Before Image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:165
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:128
+msgid "Upload before-image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:177
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:136
+msgid "After Image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:179
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:138
+msgid "Upload after-image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:191
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:146
+msgid "Image offset"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:193
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:148
+msgid "Set the default split offset"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:205
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:156
+msgid "Orientation"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:206
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:157
+#: ../cleanstart/includes/theme-options.php:1611
+msgid "Horizontal"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:206
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:157
+#: ../cleanstart/includes/theme-options.php:1612
+msgid "Vertical"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-horizontalteaser.php:207
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:158
+msgid "Set the orientation of the effect"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:112
+msgid "Image Compare"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-imagecompare.php:113
+msgid "Highlight differences between two images"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:65
+msgid "Invalid Email"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:66
+msgid "Server response error"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:67
+msgid "SUCCESS"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:68
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:136
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:144
+msgid "ERROR"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:103
+msgid "Invalid email"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:137
+msgid "Error connecting to the MailChimp API endpoint."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:151
+msgid "Successful request"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:207
+msgid "MailChimp Form"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:222
+msgid "Title text (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:236
+msgid "Text that appears in the subtitle (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:248
+msgid "Email field placeholder"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:250
+msgid "Text that appears in the email field placeholder"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:262
+msgid "Subscribe button text"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:264
+msgid "Text that appears in the Subscribe button (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:277
+msgid "Display Name-Surname Box"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:279
+msgid "Displays two extra input fields for submitting first and last name."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:287
+msgid "Name field placeholder"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:289
+msgid "Text that appears in the name field placeholder"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:301
+msgid "Surname field placeholder"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:303
+msgid "Text that appears in the surname field placeholder"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-newsletterform.php:358
+msgid "MESSAGE"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:103
+msgid "Portfolio Grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:104
+msgid "Build a custom portfolio grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:128
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:128
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:157
+msgid "Maximum post results"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:130
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:130
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:159
+msgid ""
+"Set the maximum results in grid. Leave empty or set it to zero to display "
+"all results"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:137
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:137
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:103
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:111
+msgid "Select order"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:142
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:142
+msgid "Display SHOW ALL"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:143
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:143
+msgid "Show"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:144
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:144
+msgid "Display SHOW ALL Button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:149
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:149
+msgid "Project types menu"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:150
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:150
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:177
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:183
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:189
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:195
+#: ../cleanstart/includes/theme-options.php:1587
+#: ../cleanstart/includes/theme-options.php:1620
+#: ../cleanstart/includes/theme-options.php:1648
+#: ../cleanstart/includes/theme-options.php:1656
+#: ../cleanstart/includes/theme-options.php:1665
+#: ../cleanstart/includes/theme-options.php:1674
+#: ../cleanstart/includes/theme-options.php:1683
+msgid "Yes"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:150
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:150
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:177
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:183
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:189
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:195
+#: ../cleanstart/includes/theme-options.php:1588
+#: ../cleanstart/includes/theme-options.php:1621
+#: ../cleanstart/includes/theme-options.php:1649
+#: ../cleanstart/includes/theme-options.php:1657
+#: ../cleanstart/includes/theme-options.php:1666
+#: ../cleanstart/includes/theme-options.php:1675
+#: ../cleanstart/includes/theme-options.php:1684
+msgid "No"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:151
+msgid "Display the Project types menu"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:156
+msgid "Exclude project types"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:158
+msgid "Check every project type that you don't want to be included in results"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-portfoliogrid.php:326
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:326
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:205
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:240
+msgid "Show All"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:103
+msgid "Posts Grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:104
+msgid "Build a custom posts grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:151
+msgid "Display the categories menu"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:156
+msgid "Exclude categories"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-postsgrid.php:158
+msgid "Check every category that you don't want to be included in results"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:76
+msgid "Priceplan"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:77
+msgid "Add a Price Plan Block"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:89
+msgid "Top Box"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:91
+msgid "Select the type of media for the top box"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:99
+msgid "Image (optional)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:101
+msgid "Replace vector pattern with an image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:124
+msgid "Price Plan Header Title"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:126
+msgid "Add a header for your price plan (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:134
+msgid "Price Plan Header Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:137
+msgid "Add a subheader for your price plan (accepts html)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:145
+msgid "Pricing"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:147
+msgid "Add a pricing"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:155
+msgid "Special Plan"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:157
+msgid "Make this a special plan?"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:166
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:167
+msgid "Get it now!"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:168
+msgid "Leave it empty, if you don't need a button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:177
+msgid "Button Link"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:187
+msgid "Number of Features"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:189
+msgid "How many features to add?"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:197
+msgid "Feature #1"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:199
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:213
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:227
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:241
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:256
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:270
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:284
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:298
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:312
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:326
+msgid "Add feature description (html enabled)"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:211
+msgid "Feature #2"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:225
+msgid "Feature #3"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:239
+msgid "Feature #4"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:253
+msgid "Feature #5"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:268
+msgid "Feature #6"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:282
+msgid "Feature #7"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:296
+msgid "Feature #8"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:310
+msgid "Feature #9"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-priceplan.php:324
+msgid "Feature #10"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:78
+msgid "Service Teaser"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:79
+msgid "Add a Service Teaser Block"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:101
+msgid "Image link"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:103
+msgid "Add an image link."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:113
+msgid "Enter title."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:123
+msgid "Add text content."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:133
+msgid "Display a button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:141
+msgid "Button link"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:143
+msgid "Add a button link."
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-serviceteaser.php:184
+msgid "Button size"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:73
+msgid "Team Members Grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:74
+msgid "Build a grid with team members"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:87
+msgid "Select how many persons to display per row"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:94
+msgid "Team members"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:95
+msgid ""
+"Check team members you want to be displayed in grid. Use 'Ctrl + click' to "
+"select multiple persons"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:118
+msgid "Show Image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:120
+msgid ""
+"Show photo for each team member ( if yes, please make sure that you have set "
+"an image for all persons selected )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:126
+msgid "Image effect"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:128
+msgid ""
+"Display photo change effect ( if yes, please make sure that you have set a "
+"hover image for all persons selected )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:138
+msgid "Show Profession "
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:140
+msgid "Show profession info for each team member"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:147
+msgid "Show Description "
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:149
+msgid "Show description text for each team member"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:156
+msgid "Show Social Icons "
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-teamgrid.php:158
+msgid "Show social icons for each team member"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:52
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:57
+msgid "Column"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:53
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:58
+msgid "Column container ( used inside a row )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:63
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:68
+msgid "Column Width"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:64
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:69
+msgid "Select the desired width for this column"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:70
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:75
+#: ../cleanstart/includes/shortcode/shortcode-vcrowinner.php:70
+msgid "Additional Classes"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:71
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:76
+msgid "Enter additional class name(s) for column ( separate with space )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:77
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:82
+msgid "Column Alignment"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:78
+#: ../cleanstart/includes/shortcode/shortcode-vccolumninner.php:83
+msgid "Select the desired alignment for this column"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:84
+msgid "Column border"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vccolumn.php:92
+msgid "Border width"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:57
+msgid "Row"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:58
+msgid "Create an section to add content"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:61
+msgid "Content"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:71
+msgid "Header Text"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:73
+msgid "Leave empty to remain invisible"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:80
+msgid "Subheader Text"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:82
+msgid "Enter a subheader text for the section"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:89
+msgid "Header style"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:91
+msgid "Choose a layout for your header/subheader texts"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:98
+msgid "Color setup"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:100
+msgid "Choose a color setup for this section"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:106
+msgid "Background Image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:108
+msgid "Upload/select a background image for this section"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:114
+msgid "Parallax effect"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:116
+msgid "Effect will be visible only if you have set a background image"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:122
+msgid "Remove top margin"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:124
+msgid "ATTENTION: select 'Yes' to remove possible top margin on top"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:130
+msgid "Top Side Corners"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:132
+msgid "Enable/disable the top side corners effect"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:138
+msgid "Section ID"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:140
+msgid "Give your section a unique ID "
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:146
+msgid "Extra class"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrow.php:148
+msgid "Give your extra class(es) "
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrowinner.php:56
+msgid "Row Inner"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrowinner.php:57
+msgid "Create an nested row to add content"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-vcrowinner.php:71
+msgid "Enter additional class name(s) for inner row ( separate with space )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:116
+msgid "Plethora WooProducts Grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:117
+msgid "Display a WooCommerce products grid"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:127
+msgid "Results will include"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:128
+msgid "all products"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:128
+msgid "featured products"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:128
+msgid "on sale products"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:128
+msgid "selected category products"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:129
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:136
+msgid ""
+"Select a specific product category that you want to be included in results"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:134
+msgid "Product categories"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:166
+msgid "Date ( newest to older )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:167
+msgid "Bestselling"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:168
+msgid "Price ( low to high )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:169
+msgid "Price ( high to low )"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:176
+msgid "Display product price"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:182
+msgid "Display product categories"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:188
+msgid "Display categories filter menu"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:194
+msgid "Display \"Show All\" Button"
+msgstr ""
+
+#: ../cleanstart/includes/shortcode/shortcode-wooproductgrid.php:204
+msgid "\"Show All\" Button Text"
+msgstr ""
+
+#: ../cleanstart/includes/theme-constants.php:20
+msgid "CleanStart Settings"
+msgstr ""
+
+#: ../cleanstart/includes/theme-constants.php:21
+msgid "Theme Settings"
+msgstr ""
+
+#: ../cleanstart/includes/theme-constants.php:22
+msgid "Cleanstart"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:262
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:263
+msgid "Top Header Navigation"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:281
+#: ../cleanstart/includes/theme-functions.php:288
+#: ../cleanstart/includes/theme-functions.php:295
+#: ../cleanstart/includes/theme-functions.php:302
+#: ../cleanstart/includes/theme-functions.php:309
+#: ../cleanstart/includes/theme-functions.php:316
+#: ../cleanstart/includes/theme-functions.php:323
+#: ../cleanstart/includes/theme-functions.php:330
+#: ../cleanstart/includes/theme-functions.php:337
+msgid "Footer Widget Area | Column 1"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:282
+#: ../cleanstart/includes/theme-functions.php:283
+#: ../cleanstart/includes/theme-functions.php:284
+#: ../cleanstart/includes/theme-functions.php:290
+#: ../cleanstart/includes/theme-functions.php:291
+#: ../cleanstart/includes/theme-functions.php:297
+#: ../cleanstart/includes/theme-functions.php:298
+#: ../cleanstart/includes/theme-functions.php:304
+#: ../cleanstart/includes/theme-functions.php:305
+#: ../cleanstart/includes/theme-functions.php:312
+#: ../cleanstart/includes/theme-functions.php:319
+#: ../cleanstart/includes/theme-functions.php:326
+#: ../cleanstart/includes/theme-functions.php:340
+msgid ""
+"This widget area is inactive. You may activate this area on CleanStart > "
+"Header"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:289
+#: ../cleanstart/includes/theme-functions.php:296
+#: ../cleanstart/includes/theme-functions.php:303
+#: ../cleanstart/includes/theme-functions.php:310
+#: ../cleanstart/includes/theme-functions.php:317
+#: ../cleanstart/includes/theme-functions.php:324
+#: ../cleanstart/includes/theme-functions.php:331
+#: ../cleanstart/includes/theme-functions.php:338
+msgid "Footer Widget Area | Column 2"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:311
+#: ../cleanstart/includes/theme-functions.php:318
+#: ../cleanstart/includes/theme-functions.php:325
+#: ../cleanstart/includes/theme-functions.php:332
+#: ../cleanstart/includes/theme-functions.php:339
+msgid "Footer Widget Area | Column 3"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:333
+msgid "Footer Widget Area | Column 4"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:345
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:354
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:363
+msgid "Footer Column #1"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:373
+msgid "Footer Column #2"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:383
+msgid "Footer Column #3"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:393
+msgid "Footer Column #4"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:414
+msgid "Sidebar #"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:416
+msgid "This is a custom bar, created using Theme Settings panel"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:652
+msgid "Home Page"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:664
+msgid "About Us Page"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:674
+msgid "Services Page"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:683
+msgid "Contact Page"
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:705
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file. Leave "
+"\"prettyphoto\" class for popup functionality, if you want link to larger "
+"image."
+msgstr ""
+
+#: ../cleanstart/includes/theme-functions.php:711
+msgid "If checked, image will be linked to a popup displaying a larger version"
+msgstr ""
+
+#: ../cleanstart/includes/theme-html.php:763
+#, php-format
+msgid "View all posts in category: %s"
+msgstr ""
+
+#: ../cleanstart/includes/theme-html.php:783
+#, php-format
+msgid "View all posts tagged with: %s"
+msgstr ""
+
+#: ../cleanstart/includes/theme-html.php:843
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../cleanstart/includes/theme-html.php:847
+msgid "Edit"
+msgstr ""
+
+#: ../cleanstart/includes/theme-html.php:849
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:85
+msgid "Plethora Theme Options panel. Based on Redux Framework"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:95
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:96
+msgid "Find me on Facebook"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:97
+msgid "Watch us on YouTube"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:140
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:141
+#: ../cleanstart/includes/theme-options.php:147
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:146
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:151
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:183
+msgid "General"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:184
+msgid "Style & typography options applied globally"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:191
+msgid "General > Global Colors & Typography"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:196
+msgid "Body Background Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:197
+#: ../cleanstart/includes/theme-options.php:485
+msgid "default: #EFEFEF."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:206
+#: ../cleanstart/includes/theme-options.php:776
+msgid "Skin Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:207
+#: ../cleanstart/includes/theme-options.php:228
+#: ../cleanstart/includes/theme-options.php:361
+#: ../cleanstart/includes/theme-options.php:1499
+msgid "default: #428BCA."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:217
+msgid "Body Text Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:218
+msgid "Affects text & headings color on body areas. default: #666666."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:227
+msgid "Body Links Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:237
+msgid "Body Text Typography"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:257
+msgid "Body Text Font Size"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:258
+msgid "default:14"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:259
+msgid "Font size in pixels"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:268
+msgid "Navigation & Headings Text Typography"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:288
+msgid "Headings Text Transform"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:289
+#: ../cleanstart/includes/theme-options.php:297
+msgid "None"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:289
+#: ../cleanstart/includes/theme-options.php:297
+msgid "Uppercase"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:296
+msgid "Buttons Text Tranform"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:304
+msgid "General > Skin Coloured Sections"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:310
+msgid "Skin Sections Text Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:311
+msgid "default: #ffffff."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:321
+msgid "Skin Sections Link Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:322
+msgid "default: #FFFF00."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:331
+msgid "General > Dark Coloured Sections"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:338
+msgid "Dark Sections Background Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:339
+msgid "default: #222222"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:349
+msgid "Dark Sections Text Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:350
+#: ../cleanstart/includes/theme-options.php:1489
+msgid "default: #cccccc."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:360
+msgid "Dark Sections Link Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:372
+msgid "General > Favicon & Special Icons"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:378
+msgid "Favicon"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:380
+msgid "Upload a 16px X 16px .png or .gif image"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:387
+#: ../cleanstart/includes/theme-options.php:396
+#: ../cleanstart/includes/theme-options.php:405
+msgid "iPad/iPhone Retina Icon"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:389
+msgid "Upload a 57px X 57px .png or .gif image"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:398
+msgid "Upload a 72px x 72px .png or .gif image"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:406
+msgid "Upload a 114px x 114px .png or .gif image"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:416
+msgid "General > Miscellaneous"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:422
+msgid "Visual Composer Customization"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:423
+msgid ""
+"Cleanstart is affecting the way Visual Composer elaborates with rows & "
+"columns. You may want to disable this, but have in mind that this will "
+"affect many theme features' displays"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:432
+msgid "Back to top "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:441
+msgid "TextRotator Animation Speed"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:442
+msgid "Set the speed for the TextRotator effect, in MILLIseconds"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:454
+msgid "Text Shadows"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:455
+msgid ""
+"Affects text shadows on: head panel | call to action shortcode | newsletter "
+"form shortcode"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:471
+msgid "Header"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:478
+msgid "Header // Colors & Typography"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:484
+msgid "Header Background Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:494
+msgid "Header Background Transparency"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:495
+msgid "default: 100"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:515
+msgid "Header Link Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:516
+msgid "default: #555555 / #428BCA."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:529
+msgid "Header // Layout & Display"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:536
+msgid "Classic ( logo on the left / menu on the right )"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:536
+msgid "Centered ( logo & menu centered )"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:542
+msgid "Sticky Header"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:548
+#: ../cleanstart/includes/theme-options.php:1466
+msgid "Side Corners"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:559
+msgid "Header // Logo"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:564
+msgid "Logo layout"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:565
+msgid "Image only"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:565
+msgid "Image + Title"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:565
+msgid "Title only"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:588
+msgid "Container size"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:589
+msgid "default: 290 x 30 px"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:597
+msgid "Container padding"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:598
+#: ../cleanstart/includes/theme-options.php:608
+msgid "Top | Right | Bottom | Left"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:607
+msgid "Container margin"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:618
+msgid "Image size"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:619
+msgid "default: 38 x 26 px"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:629
+msgid "Image margin"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:630
+msgid "default: 2|8|2|0"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:643
+msgid "Title container size"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:645
+msgid "default: auto / auto"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:656
+msgid "Title container padding"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:657
+msgid "default: 0|0|0|0"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:670
+msgid "Header // Top Toolbar"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:689
+msgid "Menu | Custom Text"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:690
+msgid "Custom Text | Menu"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:691
+msgid "Custom Text Only"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:701
+msgid "Call Us Toll Free! +555 959595959"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:707
+msgid "Language switcher"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:709
+msgid "Displayed on the right side ( WPML must be installed & activated )."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:719
+msgid "Toolbar Background Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:720
+msgid "default: #EFEFEF"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:731
+msgid "Toolbar Text Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:732
+#: ../cleanstart/includes/theme-options.php:744
+msgid "default: #555555."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:743
+msgid "Toolbar Link Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:767
+msgid "Head Panel // General"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:768
+msgid ""
+"Default behavior options. Affects head panel displays on ALL pages/posts etc."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:777
+msgid "Featured Image"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:781
+msgid "Map"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:791
+msgid ""
+"Applied only on image, video and map backgrounds. Suggested height: 480px."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:800
+msgid "Applied only on skincolored background. Suggested height: 265px."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:808
+msgid "Panel Height ( Slider only )"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:809
+msgid ""
+"NOTICE: this is a global setting, cannot be overriden on post/page/portfolio "
+"settings. Suggested height: 580px."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:841
+msgid "Head Panel // Pages"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:842
+msgid "Default options for single pages. Can be overriden on page settings"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:872
+msgid "Head Panel // Posts"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:873
+msgid "Default options for single posts. Can be overriden on post settings"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:881
+msgid "Blog Title / Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:882
+msgid "Post Title / Custom Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:883
+#: ../cleanstart/includes/theme-options.php:914
+msgid "Custom Title / Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:892
+msgid "This is the default single post custom title"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:899
+msgid "This is the default single post custom subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:904
+msgid "Head Panel // Portfolio Posts"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:905
+msgid ""
+"Default options for single portfolio posts. Can be overriden on portfolio "
+"post settings"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:913
+msgid "Portfolio Title/ Custom Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:923
+msgid "This is the default portfolio custom title"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:930
+msgid "This is the default portfolio custom subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:935
+msgid "Head Panel // Blog Pages"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:936
+msgid ""
+"Default options for blog pages  ( posts list | search | categories | tags | "
+"dates | authors )"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:942
+msgid "This is the default blog title"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:948
+msgid "This is the default blog subtitle."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:949
+msgid ""
+"Title & subititle can be different for categories, tags, dates, authors, etc!"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:956
+msgid "Category: "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:966
+#: ../cleanstart/includes/theme-options.php:994
+#: ../cleanstart/includes/theme-options.php:1022
+#: ../cleanstart/includes/theme-options.php:1049
+#: ../cleanstart/includes/theme-options.php:1077
+msgid "Use Blog Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:967
+msgid "Use Selected Category Description"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:977
+msgid ""
+"This is the custom head panel subtitle text, displayed when any category is "
+"selected."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:995
+msgid "Use Selected Tag Description"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1005
+msgid "Will be displayed when a tag is selected"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1012
+msgid "Date: "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1018
+msgid "Select the head panel subtitle behavior when a"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1018
+msgid "date range"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1018
+#: ../cleanstart/includes/theme-options.php:1045
+msgid "is selected"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1032
+msgid ""
+"This is the custom head panel subtitle text, displayed when a date range is "
+"selected"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1039
+msgid "Author: "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1045
+msgid "Select the head panel subtitle behavior when an"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1045
+msgid "author"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1045
+msgid "Biographical info for each user can be set on"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1045
+msgid "Users menu"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1050
+msgid "Use Selected Author's Biographical Info"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1060
+msgid ""
+"This is the custom head panel subtitle text, displayed when an author is "
+"selected"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1067
+msgid "Search for: "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1087
+msgid ""
+"This is the custom header subtitle text, displayed when when a "
+"<strong>search</strong> is done"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1094
+msgid "Head Panel // Google Maps"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1095
+#: ../cleanstart/includes/theme-options.php:1100
+msgid "Customize Google Maps"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1101
+msgid ""
+"Paste your Snazzy JS array code here. For more custom map styles check out "
+"<a target=\"_blank\" href=\"http://snazzymaps.com/\">Snazzy Maps</a> website."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1113
+msgid "Posts"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1115
+msgid "All options can be overriden on a single post"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1120
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1121
+msgid "Select main content and sidebar arrangement on single post view"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1135
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1136
+msgid ""
+"If empty, the default sidebar will be used. Create as many sidebars you need "
+"on <strong>Advanced > Sidebars</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1142
+msgid "Display Title On Content"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1143
+msgid ""
+"Might want to hide this if you have chosen to display the title on head "
+"panel "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1153
+msgid "Display Featured Media On Content"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1154
+msgid ""
+"Might want to hide this if you have chosen to display media on head panel "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1164
+msgid "List View Media"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1169
+msgid "Force Featured Image Display"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1170
+msgid "Do Not Display"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1212
+msgid "Pages"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1213
+msgid "All options can be overriden on a single page"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1257
+msgid "All options can be overriden on a portfolio post"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1262
+msgid "Single Portfolio Layout"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1275
+msgid "Show Title On Content ( single view only )"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1299
+msgid "Info Fields Mask"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1300
+msgid ""
+"Define your info fields mask. Place anything here, but we would advise you "
+"to keep the default HTML structure!"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1301
+msgid "Client"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1301
+msgid "Place"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1319
+msgid "Buttons Text: Previous"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1327
+msgid "Buttons Text: Next"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1361
+msgid "Related Portfolio Items Header"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1373
+#: ../cleanstart/includes/theme-options.php:1380
+msgid "404 Page"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1385
+msgid "Head panel title"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1386
+msgid "OMG! <strong>error 404</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1391
+msgid "Head panel subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1392
+msgid "we are really sorry but the page you requested cannot be found."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1397
+msgid "Head Panel background image"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1398
+msgid "Upload your image"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1399
+msgid "If empty, a skin colored background will be used instead"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1405
+msgid "Content Title"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1406
+msgid "Error 404 is nothing to really worry about..."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1411
+msgid "Content Subtitle"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1412
+msgid ""
+"you may have mis-typed the URL, please check your spelling and try again."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1424
+#: ../cleanstart/includes/theme-options.php:1936
+msgid "Footer"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1429
+msgid "Footer // Main Section"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1435
+msgid "Main Footer Section"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1436
+msgid "Display/hide main footer section"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1447
+msgid "Footer area layout"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1448
+msgid "Click to the icon according to the desired footer layout. "
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1449
+msgid ""
+"Edit content on <strong>Appearence > Widgets</strong> section as <i>Footer "
+"column #1</i>, <i>Footer column #2</i>, etc."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1478
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1479
+msgid "default: #222222."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1488
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1498
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1507
+msgid "Footer // Info Bar"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1512
+msgid "Footer info bar"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1513
+msgid "Display/hide bottom info bar"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1527
+msgid "Bottom info bar container height"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1528
+msgid "default: 50px"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1536
+msgid "Copyright text"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1538
+msgid "Copyright &copy;2014 all rights reserved"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1544
+msgid "Credits text"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1546
+msgid ""
+"Designed by <a href=\"http://plethorathemes.com\" target=\"_blank\">Plethora "
+"Themes</a>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1552
+msgid "Footer // Miscellaneous"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1558
+msgid "Enable/disable Twitter feed section"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1580
+msgid "Set slider default settings"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1709
+msgid "Social & APIs"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1715
+msgid "Twitter Feed Options"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1721
+msgid "Twitter Profile Link"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1729
+msgid "Twitter Screen Name"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1730
+msgid "Enter Twitter ID or Screen Name (without @)"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1738
+msgid "Number of Tweets"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1748
+msgid "Enable Replies"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1750
+msgid "Enabled"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1751
+msgid "Disabled"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1757
+msgid "Show Tweet Date"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1758
+msgid "Display the tweet's date, either on top or bottom of the tweet text."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1761
+#: ../cleanstart/includes/theme-options.php:1840
+#: ../cleanstart/includes/theme-options.php:1851
+#: ../cleanstart/includes/theme-options.php:1862
+#: ../cleanstart/includes/theme-options.php:1873
+msgid "Disable"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1762
+msgid "Top"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1763
+msgid "Bottom"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1770
+msgid "Twitter Date Format"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1771
+msgid ""
+"For more formatting options see: <a href=\"http://php.net/manual/en/function."
+"date.php\" target=\"_blank\">PHP Date Format</a>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1779
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1787
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1797
+msgid "MailChimp API"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1803
+msgid "MailChimp API Key"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1811
+msgid "MailChimp List ID"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1830
+msgid "Dev / Design HTML Comments"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1830
+msgid ""
+"Developer comments in HTML source. Should be used during development time "
+"only. Disable when website is ready for launch!"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1835
+msgid "Current Page Info"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1836
+msgid ""
+"Enable current page information ( visible first thing in html source ) for "
+"each page & post."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1839
+#: ../cleanstart/includes/theme-options.php:1850
+#: ../cleanstart/includes/theme-options.php:1861
+#: ../cleanstart/includes/theme-options.php:1872
+msgid "Enable"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1846
+msgid "Template Parts"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1847
+msgid ""
+"Enable template part loading information. This will help you understand how "
+"the template system works."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1857
+msgid "Theme/Metaboxes Options"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1858
+msgid ""
+"Enable options information comments. This will help you understand how "
+"options applied and how affect several components display."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1868
+msgid "Layout Checkpoints"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1869
+msgid ""
+"Enable start/end layout checkpoints information. This will help you separate "
+"easily the most important parts of the page on the html source view!"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1879
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1884
+msgid "Sidebars number"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1885
+msgid "Set the number of additional sidebars you need"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1894
+msgid "Activate / Deactivate Theme Custom Post Types"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1908
+msgid "Activate / Deactivate Theme Shortcodes"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1922
+msgid "Google Analytics Options</center>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1927
+msgid "Analytics tracking code"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1928
+msgid "Paste your Google Analytics or other code here."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1929
+#: ../cleanstart/includes/theme-options.php:1949
+msgid ""
+"NOTICE: <strong style=\"color:red\">Do not use &lt;script&gt; tags.</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1935
+msgid "Analytics tracking code placement"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1936
+msgid "Head"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1942
+msgid "Custom Javascript Options"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1947
+msgid "Custom JS (added on footer)"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1948
+msgid "Paste your JS code here."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1955
+msgid "Custom Style Options (custom CSS)"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1961
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1962
+msgid ""
+"NOTICE: <strong style=\"color:red\">Do not use &lt;style&gt; tags.</strong>"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1972
+msgid "DEVELOPMENT OPTIONS"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1977
+msgid "Switch between Production and Development Mode"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1978
+msgid "Production"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:1978
+msgid "Development"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:2005
+msgid "Advanced"
+msgstr ""
+
+#: ../cleanstart/includes/theme-options.php:2006
+msgid "Advanced options"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-aboutus.php:173
+msgid "Telephone"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-aboutus.php:178
+msgid "Email"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestnews.php:87
+msgid "Latest News"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestnews.php:173
+#: ../cleanstart/includes/widget/widget-latestportfolio.php:178
+#: ../cleanstart/includes/widget/widget-latestproducts.php:177
+msgid "Title:"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestnews.php:176
+#: ../cleanstart/includes/widget/widget-latestproducts.php:180
+msgid "Category:"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestnews.php:187
+#: ../cleanstart/includes/widget/widget-latestproducts.php:191
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestportfolio.php:87
+msgid "Latest Portfolio"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestportfolio.php:181
+msgid "Project Type:"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestportfolio.php:193
+msgid "Number of portfolio items to show:"
+msgstr ""
+
+#: ../cleanstart/includes/widget/widget-latestproducts.php:87
+msgid "Latest Products"
+msgstr ""

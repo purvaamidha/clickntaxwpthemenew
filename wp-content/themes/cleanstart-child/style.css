@@ -1,0 +1,181 @@
+/*
+Theme Name: CleanStart Child 
+Theme URI: http://plethorathemes.com/wordpress/cleanstart/
+Description: Child theme for CleanStart (Plethora Themes)
+Author: Plethora Themes
+Author URI: http://www.plethorathemes.com
+Template: cleanstart
+*/
+/* DO YOUR STUFF AFTER THIS !!  */
+@import url("../cleanstart/style.css");
+
+/* Enter Your Custom CSS Here */
+background-image: url("http://localhost/clickntaxtheme/wp-content/uploads/2017/04/home-6-1.png");
+    width: 1349px;
+    float: left;
+    display: block;
+}
+.services + .service {
+  display:none !important;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+        margin-top: 200px;
+        margin-bottom: 0.67em;
+}
+col-md-6{
+}
+
+
+/*range defining */
+
+.range {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.range > .range {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.range-spacer {
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
+[class*="cell-"] {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+html.lt-ie-10 * + .range,
+* + .range {
+  margin-top: 50px;
+}
+
+html.lt-ie-10 * + [class*='cell-'],
+* + [class*='cell-'],
+html.lt-ie-10 * + .range-sm,
+* + .range-sm {
+  margin-top: 30px;
+}
+
+html.lt-ie-10 * + .range-lg,
+* + .range-lg {
+  margin-top: 66px;
+}
+
+html.lt-ie-10 .range-condensed,
+.range-condensed {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+html.lt-ie-10 .range-condensed > [class*='cell'],
+.range-condensed > [class*='cell'] {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+html.lt-ie-10 .range-condensed > * + [class*='cell'],
+.range-condensed > * + [class*='cell'] {
+  margin-top: 0;
+}
+
+html.lt-ie-10 .range-narrow,
+.range-narrow {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+html.lt-ie-10 .range-narrow > [class*='cell'],
+.range-narrow > [class*='cell'] {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+html.lt-ie-10 .range-narrow > * + [class*='cell'],
+.range-narrow > * + [class*='cell'] {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.sticky_header header.nav_header .container {
+    position: relative;
+    background-color: #1e3953;
+    -webkit-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+.menu_container > ul > li > a {
+    color: #ffffff !important;
+}
+.sticky_header header.nav_header .triangle-up-right:after {
+    content: "";
+    position: absolute;
+    width: 142px;
+    height: 142px;
+    background: #1e3953;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    top: -71px;
+    left: -71px;
+    -webkit-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+.sticky_header header.nav_header .triangle-up-left:after {
+    content: "";
+    position: absolute;
+    width: 142px;
+    height: 142px;
+    background: #1e3953;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    top: -71px;
+    left: 29px;
+    -webkit-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5);
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+.logo {
+    padding: 25px 0px !important;
+    margin: 0 !important;
+  
+}
+.services .feature_teaser {
+    background-color: #ffffff;
+}
+div#slide-3-layer-7 {
+    padding: 20px !important;
+}
+.style-dark_style blockquote.easy_testimonial {
+    background-color: #f7f8f9;
+    border: none;
+    border-radius: 0px;
+    color: #000;
+    padding: 10px;
+    margin: 10px auto;
+}
+.light .col-md-12 {
+    border: none !important;
+}
+.style-dark_style blockquote.easy_testimonial p {
+    width: auto;
+    font-size: 15px;
+}
+div#slider-1-layer-20 {
+    padding: 20px !important;
+}

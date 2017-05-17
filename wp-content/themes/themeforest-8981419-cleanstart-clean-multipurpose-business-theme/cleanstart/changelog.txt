@@ -1,0 +1,173 @@
+Changelog
+---------
+
+v1.5.1 [10/07/2016]
+
+ - UPDATE: Visual Composer to 4.12.1 version
+ - FIX: WooCommerce product shortcodes working normally
+ - FIX: Newsletter shortcode notice
+ - FIX: About Us widget notice
+
+v1.5.0 [10/07/2016]
+
+ - UPDATE: Visual Composer to 4.12 version
+ - UPDATE: Updated TGM class to 2.61 version 
+ - UPDATE: Added Google Maps API key field in theme options to meet latest Google Map API policy changes.
+
+v1.4.9 [27/04/2016]
+
+ - UPDATE: Visual Composer to 4.11.2.1 version 
+
+v1.4.8 [14/04/2016]
+
+ - UPDATE: Compatibility with WP 4.5
+ - UPDATE: Visual Composer to 4.11.2 version 
+ - FIX: Other microfixes
+
+v1.4.7 [15/10/2015]
+
+ - FIX: Call To Action shortcode issue on page update
+ - FIX: Features Teaser shortcode issue on page update
+ - FIX: Contact Card shortcode issue on page update
+ - FIX: Horizontal Teaser shortcode issue on page update
+ - FIX: Mailchimp Newsletter shortcode issue on page update
+
+v1.4.6 [06/10/2015]
+
+ - UPDATED: VC update to the latest version
+ - UPDATED: Updated Flickr widget working normally under SSL
+
+v1.4.5 [21/08/2015]
+
+- UPDATED: Updated Widget classes according to latest WP 4.3 changes
+
+v1.4.4 [23/06/2015]
+
+- UPDATED: VC update to the latest version ( includes update of prettyPhoto to 3.1.6 - latest stable and secure version )
+- FIX: Hiding Flexslider arrows when less than 2 items are placed
+- FIX: Other microfixes
+
+v1.4.3 [07/05/2015]
+
+- NEW: Row/Column customizations for VC can be disabled using a theme settings switch. Necessary when working with VC plugins that affect VC row/column display, ie."Ultimate Addons for Visual Composer"
+- FIX: PO/MO translation for administration strings works fine [ reported on #1517 ]
+- FIX: Head panel issues for large touch devices [ reported on #1482 ]
+- FIX: Snazzy maps fix
+- UPDATED: Visual Composer updated to 4.5.1 ( fixing the buttons link issue )
+- UPDATED: WPML config file updated values and congiguration
+
+v1.4.2 [06/04/2015]
+
+- UPDATED: Additional Google Maps functionality ( TERRAIN/HYBRID, custom marker icons, etc. )
+- FIX: Team Grid shortcode hover image disable working fine now ( #1333 )
+- FIX: Body text color is working flawlessly
+- FIX: Portfolio thumbnail selector issue ( #1368 )
+- FIX: Portfolio grid masonry issue ( #1440 )
+- FIX: Title attribute field is displayed in front-end main menu ( #1480 )
+
+v1.4.1 [13/02/2015]
+
+- NEW: Revolution Slider plugin support ( still in beta, plugin not included in theme package )
+- NEW: "Latest Products" widget for WooCommerce products
+- NEW: System info dashboard widget, for better customer support experience
+- NEW: Theme settings for body text font size and headings/button texts transformation ( uppercase or none )
+- UPDATED: LESS compiling functionality improved.
+- UPDATED: 1.4 loading performance issues improved dramatically [ reported on #1297/ #1302 ]
+- UPDATED: use of original image sizes on head panel & gallery grid shortcode lightboxes
+- UPDATED: new 'Alternative' button style
+- UPDATED: switch to select between featured image OR slideshow display for portfolio posts
+- FIX: Removed logo size & logo container padding options from page/post/portfolio metaboxes
+- FIX: Slider selection fields on admin return only active language sliders ( ticket #1215 )
+- FIX: Favicons issue ( ticket #1262 )
+- FIX: Scrolling/Blank space issue on Apple devices when trackpad used ( ticket #1258 )
+- FIX: WooCommerce / Order dropdown field display is working normally
+- MISC.: Removed non used option from blog page metabox ( Head Panel > Background Image )
+
+v1.4.0 [19/01/2015] "WooCommerce Ready"
+
+- NEW: WooCommerce Support
+- Page Builder management for 13 WooCommerce included shortcodes
+- NEW: Products Grid Shortcode
+- NEW: Development / Production mode switch
+- UPDATED: "Show All" button options for Posts/Portfolio Grid
+- UPDATED: Removed Blog options from Theme Settings panel. Blog options can be edited directly on blog page edit screen
+- FIX: Widget areas on footer can display properly more than one widget
+- FIX: Custom text fields for Top Toolbar / Copyright / Credits accept HTML
+- FIX: Minor fix in About Us widget
+
+v1.3.1 [30/12/2014] 
+
+- FIXED: Updated Visual Composer to 4.3.5 version that contains fix for the drag & drop issue on 4.1 WP installations
+
+v1.3 [3/12/2014] "WPML Ready" 
+
+- NEW: Official WPML Ready
+- NEW: Global Text & Link Color settings
+- NEW: Skin-colored Section Link Color setting
+- NEW: Header & Footer Color settings
+- NEW: Sticky Header Transparency setting
+- NEW: Footer Display Switches
+- UPDATED: Added per-slide linking for sliders
+- UPDATED: Added prettyphoto functionality to single image shortcode
+- FIXED: iPad Portrait after footer padding
+- FIXED: Not jumping to top everytime you hit a menu item that has sub-menu
+
+v1.2.1 [11/11/2014] "One Pager"
+
+- FIXED: One Page is now operable.
+
+v1.2 [08/11/2014]
+
+- NEW: One Page feature with smooth scrolling for creating one page sites.
+- NEW: "Posts Grid" shortcode.
+- UPDATED: Added FontAwesome icon selector on Features Teaser Page Builder shortcode element.
+- UPDATED: Class loading procedure allows easier override for child theme development
+- UPDATED: Head Panel with Video now support .webm, .mp4 and .ogg. The Video sound switch is now operable. 
+- UPDATED: Single posts can now display Author's Bio text.
+- UPDATED: Added "Inverted" button styling on "Button" shortcode.
+- UPDATED: converted dropdown into text field for maximum results in "Portfolio Grid" shortcode
+- UPDATED: Text Rotator effect now uses a minified .js file for faster page loading speeds. 
+- UPDATED: Minified version of main theme JS file: cleanstart_theme.min.js. ]
+- UPDATED: Updated FontAwesome to 4.2.0.
+- FIXED: Horizontal Teaser now includes instructions on how to properly embed your YouTube video link.
+- FIXED: Email field on Team Member custom post type now displays the address correctly.
+- FIXED: Features Teasers shortcode: Title and Subtitle fields are not being displayed if no values are supplied.
+- FIXED: The Activated Navigation Buttons switch in the Portfolio Item page options is now operable.
+- FIXED: Visual Composer Google+ Share button is now operable.
+- FIXED: User defined CSS class for page builder inner row is working
+- EXPERIMENTAL: Plug & Play functionality for child theme users
+- REMOVED: Envato Toolkit plugin support
+
+v1.1 [22/10/2014]
+
+- NEW FEATURE: Latest Portfolio widget.
+- ADDED: Support for extra CSS classes and IDs for Visual Composer rows.
+- ADDED: A link for quickly and easily finding longitude and latitude values for Google Maps.
+- ADDED: Social links now have a default target="_blank" attribute set.
+- ADDED: The gallery on each Portfolio Item page, is now optional. 
+- ADDED: Extra social icons on Contact Us widget. 
+- ADDED: Switcher for Portfolio info box on Portfolio Post page.
+- FIXED: Issues with PHP versions 5.2.x ( T_PAAMAYIM_NEKUDOTAYIM ).
+- FIXED: Proper loading of favicon ICO file. 
+- FIXED: Contact us widget form mailto: field linking. 
+- FIXED: All footer Custom Menu widgets are dark colored.
+- FIXED: Related portfolio items no longer display the same image.
+- FIXED: Parallax effect on Call to Action shortcode is now being displayed properly. ( Ticket #625 ) 
+- FIXED: Footer was hidden on some Touch Devices while on landscape mode.
+- FIXED: Footer Copyright/Credits fields accept HTML tags without problems.
+- FIXED: Show Alt image attribute on Feature Teaser Shortcode.
+- FIXED: Team Members were not showing more than 5 (default) member cards. 
+- FIXED: Team Members properly displaying order. Image hover effect is now optional.
+- FIXED: Removed unnecessary markup when no images are displayed on the Portfolio Item pages. Fixed problem with Title/Subtitle behavior.
+- REMOVED: Preview buttons for Slider and Person custom post types.
+- REMOVED: Language switcher option ( it was not ready yet )
+
+
+
+v1.0 [01/10/2014]
+  
+- Initial release
+
+
+
+

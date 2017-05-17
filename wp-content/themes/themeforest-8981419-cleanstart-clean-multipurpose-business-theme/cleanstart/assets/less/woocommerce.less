@@ -1,0 +1,369 @@
+/*!
+Theme Name: CleanStart
+
+WooCommerce Plugin Specific styles (v.2.2.x)
+This file is loaded only if the plugin is active.
+Color styles can be found on style.less
+
+*/
+
+@import  (reference) "../twitter-bootstrap/less/bootstrap.less";
+@import  "../../../../plugins/woocommerce/assets/css/woocommerce-layout.css";
+@import  "../../../../plugins/woocommerce/assets/css/woocommerce.css";
+
+
+/* WOO Products Grid
+-------------------------------------------------------------- */
+
+.woocommerce .plethora-woo-shop-grid-3 ul.products li.product,
+.woocommerce .plethora-woo-related-grid-3 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-3 .upsells.products ul.products li.product  {
+  width: 30.8%;
+}
+
+.woocommerce .plethora-woo-shop-grid-2 ul.products li.product,
+.woocommerce .plethora-woo-related-grid-2 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-2 .upsells.products ul.products li.product  {
+  width: 48.1%;
+}
+
+.woocommerce .plethora-woo-related-grid-4 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-4 .upsells.products ul.products li.product {
+  width: 22.05%;
+}
+
+
+/* WOO General Styling
+-------------------------------------------------------------- */
+
+p.demo_store {
+  background: inherit !important;
+  background-color: fade(#000, 40) !important;
+  border: inherit !important;
+  box-shadow: inherit !important;
+  color: #fff !important;
+  bottom: 0 !important;
+  top: inherit !important;
+}
+
+.woocommerce h2,
+.woocommerce h3 {
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 800;
+} 
+
+.radio, .checkbox {
+  display: inline-block;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  min-height: 0px;
+  padding-left: 0px;
+}
+
+.woocommerce #content div.product div.images img, 
+.woocommerce div.product div.images img, 
+.woocommerce-page #content div.product div.images img, 
+.woocommerce-page div.product div.images img,
+.woocommerce ul.products li.product a img,
+.woocommerce-page ul.products li.product a img {
+	box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0);
+}
+
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea,
+.woocommerce-page form .form-row input.input-text,
+.woocommerce-page form .form-row textarea,
+.woocommerce form .form-row select,
+.woocommerce-page form .form-row select,
+.woocommerce form select,
+.woocommerce-page form select,
+.woocommerce form input[type='text'],
+.woocommerce-page input[type='text'],
+.woocommerce-page form textarea {
+  .form-control;
+}
+
+.woocommerce .button,
+.woocommerce-page .button,
+.woocommerce #respond input#submit, 
+.woocommerce-page #respond input#submit {
+  .btn !important;
+}
+
+.woocommerce .woocommerce-error:before, 
+.woocommerce .woocommerce-info:before, 
+.woocommerce .woocommerce-message:before, 
+.woocommerce-page .woocommerce-error:before, 
+.woocommerce-page .woocommerce-info:before, 
+.woocommerce-page .woocommerce-message:before {
+  padding-top: 0;
+}
+
+.woocommerce .woocommerce-error, 
+.woocommerce .woocommerce-info, 
+.woocommerce .woocommerce-message, 
+.woocommerce-page .woocommerce-error, 
+.woocommerce-page .woocommerce-info, 
+.woocommerce-page .woocommerce-message {
+  background: -moz-linear-gradient(center top , #fff 0px, #fff 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border-radius: 3px;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.0) inset, 0 -2px 30px rgba(0, 0, 0, 0.0) inset, 0 1px 0 #fff inset, 0 1px 2px rgba(0, 0, 0, 0);
+  text-shadow: 0 0px 0 #fff;
+  border-left: solid 1px #ccc;
+  border-right: solid 1px #ccc;
+  border-bottom: solid 1px #ccc;
+}
+
+.chosen-container-single .chosen-single {
+  background: inherit !important;
+  background-color: #fff !important;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: inherit !important;
+  color: inherit !important;
+  height: 34px !important;
+  line-height: 33px;
+  overflow: hidden;
+  padding: 0 0 0 10px;
+}
+
+#order_comments {
+  min-height: 6em !important;
+}
+
+/* WOO Shop Catalog Page
+-------------------------------------------------------------- */
+
+.woocommerce .woocommerce-ordering, 
+.woocommerce-page .woocommerce-ordering {
+  float: right;
+  position: relative;
+  top: -17px !important;
+}
+
+.woocommerce .star-rating,
+.woocommerce-page .star-rating,
+.woocommerce .star-rating:before,
+.woocommerce-page .star-rating:before {
+  color: #F7B519 !important;
+}
+
+.woocommerce p.stars a,
+.woocommerce-page p.stars a {
+  color: #F7B519 !important;
+}
+
+mark {
+  background: none repeat scroll 0 0 transparent;
+  color: inherit;
+}
+
+.woocommerce #content input.button.added:before, .woocommerce #respond input#submit.added:before, .woocommerce a.button.added:before, .woocommerce button.button.added:before, .woocommerce input.button.added:before, .woocommerce-page #content input.button.added:before, .woocommerce-page #respond input#submit.added:before, .woocommerce-page a.button.added:before, .woocommerce-page button.button.added:before, .woocommerce-page input.button.added:before {
+  content: "";
+  display: none !important;
+}
+
+           
+/* WOO Single Product Page
+-------------------------------------------------------------- */
+
+.price ins {text-decoration: none;}
+
+.woocommerce #content div.product form.cart div.quantity, 
+.woocommerce div.product form.cart div.quantity, 
+.woocommerce-page #content div.product form.cart div.quantity, 
+.woocommerce-page div.product form.cart div.quantity {
+  margin: 4px 4px 0 0;
+}
+
+.woocommerce #content div.product .woocommerce-tabs ul.tabs, 
+.woocommerce div.product .woocommerce-tabs ul.tabs, 
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs, 
+.woocommerce-page div.product .woocommerce-tabs ul.tabs {
+  margin: 0;
+}
+
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active:before, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before, 
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active:before, 
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active:before {
+  box-shadow: inherit;
+}
+
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li:after, 
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li:before, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li:after, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li:before, 
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:after, 
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:before, 
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li:after, 
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li:before {
+  height: 0px;
+}
+
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li a, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li a, 
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a, 
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li a {
+  color: inherit !important;
+  font-weight: 700 !important;
+  padding: 0.5em 0 !important;
+  text-decoration: none !important;
+  text-shadow: inherit !important;
+}
+
+.panel {
+  background-color: inherit;
+  border: 1px solid transparent;
+  border-radius: inherit;
+  box-shadow: inherit;
+  margin-bottom: 20px;
+}
+
+.woocommerce #reviews #comments ol.commentlist, 
+.woocommerce-page #reviews #comments ol.commentlist {
+  padding:  0;
+}
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text, 
+.woocommerce-page #reviews #comments ol.commentlist li .comment-text {
+  border: inherit;
+  border-radius: inherit;;
+  margin: 0 0 0 60px;
+  padding: 0 1em 0;
+}
+
+.woocommerce #reviews #comments ol.commentlist li img.avatar, 
+.woocommerce-page #reviews #comments ol.commentlist li img.avatar {
+  background: inherit;
+  border: inherit;
+  border-radius: 60px;
+  width: 60px;
+}
+
+.woocommerce #reviews h3, 
+.woocommerce-page #reviews h3 {
+  margin: 0 0 10px 0;
+}
+
+.woocommerce #respond input#submit, 
+.woocommerce-page #respond input#submit {
+  border: 0px solid;
+  color: inherit;
+  font-weight: bold !important;
+}
+
+/* WOO Cart Page
+-------------------------------------------------------------- */
+
+.woocommerce #content table.cart td.actions .input-text, 
+.woocommerce table.cart td.actions .input-text, 
+.woocommerce-page #content table.cart td.actions .input-text, 
+.woocommerce-page table.cart td.actions .input-text {
+  width: 100px;
+}
+
+
+/* WOO Widgets
+-------------------------------------------------------------- */
+
+.widget_product_search {
+	label {display: none;}	
+	input#s {
+	.form-control;
+	width: 68%;
+	display: inline-block;
+	}
+	input#searchsubmit {
+		.btn !important;
+		.btn-default !important;
+		width: 30%;
+		position: relative;
+		top: -1px;
+	} 
+}
+
+.woocommerce ul.cart_list li img, .woocommerce ul.product_list_widget li img, .woocommerce-page ul.cart_list li img, .woocommerce-page ul.product_list_widget li img,
+.woocommerce #content table.cart img, .woocommerce table.cart img, .woocommerce-page #content table.cart img, .woocommerce-page table.cart img {
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+	.img-circle;
+}
+
+.widget_shopping_cart {
+  .widget_shopping_cart_content {
+    padding: 10px 0 !important;
+    ul {
+      margin-left: 20px !important;
+      margin-bottom: 10px !important;
+    }
+    p {
+      padding: 20px 0 10px 20px !important;
+      &.buttons {
+        padding: 0px 0 0px 20px !important;
+      }
+    }  
+  }
+}
+
+
+
+
+
+/* =Responsive: Small screen to tablet & IPAD Portrait
+-------------------------------------------------------------- */
+@media only screen and (max-width: 991px) {
+//------------------------------------------------------------
+
+.woocommerce .plethora-woo-shop-grid-4 ul.products li.product,
+.woocommerce .plethora-woo-related-grid-4 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-4 .upsells.products ul.products li.product {
+  width: 46.2%;
+}
+
+.button.wc-forward {
+	margin-bottom: 5px !important;
+}
+
+//------------------------------------------------------------
+}
+
+
+
+
+/* =Responsive: Landscape Phone to Tablet (Menu Collapse)
+-------------------------------------------------------------- */
+@media only screen and (max-width: 767px) {
+//------------------------------------------------------------
+
+.woocommerce .plethora-woo-shop-grid-3 ul.products li.product,
+.woocommerce .plethora-woo-related-grid-3 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-3 .upsells.products ul.products li.product {
+  width: 46.2%;
+}
+
+//------------------------------------------------------------
+}
+
+
+
+
+/* =Responsive: Portrait Phone
+-------------------------------------------------------------- */
+@media only screen and (max-width: 480px) {
+//------------------------------------------------------------
+
+.woocommerce .plethora-woo-shop-grid-4 ul.products li.product,
+.woocommerce .plethora-woo-related-grid-4 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-4 .upsells.products ul.products li.product,
+.woocommerce .plethora-woo-shop-grid-3 ul.products li.product,
+.woocommerce .plethora-woo-related-grid-3 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-3 .upsells.products ul.products li.product,
+.woocommerce .plethora-woo-shop-grid-2 ul.products li.product,
+.woocommerce .plethora-woo-related-grid-2 .related ul.products li.product,
+.woocommerce .plethora-woo-related-grid-2 .upsells.products ul.products li.product {
+  width: 100%;
+}
+
+//------------------------------------------------------------
+}

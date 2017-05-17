@@ -1,0 +1,71 @@
+/* THEME OPTIONS PANEL SETTINGS  */
+
+  .redux-container #redux-header { background: #53bdbd !important;}
+
+  .redux-container #redux-header .display_header { background-image:url(icons/plethora_shortcodes.png) !important;  }
+
+  .redux-container #redux-header .display_header h2 { font-family: 'Open Sans', sans-serif; font-weight: 900; }
+
+  .admin-color-fresh #redux-header .display_header span { color: #FFF; margin-left: 5px; }
+
+  /* Info field fix */
+  .redux-info-field.redux-normal { background-color: #0074A2; color:#ffffff; padding: 5px; }
+  .redux-info-desc { display:none; visibility: hidden;}
+  .redux-info-field.redux-normal p { margin:0; display:none; visibility: hidden; }
+  .redux-info-field.redux-normal br { display:none; visibility: hidden; }
+  .redux-info-field.redux-normal b { font-size: 14px !important; text-transform: uppercase;}
+  .redux-info-field.redux-normal small { font-size: 11px !important;  text-transform: none; display:block;}
+
+
+  a.redux-info-link { color:#fff !important; }
+
+
+/* METABOXES SETTINGS  */
+
+  .redux-metabox h3.redux-hndle {background:none !important; background-color: #0074A2 !important; }  /* Redux Metaboxes header  */
+  .postbox h3.hndle {background:none !important; background-color: #0074A2 !important; color:#fff !important; } /* WP Metaboxes header */
+  .postbox .postbox-title-action a { color:#fff !important; text-decoration: none !important; } /* WP Metaboxes links ( for dashboard use ) */
+
+/* PLETHORA SHORTCODES FOR TINYMCE BUTTON PANEL  */
+
+  /* Plethora Logo Button */
+  i.plethora-icon { background-image: url(icons/plethora_shortcodes.png); }
+
+/* OPTION FIELDS HACKS */
+/*#ple-portfolio-slides-ul textarea { display: none !important; visibility: hidden !important;}
+#ple-portfolio-slides-ul .full-text { display: none !important; visibility: hidden !important;}
+*/
+
+.redux-main .field-desc {
+  color: #999;
+  font-weight: 300;
+}
+
+.redux_field_th span:first-child {
+  color: #999;
+}
+
+#setting-error-tgmpa {
+  border-left: 4px solid #F00;
+}
+/* THEME SETTINGS LOGO */
+
+.redux-container #redux-header .display_header {
+  background-image: url(./icons/plethora_logo.png) !important;
+  background-repeat: no-repeat;
+  background-position: 0px center;
+  background-size: 80px;
+  margin: 0;
+  padding: 20px;
+}
+.redux-container #redux-header .display_header h2 {
+  margin-left: 80px;
+}
+
+#visual_composer_content {
+  background: #82CFCF;
+}
+
+.wpb_row_container > .wpb_vc_column > .vc_controls {
+  box-shadow: 0px 12px 20px rgba(0, 0, 0, 0.17);
+}

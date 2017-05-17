@@ -1,0 +1,1305 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cleanstart WP Documentation | PlethoraThemes</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Theme styles and Menu styles -->
+<link href="./css/style.css" rel="stylesheet" type="text/css">
+<link href="./css/documentation_style.css" rel="stylesheet" type="text/css">
+<link href="./css/mainmenu.css" rel="stylesheet" type="text/css">
+<!-- Call Fontawsome Icon Font from a CDN -->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<script type="text/javascript" src="./js/modernizr.custom.48287.js"></script>
+<link rel="shortcut icon" href="./favicon.png">
+</head>
+<body data-spy="scroll" data-target=".bs-docs-sidebar">
+<div class="overflow_wrapper">
+     <header class="centered">
+          <div class="container">
+               <div class="logo"><a class="brand" href="index.html"> <img src="./images/cleanstart_logo.png" alt="optional logo"> <span class="logo_title">Cleanstart WP Documentation</span></a></div>
+               <div id="mainmenu" class="menu_container">
+                    <label class="mobile_collapser">MENU</label>
+                    <!-- Mobile menu title -->
+                    <ul>
+                         <li><a href="http://plethorathemes.com/wordpress/cleanstart/" target="_blank">Demo</a></li>
+                         <li><a href="http://www.plethorathemes.com/support" target="_blank">Support Forum</a></li>
+                         <li><a href="http://doc.plethorathemes.com/cleanstart-wp" target="_blank">Online Doc <span class="label label-danger">Always Updated!</span></a></li>
+                         <li><a class="sitemap_toggle">Sitemap</a></li>
+                    </ul>
+ 
+               </div>
+               <div class="triangle-up-left"></div>
+               <div class="triangle-up-right"></div>
+          </div>
+     </header>
+     
+     
+     
+     
+                          <!-- Sitemap
+================================================== -->    
+     <div class="sitemap">
+     <div class="ex"><a>(X) close sitemap</a></div>
+     <div class="container">
+     	<h1>Documentation Sitemap</h1>
+          <p>Always prefer to check out the Online Documentation which is always updated to the latest features! <a href="http://doc.plethorathemes.com/cleanstart-wp" target="_blank"><span class="label label-danger">Online Documentation</span></a></p>
+          
+     
+      
+     	<div class="row">
+          
+          	
+                    
+                    <div class="col-md-3 col-sm-3">
+                    	<h2><a href="#Theme_Installation_Updates"><i class="fa fa-th-large"></i> Theme Installation &amp; Updates</a></h2>
+                              <ul>
+                              <li><a href="#Installing_Wordpress"> Installing Wordpress</a></li>
+                              <li><a href="#Installation_through_Wordpress">Theme Installation through Wordpress</a></li>
+                              <li><a href="#Child_Theme_Installation">Child Theme Installation (Mandatory)</a></li>
+                              <li><a href="#Installation_Through_FTP">Installation Through FTP</a></li>
+                              <li><a href="#Plugin_Installation">Plugin Installation</a></li>
+                              <li><a href="#Update_theme_via_Theme_Forest">Update theme via Themeforest</a></li>
+                              </ul>
+                              
+                              <h2><a href="#Demo_Content"><i class="fa fa-puzzle-piece"></i> Demo Content</a></h2>
+                              <ul>
+                              <li><a href="#Import_demo_content_from_file">Import demo content from file</a></li>
+                              <li><a href="#or_Import_Individual_Pages">or Import Individual Pages</a></li>
+                              
+                              </ul>
+                    </div>
+                    
+                    
+                    <div class="col-md-3 col-sm-3">
+                    	<h2><a href="#Setting_up_your_Theme"><i class="fa fa-stack-overflow"></i> Setting up your Theme</a></h2>
+                              <ul>
+                              <li><a href="#Set_up_a_static_Front_Page">Set up a static Front Page / Posts page</a></li>
+                              <li><a href="#Colors_Typography">Colors &amp; Typography</a></li>
+                              <li><a href="#Miscellaneous">Miscellaneous</a></li>
+                              <li><a href="#Header_Layout_Display">Header Layout &amp; Display</a></li>
+                              <li><a href="#Add_your_logo">Add your logo</a></li>
+                              <li><a href="#Top_Toolbar">Top Toolbar</a></li>
+                              <li><a href="#Footer">Footer</a></li>
+                              <li><a href="#Head_Panel">Head Panel</a></li>
+                              <li><a href="#Single_Posts_Options">Single Posts Options</a></li>
+                              <li><a href="#Single_Pages_Options">Single Pages Options</a></li>
+                              <li><a href="#Add_a_slider">Add a slider</a></li>
+                              <li><a href="#404_page">404 page</a></li>
+                              <li><a href="#Set_up_a_Contact_page">Set up a Contact page</a></li>
+                              <li><a href="#Twitter_Feed">Twitter Feed</a></li>
+                              <li><a href="#Mailchimp_Integration">Mailchimp Integration</a></li>
+                              <li><a href="#Create_the_main_menu">Create the main menu</a></li>
+                              <li><a href="#Create_One_Pager">Create One Page Scrolling Theme</a></li>
+                              <li><a href="#Archive_and_other_Options">Archive & Other Options</a></li>
+                              <li><a href="#Blog_Options">Blog Options</a></li>
+                              <li><a href="#Woocomerce_Settings">WoocCommerce Settings</a></li>
+                              
+                              </ul>
+                    </div>
+          
+          
+          
+          	<div class="col-md-3 col-sm-3">
+                    	<h2><a href="#Custom_Post_Types"><i class="fa fa-hand-o-up"></i> Custom Post Types</a></h2>
+                              <ul>
+                              <li><a href="#Add_a_portfolio_post">Add a portfolio post</a></li>
+                              <li><a href="#Add_a_person">Add a person</a></li>
+                              
+                              </ul>
+                              
+                              <h2><a href="#Shortcodes"><i class="fa fa-indent"></i> Shortcodes</a></h2>
+                              <ul>
+                                   <li><a href="#working_with_visual_composer">Working on editor with Visual Composer panel</a></li>
+                                   <li><a href="#Adding_rows_columns">Adding rows &amp; columns</a></li>
+                                   <li><a href="#Plethora_Shorcodes">Plethora Shorcodes</a></li>
+                                   
+
+                              </ul>
+                              
+                              <h2><a href="#Widgets_Sidebars"><i class="fa fa-picture-o"></i> Widgets &amp; Sidebars</a></h2>
+                              <ul>
+                              <li><a href="#Working_with_Widgets">Working with Widgets</a></li>
+                              <li><a href="#Working_with_Sidebars">Working with Sidebars</a></li>
+                              
+                              </ul>
+
+                    </div>
+
+                    <div class="col-md-3 col-sm-3">
+                         <h2><a href="#Tips_for_advanced_users"><i class="fa fa-rocket"></i> Tips for advanced users</a></h2>
+                              <ul>
+                              <li><a href="#Set_Analytics_Code">Set Analytics Code</a></li>
+                              <li><a href="#Customization">Customization</a></li>
+                              
+                              <li><a href="#Activate_Deactivate_Components">Activate/Deactivate Cleanstart's Components</a></li>
+                         
+                              <li><a href="#Import_Export">Import / Export Cleanstart's settings</a></li>
+                              </ul>
+                    </div>                    
+                    
+                    <div class="col-md-3 col-sm-3">
+                    	<h2><a href="#translate"><i class="fa fa-globe"></i> WPML & Translation</a></h2>
+                              <ul>
+                              <li><a href="#just_translate">Translate Cleanstart to your language</a></li>
+                              <li><a href="#wpml">Create a multilingual site with WPML Plugin</a></li>
+
+                              </ul>
+                    </div>
+          
+          </div>
+     
+     
+     </div></div>
+     
+     
+     
+     
+
+     <div class="main">
+          <div class="container triangles-of-section">
+               <div class="triangle-up-left"></div>
+               <div class="square-left"></div>
+               <div class="triangle-up-right"></div>
+               <div class="square-right"></div>
+          </div><br>
+
+
+          <div class="container bs-docs-container">
+               <div class="row">
+                    <div class="col-md-9" role="main">
+                         <!-- Overview
+================================================== -->
+                                   <div class="bs-docs-section">
+                              <h1 id="overview" class="page-header"><i class="fa fa-align-center"></i> Cleanstart Overview</h1>
+                              <p>Cleanstart is a <strong>multipurpose</strong> but mainly<strong> business oriented</strong> Wordpress Theme, built to serve as a foundation for your web projects. The Design is based on <strong>fine typography</strong> and <strong>large photography </strong>with post-flat UI approach that will add <strong>uniqueness</strong> to your project. It is based on <a href="http://getbootstrap.com/"><strong>Twitter Bootstrap (check out BS excellent documentation)</strong></a>, the front-end development framework with a <strong>steep learning curve</strong> that changes the way you develop sites. Cleanstart lets you build your pages and   posts with a Visual Builder and a great collection of Custom Shortcodes that offers flexibility and pixel-perfect design. </p>
+                              <p>To use the theme <strong>you have to be familiar with Wordpress.</strong> The demo is self-explanatory and you can easily study the pages to discover how to customize them to your needs. This documentation covers some basics to help you get started...</p>
+                         </div>
+
+
+
+                                
+   
+                         
+ 
+
+                         <!-- Theme Installation & Updates
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Theme_Installation_Updates" class="page-header"><i class="fa fa-th-large"></i> Theme Installation &amp; Updates</h2>
+                              
+                              <h3 id="Installing_Wordpress"> Installing WordPress <span style="font-weight:400;">(if you haven't already...)</span></h3>
+                              <p>WordPress is well-known for the easy installation. Under most circumstances installing WordPress is a very simple process and takes less than five minutes to be completed. Many web hosts now are offering tools (e.g. Bluehost, mediatemple) for automatic installation. However, if you wish to install WordPress by yourself, read about the Famous <a href="http://codex.wordpress.org/Installing_WordPress#Famous_5-Minute_Install" target="_blank">5 Minutes Installation</a>.                              </p>
+                              <p>Below you can find some links about WordPress Installation</p>
+                               <p class="alert alert-danger"><a href="https://help.market.envato.com/hc/en-us/articles/202821510" target="_blank"><strong>Common WordPress Installation Issues</strong></a></p>
+                              <ul class="resources-referrals-list"> 
+                                   <li><a href="http://codex.wordpress.org/Installing_WordPress#Things_to_Know_Before_Installing_WordPress" target="_blank">Things to Know Before You Begin Installing WordPress</a>
+                                   </li>
+                                   <li><a href="http://codex.wordpress.org/Installing_WordPress#Detailed_Instructions" target="_blank">Detailed Instructions</a>
+                                   </li>
+                                   <li><a href="http://codex.wordpress.org/Installing_WordPress#Common_Installation_Problems" target="_blank">Common Installation Problems</a>
+                                   </li>
+                                   <li><a href="http://codex.wordpress.org/WordPress_in_Your_Language" target="_blank">WordPress in Your Language</a>
+                                   </li>   
+                                   <li><a href="http://codex.wordpress.org/Installing_WordPress#Installing_Multiple_Blogs" target="_blank">Installing Multiple Blogs</a>
+                                   </li>
+                                   <li><a href="http://codex.wordpress.org/Installing_WordPress#Installing_WordPress_on_your_own_Computer" target="_blank">How to Install on your own Computer</a>
+                                   </li>
+                                   <li><a href="http://codex.wordpress.org/Installing_WordPress#Easy_5_Minute_WordPress_Installation_on_Windows" target="_blank">Easy 5 Minutes WordPress Installation on Windows</a>
+                                   </li>  
+                                   <li><a href="http://codex.wordpress.org/Getting_Started_with_WordPress" target="_blank">Getting Started with WordPress</a>
+                                   </li>
+
+                             
+                              </ul> 
+                              
+                              
+                              
+                              
+
+                              <h3 id="Installation_through_Wordpress">Theme Installation through WordPress (recommended)</h3>
+                              
+                              <p>When you've downloaded CleanStart Theme, unzip the main zip file and you'll find the following:</p>
+
+                              <ul>
+                                   <!--<li><strong>demo content</strong> - folder containing demo content info.-->
+                                   <li><strong>documentation</strong> - folder containing all documentation HTML files &amp; licences</li>
+                                   <li><strong>cleanstart.zip</strong> - Parent theme installation files (ready to use)</li>
+                                   <li><strong>cleanstart-child.zip</strong> - Child theme installation files (ready to use)</li>
+                                   </li>
+                              </ul>
+                              
+                              <p>Now what? Follow the next steps to <strong>install Cleanstart as a WordPress Theme</strong>.</p>
+                                  
+                                   <ul>
+                                        <li>Log in to <strong>Administration Panel</strong> and go to <strong>Appearance > Themes</strong></li>
+                                        <li>Select <strong>Add New</strong> and click <strong>Upload</strong></li>
+                                        <li>Click <strong>Choose File </strong>button and locate your cleanstart.zip file that you  previously downloaded on your computer *</li>
+                                        <li>Click <strong>Install Now</strong></li>
+                                        <li>After CleanStart is installed, locate it and click <strong>Activate</strong>. If you consider installing the child theme ( which is <strong>strongly recommended</strong> ), then there is no need to activate the parent theme in this step.</li>
+                                   </ul>
+                                   <p>
+                                   <i>* Note You should <strong>not upload</strong> the whole item you have downloaded from Themeforest because you will get an <strong>error</strong> of broken stylesheet file. Instead locate the <strong>CleanStart.zip file inside the main file</strong> you downloaded.</i></p>
+                                   <p class="alert alert-danger">Warning: while installing your theme through WordPress admin, you may encounter an <strong>error message</strong> saying : <i>“are you sure that you want to do this?”</i>. This is mainly due to your <strong>hosting php settings</strong>. CleanStart theme zip file is roughly around <strong>6MB</strong> and in some hosting configurations the default limit for max upload is <strong>2MB</strong>. To solve this problem you should either <strong>increase</strong> your maximum upload limit (at least to 8MB) on your <strong>hosting admin panel</strong>, or ask your host to do it for you. This is a <strong>common request</strong> and they should be able to assist you.</p>
+                                   <iframe width="560" height="315" src="http://www.youtube.com/embed/EVas2Wsmegg" frameborder="0" allowfullscreen></iframe>
+
+                                   
+                              <h3 id="Child_Theme_Installation">Child Theme Installation (Strongly Recommended!)</h3>
+                              <p>Cleanstart comes with a child theme included in the theme package. Installing a Child Theme is almost the same as installing any other WordPress theme. The only difference is that you need both the parent theme, and the child theme uploaded to your WordPress theme directory. So, follow the steps described above once more, but now upload <strong>cleanstart_child.zip</strong> instead.</p>
+                             
+                              <p>We focus on using the latest web standards and practices regarding WordPress theme development.<br>  <b>We strongly recommend</b> our customers to install the child theme in order to ensure hassle-free updates.<br> <a href="http://codex.wordpress.org/Child_Themes" target="_blank">Read all about Child Themes!</a></p>
+
+                              <h3 id="Installation_Through_FTP">Installation Through FTP</h3>
+                              <p>If for some reason you had problems installing the theme through wordpress then you can check out the following method:</p>
+                              <ul class="installation-ftp-list">
+                                   <li><strong>Download Cleanstart theme</strong> from ThemeForest and unzip the main zip file</li>
+                                   <li>Locate <strong>cleanstart.zip</strong> and extract/unzip its contents</li>
+                                   <li>Use an <strong>FTP client</strong> (for example <a href="https://filezilla-project.org/" target="_blank">FileZilla</a>) to access your host web server</li>
+                                   <li><strong>Transfer</strong> your unzipped theme folder to your server in the wp-content/themes</li>
+                                   <li>When the theme is uploaded, you have to activate it. Go to <strong>Appearance > Themes</strong> and <strong>activate </strong>Cleanstart theme.</li>
+                                   <li>If you consider installing the child theme ( which is strongly recommended ), then repeat the FTP procedure for cleanstart-child.zip file and activate this instead.</li>
+                              </ul>     
+
+                             
+
+                             
+                              
+                              <h3 id="Plugin_Installation">Plugin Installation</h3>
+                              <p>The following plugins are bits of software that extend the functionality of Cleanstart theme and <strong>are included in the theme package</strong>. When you install Cleanstart, you will get a notification message in your WordPress admin informing you about the required and recommended plugins. <strong>You have to install them</strong>. For those who are not familiar with plugin management, please check <a href="http://codex.wordpress.org/Managing_Plugins" target="_blank">WordPress Codex > Managing Plugins reference</a></p>
+                              <ul>
+                                   <li>
+                                        <strong>Plethora Framework</strong> (<i>mandatory</i>)
+                                        <p>This is Plethora's theme framework plugin. Please make sure that it is always installed &amp; activated, otherwise your theme will not be functional.</p>
+                                   </li>
+                                   <li>
+                                        <strong>Visual Composer</strong> (<i>mandatory</i>)
+                                        <p>Visual Composer allows you to edit your content using an enhanced page builder. <br><u>You are expected to use the version included in the package</u>, as it is configured to work seamlessly with the theme. <br>
+                                        <strong>Please, note that we do not offer compliance with any licensed version of Visual Composer plugin other than the one included in Cleanstart's Package.</strong></p>
+
+                                   </li>
+                                   <li><strong>Contact Form 7</strong> ( <i>recommended</i> ). 
+                                        <p>Contact Form 7 can manage multiple contact forms. You can also customize the form and the mail contents flexibly with simple markup. Cleanstart design is compatible with any form created using Contact Form 7. <br>
+                                        <i>Note that for core functionality issues (non related to design), you should refer to the <a href="http://contactform7.com/docs/" target="_blank">plugin documentation</a> or <a href="http://wordpress.org/plugins/contact-form-7/" target= blank>contact the author directly</a>.</i>
+                                        <br><strong>Please, be careful.</strong> You have to <strong>install and activate</strong> Contact Form 7 before importing content!</p>
+                                   </li>
+                                   <li><strong>WP Envato Plugin ( <i>recommended</i> )</strong></li>
+                                   <p>Envato plugin, provides a direct connection with your Envato account.</p>
+                                   <ul>
+                                        <li>Activate the plugin after install by clicking the <strong>"Acitvate Plugin"</strong> link that's displayed</li>
+                                        <li>Navigate to <strong>WP-Admin > Envato Toolkit</strong></li>
+                                        <li>Type your Envato Marketplace Username (Themeforest login name) and <a href="http://themeforest.net/help/api">Secret API Key</a></li>
+                                        <li>Click <strong>"Save Settings"</strong>.</li>
+                                        <li>Once the settings are saved, you will see a listing of all you Themeforest available downloads.</li>
+
+
+                                   </ul>
+<!--                                    <li><strong>WPML</strong> ( <i>recommended</i> ). 
+                                        <p>For international versions, we strongly recommend using WPML plugin</p>
+                                        <ul>
+                                            <li><a href="http://wpml.org/documentation/getting-started-guide/" target="_blank">WPML Getting Started Guide</a></li>
+                                        </ul>
+
+                                   </li>
+ -->                              
+                              </ul>
+                               <h3 id="Update_theme_via_Theme_Forest"> Update theme</h3>
+                              <p>Cleanstart will be regularly updated to keep up with wordpress updates. So if you get notified about an update, follow the instructions :</p>
+                              
+                              <p class="alert alert-danger"><b>The first and most important step to update your theme is to BACKUP your site and Database.</b> There are plenty of ways of doing that, you can start from here: <a href="http://codex.wordpress.org/WordPress_Backups" target="_blank">WordPress Backups</a></p>
+
+                              <ul class=updating-theme-theme-forest>
+                                   <li>Login into your Themeforest account, go to <strong>Dashboad > downloads</strong> and <strong>download the theme</strong> into your computer
+                                   </li>
+                                   <li><strong>Install an FTP program </strong>if you already do not have one (Filezilla is free)
+                                   </li>
+                                   <li><strong>Retrieve</strong> your FTP login information from your hosting admin panel and <strong>login</strong> into your hosting <strong>via FTP</strong>
+                                   </li>
+                                   <li><strong>Unzip</strong> the item main file
+                                   </li>
+                                   <li><strong>Locate</strong> theme.zip (e.g. : CleanStart.zip) and <strong>unzip</strong> it. Make sure your unzipping software does not create extra directory with the same name nested into each other.
+                                   </li>
+                                   <li>Locate the theme main folder on your FTP program ( should be something like: <i>"YOUR_HOSTING_ROOT/YOUR_SUBDIRECTORY/wp-content/themes/"</i> ) and <strong>drag and drop</strong> the local version in it. FTP program will give a <strong>warning</strong> that there is already a directory with the same name. Choose <strong>"replace all"</strong>.
+                                   </li>
+                                   <li>It will take from <strong>2 to 10</strong> minutes to replace all files. When you finish, login into your wordpress dashboard, go to <strong>Appearance > Themes</strong>, and on the "Cleanstart Parent Theme Screenshot" you will verify the new version. <strong>Child theme doesn't need to be updated</strong> unless you made no changes to it and want the new cool screenshot.
+                                   </li>
+                                   <li>Finally, a TGM notice will appear on top of your administration page to <strong>update the "Plethora Themes Framework" plugin</strong>. Update it by clicking on the notice and clicking "Update" and "Activate" under the "Plethora Themes Framework" listing in the list that appears. Or, on the "Themes" page, click to view Cleanstart Theme Details and in the popup window, click "Update Plugins" button on the bottom.</li>
+                              </ul>
+                              
+                         </div>
+                         <!-- Demo Content #Demo Content
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Demo_Content" class="page-header"><i class="fa fa-puzzle-piece"></i> Demo Content</h2>
+                              <p>Now that you have installed your theme you should start setting it up! One way of going, is putting some content first. Let us tell you this: <strong>There is not an one-click-install of the Demo Content</strong> yet! So, you either...</p>
+                              <h3 id="Import_demo_content_from_file">Import demo content from file</h3>
+                              <p>Below you can find a step by step guide, taken from the <a href="http://codex.wordpress.org/Importing_Content#WordPress" target="_blank">Importing Content</a> page from the WordPress website.</p>
+                              <ul class="demo-content-guide-list">
+                                   <li>Log into your site as an <strong>administrator</strong>.</li>
+                                   <li>Go to <strong>Administration &gt; Tools &gt; Import</strong></li>
+                                   <li>Choose <strong>WordPress</strong> from the list, install and activate the theme.</li>
+                                   <li>Run Importer</li>
+                                   <li>Click on "Choose File" and browse to select the <strong>.xml</strong> file of your choice from the "Demo Content" folder of your downloaded package.</li>
+                                   <li>Click "Upload file and Import"</li>
+                                   <li>You will be asked to map the authors in this export file to users on the blog. <br>For each author, you may choose to <strong>map</strong> to an <strong>existing user</strong> on the blog or to <strong>create a new user</strong>.</li>
+                                   <li>You will then have the choice to import attachments, so click on the <strong>Download and import file attachments</strong> box and then click "Submit"</li>
+                                   <li>Posts, Pages, Projects, and Menus are imported. So be patient and do not refresh the page until the <strong>All done. Have fun!</strong> message appears.</li>
+                                   <li>After that, you will need to <ul>
+                                        <li>Go to Settings > Reading and set "Front page displays" to "A static page (select below)" and select "HOME" for Front Page and "BLOG" for Posts Page</li>
+                                        <li>Go to Appearance > Menus and check "Primary Navigation" for the "Main menu" location and save. </li>
+                                        <li>You also have to go to Appearance > Widgets and setup Sidebars and Widgets. This is a limitation of WordPress’ import system.</li>
+                                   </ul>
+                                   <li>Enjoy Cleanstart!</li>
+                              </ul>
+                              <p class="alert alert-danger">Please be patient while WordPress imports all the content. <br>Do not refresh the page until the <strong>All done. Have fun!</strong> message appears.</p>
+                              <h3 id="or_Use_Visual_Composer_Templates">or Use Visual Composer Templates</h3>
+                              <p>Apparently, this is the most convenient demo content importing method. We use Visual Composer's functionality to import page templates directly on the editor. To import one of the default demo page templates, follow the instructions :</p>
+                              <ul class="demo-content-guide-list">
+                                   <li><strong>Log in</strong> to your site administration</li>
+                                   <li>Go to <strong>Pages > New</strong></li>
+                                   <li>Fill the <strong>title field</strong> with the name of the page ( i.e. <i>About Us</i> ).</li>
+                                   <li>Right after the title field, click on <strong>Backend Editor</strong> button.</li>
+                                   <li>On VC Backend Editor view, click on the <strong>templates icon</strong> (3rd icon on your left).</li>
+                                   <li>On the <strong>Templates</strong> pop up window, click on <strong>'Default Templates'</strong> tab.</li>
+                                   <li>Now you should see a <strong>list with all default templates</strong>. Click the one you need ( i.e. 'About Us Page' ). After a couple of seconds, you will see the editor on the back filled up with content boxes.</li>
+                                   <li>Close the 'Templates' popup window and click on the 'Publish' button on your right to save your page...and that was all!</li>
+                                  
+                              </ul>
+                              <h3 id="or_Import_Individual_Pages">or Import Individual Pages</h3>
+                              <p>If you don't wish to import all of our demo content, you can import individual pages.Below you can find the demo code for all the individual pages on our demo, made with shortcodes. To copy one of our demo pages, follow the instructions :</p>
+                              <ul>
+                                   
+                                   <li>Click the Link of the page you want to copy, select the text and copy it.</li>
+                                   <li>Add a new page in your WordPress admin.</li>
+                                   <li>Click on the TEXT tab <strong>(not the VISUAL tab)</strong> and paste the content into the editor's field. <br>Publish the page and you’re ready!</li>                                
+                              </ul>
+                               <ul id="individual_pages">
+                                        <li><a href="demo-pages/home.txt" target="_blank">Home Page</a></li>
+                                        <li><a href="demo-pages/about_us.txt" target="_blank">About Us </a></li>
+                                        <li><a href="demo-pages/services.txt" target="_blank">Services </a></li>
+                                        <li><a href="demo-pages/portfolio.txt" target="_blank">Portfolio </a></li>
+                                        <li><a href="demo-pages/contact.txt" target="_blank">Contact </a></li>
+                                        <li><a href="demo-pages/home_alt.txt" target="_blank">Home alternative </a></li>
+                                        <li><a href="demo-pages/dark_mix.txt" target="_blank">Dark Mix </a></li>
+                              </ul>
+                         </div>
+                         
+                         <!-- Setting up your Theme
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Setting_up_your_Theme" class="page-header"><i class="fa fa-stack-overflow"></i> Setting up your Theme</h2>
+                              
+                              <h3 id="Set_up_a_static_Front_Page">Set up a static Front Page / Posts page</h3>
+                              <p><strong>Administration > Settings > Reading > Front Page Displays</strong></p>
+                                   <p>By default, WordPress displays latest posts in the Front Page. You should change this behavior by setting up a different static Front Page / Posts Page instead: </p>
+                                   <ul>
+                                        <li><strong>Add a new page to use it as Front Page</strong>. You should give a distinctive name ( e.g. <i>Home</i> or <i>Welcome</i> )</li>
+                                        <li><strong>Add another new page to use it as Posts Page</strong>. You should give a distinctive name ( e.g. <i>Blog</i> or <i>News</i> ). This page will be select as your static blog page.<br>
+                                        <strong>Important note:</strong><i> for the moment, you should not make any page configuration, since the options given here will change right after you set it as your static blog page on the following steps.</i> </li>
+                                        <li>Go to <strong>Administration > Settings > Reading > Front Page Displays > Front Page</strong></li>
+                                        <li>Change your Front page display to <strong>a static page</strong></li>
+                                        <li>Select the first page you created for <strong>Front Page</strong></li>
+                                        <li>Select the second page you created for <strong>Posts Page</strong></li>
+                                        <li>Click the <strong>Save Changes</strong> button...you are ready!<br>
+                                        <strong>Important note:</strong><i> now, you have 2 ways to setup your blog options. You can go directly to the static Posts Page or you can go to Theme Settings panel > Blog ( check <a href="#Blog_Options">Blog Options</a> section below for further instructions ).</i> </li>
+                                        </li>
+                                   </ul>
+
+                             <h3 id="Colors_Typography">Colors & Typography</h3>
+                             <h4><strong>Body & Headings</strong></h4>
+                              <p><strong>Administration > Theme Settings > General > Body & Headings</strong>
+                                   </p>
+                             <p>In this section you can set <strong>Body Background</strong> Color, <strong>Body Text </strong> Color and <strong>Body Link</strong> Color using a simple color picker!<br> <i>Have in mind that Cleanstart's design looks perfect with any light background color.</i><br>You can also choose different font style for <strong>Headings</strong> and <STRONG>Body Text</STRONG>. You could select between a Standard or a Google Font family,  Standard font families are usually pre-installed on users machines (PC, Mac, etc.), while Google Fonts are loaded automatically from Google CDN. Google Fonts support different subsets, depending on the website language.<br> Each Google Font family supports specific language subsets that are refreshed automatically on font selection. <br>Latin is the default subset for all Google Fonts<br></p>
+                             <h4><strong>Headings & Buttons Text Transform</strong></h4>
+                             <p>Select <strong>uppercase</strong> transformation or <strong>none</strong> for headings and buttons texts</p>
+
+                             <h4><strong>Skin Coloured Sections</strong></h4>
+                             <p><strong>Administration > Theme Settings > General > Skin Coloured Sections</strong>
+                                   </p>
+                             <p>The skin color is the basic color shade for several design elements and affects the overall theme's look and feel, you can set different colors for <strong>Skin Sections Background</strong> Color, <strong>Skin Sections Text</strong> Color and <strong>Skin Sections Link</strong> Color.<br> Usually, the skin color selection is in line with the company/organization logo. </p>
+                             <h4><strong>Dark Coloured Sections</strong></h4>
+                             <p><strong>Administration > Theme Settings > General > Dark Coloured Sections</strong>
+                                   </p>
+                              <p>On this section, you can choose different colors for your <strong>Call to Action Shortcode</strong>.<br> <strong>Background</strong> Color, <strong>Text</strong> Color, and <strong>Link</strong> Color can be easily set using a color picker.</p>     
+
+                             
+                             <h4><strong>Header Colors & Typography</strong></h4>
+                             <p><strong>Administration > Theme Settings > Header > Colors & Typography</strong>
+                                   </p>
+                              <p>On this group of settings you can set your menu layout.<br>Menu <strong>Background</strong> Color, Background <strong>Transparency</strong> and <strong>Link</strong> Color included.</p>     
+                             
+                             <h4><strong>Footer Main Section</strong></h4>
+                             <p><strong>Administration > Theme Settings > Footer > Main Section</strong><p>Footer <strong>Background</strong> color, <strong>Text</strong> color and <strong>Link</strong> color can be seted on this Settings group. </p>
+
+
+                              <h3 id="#Miscellaneous">Miscellaneous</h3>
+                              <h4><strong>Back to top</strong></h4>
+                              <p><strong>Administration > Theme Settings > Miscellaneous > Back to Top</strong></p>
+                              <p>On this section you can choose to Enable or Disable <strong>Back to Top</strong> button</p>
+                              <h4><strong>TextRotator Animation Speed</strong></h4>
+                              <p><strong>Administration > Theme Settings > Miscellaneous > TextRotator Animation Speed</strong></p>
+                              <p>If you wish to change the speed of the Text Rotator effect (found on the <strong>Call to Action</strong> shortcode) you need to set the <strong>TextRotator Animation Speed</strong> option and change its value to the number of milliseconds you want the effect to take place.<br> You can set a word(s) rotation on any text using the following pattern:<br> <pre>&lt;span class="rotate"&gt;words_to_rotate1, words_to_rotate2, words_to_rotate3&lt;/span&gt;</pre></p> 
+
+                              <h4><strong>Text Shadows</strong></h4>
+                             <p><strong>Administration > Theme Settings > General > Miscellaneous > Text Shadows</strong>
+                                   </p>     
+                              <p>Enable or disable text shadows that appears at the following Captions: <strong>Sliders</strong>, <strong>Headers Full Image</strong>, <strong>Newsletter</strong>, <strong>Parallax</strong>, <strong>Call to Action</strong></p>                       
+
+                              <h3 id="Header_Layout_Display">Header Layout &amp; Display</h3>
+                              <p><strong>Administration > Theme Settings > Header > Layout &amp; Display</strong>
+                                   </p>
+                              <p>On this panel you can set the <strong>header layout</strong> choosing from the dropdown list that appears, to enable or disable <strong>sticky header</strong> and hide or display <strong>side corners</strong>. Have in mind that this options <strong>can be overridden on page/post settings.</strong></p>
+                              <p>We recommend you to disable Admin Toolbar during site setup! <br><strong> Users > Select User > Uncheck </strong>"Show Toolbar when viewing site"</p>
+                         
+
+
+                              <h3 id="Add_your_logo">Add your logo</h3>
+                              <p><strong>Administration > Theme Settings > Header > Logo</strong></p>
+                              <p>Add your logo Following the steps below.</p>
+                              <ul>
+                              <li>Upload your logo</li>
+                              <li>Choose one of the 3 available layouts from the <strong>Logo Layout</strong> select box.</li>
+                              <li>Set your logo title</li>
+                              <li>Set image size</li>
+                              <li>Set logo container width/height</li>
+                              <li>Set logo title container size</li>
+                              <li>Set logo container padding</li>
+                              <li>Click <strong>Save Changes</strong></li>
+                              </ul>
+                              <h3 id="Top_Toolbar">Top Toolbar</h3>
+                              <p><strong>Administration > Theme Settings > Header > Top Toolbar</strong></p>
+                              <p>In this section you can select to hide or display the <strong>top toolbar</strong>. This toolbar has a menu on the left that you can setup like all other menus and text on the right that you can fill in. Once you select to display the toolbar from the settings of a page or the general settings, all the options will appear.
+                              </p>
+                              <iframe width="560" height="315" src="http://www.youtube.com/embed/Cti8foHo3R8" frameborder="0" allowfullscreen></iframe>
+                              <h3 id="Footer">Footer</h3>
+                              <p><strong>Administration > Theme Settings > Footer </strong></p>
+                              <ul>
+                                   <li>Choose <strong>footer area layout</strong></li>
+                                   <li>Hide or Display <strong>Side Corners</strong></li>
+                                   <li>Hide or Display Footer <strong>info bar</strong></li>
+                                   <li>Set <strong>info bar container height</strong></li>
+                                   <li>Type your <strong>copyright text</strong></li>
+                                   <li>Type your <strong>Credits text</strong></li>
+                                   <li>Enable or Disable <strong>Twitter feed section</strong></li>
+
+                              </ul>
+
+                              <h3 id="Head_Panel">Head Panel</h3>
+                              <p><strong>Administration > Theme Settings > Head Panel</strong></p>
+                              <p>The head panel is one of the basic design elements on Cleanstart theme. Depending on the settings, it can be adjusted to display a different title/subtitle and background on every single page of your website.</p>
+                              <p>The <strong>Title</strong> can be adjusted to display the main page title or even a custom one, while the <strong>Subtitle</strong> usually is a small introductory text to the main content. The text align can be adjusted as well.</p>
+                              <p>As a <strong>Background</strong>, you have the option to display an image, an image slider, a local-hosted video, a Google map or just the skin color, while you may adjust the panel height in order to fit exactly on your needs.
+                              <h5><strong>Head Panel Default Options</strong></h5>
+                              <p>Settings  are grouped according to the type of page the Head Panel is displayed in:</p>
+                                   <ul>
+                                   <li><strong><i>General</i></strong> ( settings that affect ALL pages/posts/portfolio posts ).</li>
+                                   <li><strong><i>Pages</i></strong> ( settings that affect ONLY normal pages ).</li>
+                                   <li><strong><i>Posts</i></strong> ( settings that affect ONLY single posts ).</li>
+                                   <li><strong><i>Portfolio Posts</i></strong> ( settings that affect ONLY single portfolio posts ).</li>
+                                   <li><strong><i>Blog Pages</i></strong> ( settings that affect ONLY blog pages ).<br/>Blog pages settings include detailed options for <i>search</i>, <i>category</i>, <i>tag</i>, <i>date</i> and <i>author</i> page.</li>
+                                   </ul>
+                              <h5><strong>Override Head Panel settings on a single Page / Post / Portfolio Post</strong></h5>
+                              <p>Default settings can be edited in separate on every single page / post / portfolio post that you create. These settings are included on the 'Head Panel' tab on options box ( right below the main content editor )</p>
+
+                              <p><strong>Tip:</strong> If you want to completely hide the Head Panel, you must set the<strong> Head Panel > Panel Height</strong> to 100px.</p>
+                              <iframe width="560" height="315" src="http://www.youtube.com/embed/d9Pa6Nl0odY" frameborder="0" allowfullscreen></iframe>
+
+                              <iframe width="560" height="315" src="http://www.youtube.com/embed/wnSq7w-Xn-g" frameborder="0" allowfullscreen></iframe>
+
+
+                             
+                              <h3 id="Single_Posts_Options">Single Posts Options</h3>
+                              <p><strong>Administration > Theme Settings > Posts</strong></p>
+                              <p><i>All options can be overridden on a single page</i></p>
+                              <ul>
+                                   <li>Select <strong>Single Post Layout</strong></li>
+                                   <li>Choose <strong>Single Post Sidebar</strong> from the drop down list</li>
+                                   <li>Hide or Display <strong>Title On Content</strong><br>
+                                        Depending on your head panel settings, you might need to hide or display title on content</li>
+                                   <li>Hide or Display <strong>Featured Media On Content</strong></li>
+                                   <li>Choose <strong>List View Media</strong></li>
+                                   <li>Show or Hide <strong>Categories Info</strong></li>
+                                   <li>Show or Hide <strong>Tags Info</strong></li>
+                                   <li>Show or Hide <strong>Author Info</strong></li>
+                                   <li>Show or Hide <strong>Date Info</strong></li>
+                                   <li>Show or Hide <strong>Comments Count Info</strong></li>
+
+                              </ul>
+
+                              <h3 id="Single_Pages_Options">Single Pages Options</h3>
+                              <p><strong>Administration > Theme Settings > Pages</strong></p>
+                              <p><i>All options can be overridden on a single page</i></p>
+                              <ul>
+                                   <li>Select <strong>Page Layout</strong></li>
+                                   <li>Hide or Display <strong>Title On Content</strong><br>
+                                   Depending on your head panel settings, you might need to hide or display title on content</li>
+                              </ul>
+
+                         
+          
+                              <h3 id="Add_a_slider">Add a slider</h3>
+                               <strong>Administration > Sliders > Add New</strong>
+                               <p>
+                                Follow the steps below to create your first slider in no time!</p>
+                               <p><strong>Sliders</strong></p><ul>
+                                   
+                                   <li>Add as many slides as you need by clicking the "new slide" button.</li>
+                                   <li>Upload your image, type title and description.</li>
+                               </ul>
+                              <p><strong>Settings</strong></p><ul>
+                                   
+                                   <li>Choose "Yes" or "No" to enable or disable <strong>auto slideshow</strong></li>
+                                   <li>Choose "Horizontal" or "Vertical" <strong>slideshow direction</strong></li>
+                                   <li>Choose "Yes" or "No" to enable or disable <strong>slideshow loop</strong></li>
+                                   <li>Set <strong>slideshow speed</strong></li>
+                                   <li>Set <strong>animation speed</strong></li>
+                                   <li>Choose "Yes" or "No" to show or not to show <strong>navigation arrows</strong></li>
+                                   <li>Choose "Yes" or "No" to show or not to show<strong> navigation bullets</strong></li>
+                                   <li>Choose "Yes" or "No" to enable or disable <strong>randomize</strong>. <br>Random slide order every time the slider starts</li>
+                                   <li>Choose "Yes" or "No" for <strong>Pause on action</strong>
+                                        <br>Pause the slideshow when interacting with control elements, highly recommended!</li>
+                                   <li>Choose "Yes" or "No" for <strong>Pause on hover</strong></li>
+                              </ul>
+                              <iframe width="560" height="315" src="http://www.youtube.com/embed/mdFJG515zgk" frameborder="0" allowfullscreen></iframe>
+                              <h3 id="404_page">404 page</h3>
+                              <p><strong>Administration > Theme Settings > 404 Page</strong></p>
+                              <p>Here, you can easily and quickly set your: </p>
+                                   <ul>
+                                        <li>Header title</li>
+                                        <li>Header subtitle</li>
+                                        <li>Header image</li>
+                                        <li>Content Title &amp; Content Subtitle</li>
+                                   </ul>
+
+                              <h3 id="Set_up_a_Contact_page">Set up a Contact page</h3>
+                              <p>To set this up, first you have to install &quot;contact form 7&quot; plugin. Then go to <strong>Administration > Contact > add new </strong>and create a new form. Copy and paste the following code to the &quot;Form&quot; Panel on your left.</p>
+                              <pre>
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-sm-6 col-md-6&quot;&gt;
+&lt;label&gt;Name&lt;/label&gt;<br>[text* your-name class:form-control] <br>&lt;/div&gt;                              <p>&lt;div class=&quot;col-sm-6 col-md-6&quot;&gt;
+&lt;label&gt;E-mail&lt;/label&gt;<br>[email* your-email class:form-control]<br>&lt;/div&gt;<br>&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;<br>&lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;<br>&lt;label&gt;Subject&lt;/label&gt;<br>[text your-subject class:form-control] <br>&lt;/div&gt;<br>&lt;/div&gt;<br>&lt;div class=&quot;row&quot;&gt;<br>&lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;<br>&lt;label&gt;Message&lt;/label&gt;<br>[textarea your-message class:form-control]<br>&lt;/div&gt;
+&lt;/div&gt;<br>&lt;div class=&quot;row&quot;&gt;<br>&lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;<br>[submit class:btn class:btn-primary &quot;Send&quot;]<br>&lt;/div&gt;&lt;/div&gt;                             </p>
+                              </pre>
+                              <br>
+<p>Then fill in your email and the other details and save. Now your contact form is set. Create a new page for your contact page and put the &quot;Contact Page&quot; Template through the Visual composer. Edit the &quot;Contact Form 7&quot; shortcode to load your just-made form.</p>
+<h4><strong>Setting your Background Map</strong></h4>
+<strong>Pages > Contact > Page Options > Head Panel > Background Type
+</strong>
+<p>When you have already create your Contact Page, setting up your map as head panel background is the final step. 
+<br>Below all the options you have to set :
+</p>
+<ul>
+     <li>Choose <strong>"Map"</strong> as background type</li>
+     <li>Set <strong>Panel Hight</strong></li>
+     <li>Set <strong>Map Latitude</strong></li>
+     <li>Set <strong>Map Longtitude</strong></li>
+     <li>Select <strong>Map Type</strong></li>
+     <li>Set <strong>Map Zoom</strong></li>
+     <li>Choose to show or not <strong>mark over your location</strong></li>
+     <li>Choose to display or not <strong>Zoom Controls</strong></li>
+</ul>
+<h3 id="Twitter_Feed">Twitter Feed</h3>
+                              <p><strong>Administration > Theme Settings > Social &amp; APIs > Twitter Feed Options</strong></p>
+                              <p>To setup the Twitter Feed, you should <a href="http://www.mulesoft.org/documentation/display/current/Configure+Twitter+for+API+Access" target="_blank">first create a new Twitter Application</a> and obtain the necessary API Credentials ( Screen name | Consumer Key | Consumer Secret | OAuth Token | OAuth Token Secret ). </p>
+                              <p>After obtaining these settings, fill the related fields. These settings are all you need to make the feed work. Optionally, you may set your profile link, change the number of displayed tweets and enable tweet replies.</p>
+                              <p><strong>Note</strong>: <i>the default Twitter Feed <strong>activation/deactivation</strong> switch relies on <strong>Theme Settings > Footer > General tab</strong> and there is also an override switch on every post/page/portfolio settings box ( <strong>Other Elements</strong> tab )</i></p>
+
+                                <h3 id="Mailchimp_Integration">MailChimp Integration</h3>
+                              <p><strong>Administration > Theme Settings > Social &amp; APIs > MailChimp API</strong></p>
+                              <p>
+                                   Cleanstart provides a MailChimp Form shortcode that has a direct connection with your MailChimp account. <br>
+                                   If you don't have a mailchimp account, <a href="http://mailchimp.com/">visit mailchimp</a> and sign up for one.
+                                   <br>Then, you have to <a href="http://kb.mailchimp.com/accounts/management/about-api-keys#Finding-or-generating-your-API-key" target="blank">generate your api key </a> and <a href="http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-id" target="blank">find your list id</a>.<br> Copy and paste it to the admin required fields.
+
+
+                                   
+                                  
+                              </p>
+
+
+                              <h3 id="Customization">Custom CSS / Javascript</h3>
+                              <h4>Set Custom CSS</h4>
+                              <strong>Administration > Theme Settings > Advanced > Custom Style Options</strong>
+                              <p>Generaly <strong> we strongly recommend placing you custom CSS rules on child theme's main stylesheet ( style.css )</strong>. <br>Nevertheless, you may place your custom CSS in this field too. These rules will be loaded on every page of the website. <br> <strong>Please be careful</strong>, do not wrap your CSS inside &lt;style&gt; tags, as this is done automatically </p>
+                              <h4>Set Custom JS</h4>
+                              <strong>Administration > Theme Settings > Advanced > Custom > Javascript Options</strong>
+                              <p>You may place your custom JS in this field. Scripts, set in this field, will be loaded on every page of the website. <br><strong>Please be careful</strong>, do not wrap your JS inside &lt;script&gt; tags, as this is done automatically </p>
+  
+                                <h3 id="Set_Analytics_Code">Set Google Analytics Code</h3>
+                              <p><strong>Administration > Theme Settings > Advanced > Google Analytics Options</strong></p>
+                              <p>Follow the steps below to set your Google analytics</p>
+                              <ul>
+                                   <li>Go to <a href="https://accounts.google.com/ServiceLogin?service=analytics&userexp=signup&hl=en" target="blank">Google Analytics Signup Page  </a>and <strong> create (if you do not have already) a Google account</strong></li>
+                                   <li>When you sign in your account you have to choose between website or mobile app. <strong><br>Make sure website is selected</strong>.</li>
+                                   <li>Enter your website's url, account name, country etc.</li>
+                                   <li>Click on the get tracking ID button</li>
+                                   <li> Copy this tracking code and paste it in Google analytics options section.</li>
+                              </ul>
+
+
+
+
+                              <h3 id="Create_the_main_menu">Create the main menu</h3>
+                              <p>Creating WordPress Menus is an easy procedure. Follow the steps below and you will create your first menu in no time!
+                              Have in mind that you should create pages, posts, portfolio items, etc. before adding them to the menu. </p>
+                              <ul>
+                                   <li>Login to the WordPress <strong>Dashboard</strong></li>
+                                   <li>From the <strong>Appearance</strong> menu on the left-hand side of the Dashboard, select the <strong>Menus</strong> option to bring up the Menu Editor.</li>
+                                   <li>Select <strong>Create a new menu</strong> at the top of the page</li>
+                                   <li>Enter a name for your new menu in the <strong>Menu Name box</strong></li>
+                                   <li>Click the <strong>Create Menu</strong> button</li>
+                                   <li>Click the <strong>Save Menu</strong> button</li>
+                              </ul>
+                              <h3>Create a Super Menu</h3>
+                              <ul>
+                                   <li>Go to <strong>Appearance > Menus</strong></li>
+                                   <li>Select the Menu that you want to work with</li>
+                                   <li>Click <strong>"Screen Options"</strong> and Check <strong>"CSS Classes"</strong></li>
+                                   <li>Go to parent menu item and select <strong>"two column drop left"</strong> from the dropdown list</li>
+                                   <li>Place your submenu items and select <strong>"single column"</strong> from the dropdown list</li>
+
+                              </ul>
+                                <!-- CREATE ONE PAGER -->
+
+                              <h3 id="Create_One_Pager">Create One Page Scrolling Theme</a></h3>
+                              <p>Setting up your One Page is a very fast procedure. Just follow the steps below or watch our video tutorial and you will be able to do it in no time!</p>
+                              <ul>
+                                   <li>Create a <strong>New Page</strong></li>
+                                   <li>Go to <strong>Screen Options Panel</strong> and <strong>check</strong> discussion, then <strong>Uncheck</strong> the Discussion Settings that appear at the bottom of your page settings.</li>
+                                   <li>Build your content using the Backend Editor. In each row there is a <strong>"Section id"</strong> field. You should put a <strong>unique id</strong> in each section in order to use it later on your "One Page" Menu.</li>
+                                   <li>Go to <strong>Page Options > Other Elements</strong> and <strong>Enable</strong> the "One Page Scrolling" Setting</li>
+                                   <li>Set your <strong>"One Page Scrolling Speed"</strong> (optional).</li>
+                                   <li>Save Page Settings</li>
+                                   <li>Go to <strong>Appearence > Menus</strong> create a new menu and Set it as Primary</li>
+                                   <li>Select <strong>"Links"</strong> from your left Menu Settings Panel</li>
+                                   <li>Now, you have to put each id you have already created in each menu position, don't forget to put a <strong>hashtag #</strong> before the id's.</li>
+                                   <li>Save the Menu and you are done!</li>
+                              </ul>
+                              <iframe width="560" height="315" src="http://www.youtube.com/embed/_6CMWOAf-YA" frameborder="0" allowfullscreen></iframe>
+                               
+                              <!-- /CREATE ONE PAGER -->
+                              
+                              <!--Archive and Other Options-->
+                              <H2 id="Archive_and_other_Options" class="page-header"> <i class="fa fa-wrench"></i>Archive and Other Options</H2>
+                         
+                              <!-- Blog Options -->
+                               <h3 id="Blog_Options">Blog Options</h3>
+                              <p><strong>Administration > Theme Settings > Blog</strong></p>
+                              <ul>
+                                   <li>Select <strong>Blog Layout</strong></li>
+                                   <li>Choose <strong>Blog Sidebar</strong> from the dropdown list appearing</li>
+                                   <li>Write the <strong>"no posts" title</strong> of the message you want to appear when no post where found.</li>
+                                   <li>Write the <strong>"no posts" Description</strong> of the message you want to appear when no post where found.</li>
+                                   <li>Show or Hide <strong>Categories info</strong></li>
+                                   <li>Show or Hide <strong>Tag Info</strong></li>
+                                   <li>Show or Hide <strong>Author Info</strong></li>
+                                   <li>Show or Hide <strong>Date Info</strong></li>
+                                   <li>Show or Hide <strong>Comments Count Info</strong></li>
+
+                              </ul>
+                              <!-- /Blog Options-->
+
+                              <!-- WooCommerce Settings -->
+                              <h3 id="Woocomerce_Settings">WooCommerce Settings</h3>
+                              <p><strong>Administration > Theme Settings > WooCommerce</strong></p>
+                              <p>Cleanstart comes with a group of settings that gives you the opportunity to create a full functional WooCommerce shop  without the usage of any third party plugin.
+                              </p>
+                              <ul>
+                                   <i>All options can be overriden on a single product post</i>
+                                   <li>Select <strong>Product Post Layout</strong></li>
+                                   <li>Select <strong>Product Post Sidebar</strong></li>
+                                   <li>Select to Display or to Hide <strong>Title Display</strong></li>
+                                   <li>Select to Display or to Hide <strong>Breadcrumbs</strong> on Products page</li>
+                                   <li>Select to Display or to Hide <strong>Ratings</strong> on Products page</li>
+                                   <li>Select to Display or to Hide <strong>Price</strong> on Products page</li>
+                                   <li>Select to Display or to Hide <strong>"Add To Cart" Button</strong> on Products page</li>
+                                   <li>Select to Display or to Hide <strong>Product Categories</strong></li>
+                                   <li>Select to Display or to Hide <strong>"Sale" Icon</strong> on Products page</li>
+                                   <li>Select to Display or to Hide <strong>Description Tab</strong></li>
+                                   <li>Select to Display or to Hide <strong>Reviews Tab</strong></li>
+                                   <li>Select to Display or to Hide <strong>Additional Information Tab</strong></li>
+                                   <li>Select to Display or to Hide <strong>Related Products</strong></li>
+                                   <li>Select to Display or to Hide <strong>Upsell Products</strong></li>
+                                   <li>Choose how many <strong>Related/Upsell Products</strong> you wish to display</li>
+                                   <li>Choose how many <strong>Related/Upsell Products Columns</strong> you wish to display</li>
+                              </ul>
+                              <h4>Single Product Head Panel</h4>
+                              <ul>
+                              <i>Head Panel title & subtitle behavior on single product posts</i>
+                              <li>Select Head Panel <strong>Title / Subtitle Behaviour</strong></li>
+                              <li>Type your Head Panel <strong>Subtitle Text</strong> that you want to display </li>
+                              </ul>
+                              <!-- /WooCommerce Settings -->
+
+                              
+                         </div>
+                         <!-- Custom Post Types
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Custom_Post_Types" class="page-header"><i class="fa fa-hand-o-up"></i> Custom Post Types </h2>
+                              
+                                  
+                              <h3 id="Add_a_portfolio_post">Add a portfolio post</h3>
+                               <strong>Administration > Portfolio > Add New</strong>
+                               
+                                   <p>Portfolio post is a custom post type created by Plethora Themes. Creating a portfolio post procedure is pretty much the same with creating a blog post with some additional options listed below.</p>
+                                   
+                                   <p><strong>Right Side Panel Settings</strong></p>
+<ul>
+                                   <li>Add (one or more) project types typing the title of the project  you have already created at <strong>Administration > Project Types</strong>.</li>
+                                   <li>Create a <strong>slide show gallery</strong> with related project images.</li>
+                              </ul>
+
+
+
+                                   <p><strong>Content Display Settings</strong></p><ul>                                   
+                                   <li>Choose to show or hide <strong>post title on content</strong>.</li>
+                                   <li>Type <strong>Project Date</strong> </li>
+                                   <li>Type <strong>Clients Name</strong> </li>
+                                   <li>Type <strong>Place</strong> </li>
+                                   <li>Set <strong>Rating Stars</strong> </li>
+                                   <li>Set <strong>Link Button Title</strong> </li>
+                                   <li>Set <strong>Link Button url</strong> </li>
+                                   <li>Choose to show or hide <strong>Navigation Buttons</strong> </li>
+                                   <li>Choose to show or hide <strong>Related Portfolio Items</strong> </li>
+                                   <li>Set <strong>how many related portfolio items</strong> you want to display </li>
+                               </ul>
+                              
+                              <h3 id="Add_a_person">Add a person</h3>
+                               <strong>Administration > Persons > Add New</strong>
+                               <p>This is the second Custom post type created by PlethoraThemes.</p>
+                                                              <p><strong>Right Side Panel Settings</strong></p>
+<ul>
+                               
+                                   <li>Add sections typing the title of the section you have already created at <strong>Persons > Sections</strong>.</li>
+                              </ul> 
+                                <p><strong>Personal Info</strong></p><ul>  
+
+                                   
+                                   <li>Give a <strong>Job Position Title</strong></li>
+                                   <li>Write an <strong>About Note</strong>, a few words about this person</li>
+                                   <li>Upload an image</li>
+                                   <li>Upload a hover image (if you wish to enable hover effect)</li>
+                               </ul>
+                                <p><strong>Contact &amp; Social</strong></p><ul>
+                               
+                               <li>Leave it empty if you don't want to display</li>
+                              </ul> 
+                                   <p>Available social links: email, Skype, Facebook, Twitter, Google+, LinkedIn, YouTube, Vimeo, Pinterest, Tumblr, Flickr, Dribble, Instagram</p>
+                                   
+
+
+                               
+                              
+                            
+
+                             
+                             
+
+                         </div>
+                        
+
+                         <!-- Shortcodes
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Shortcodes" class="page-header"><i class="fa fa-indent"></i> Shortcodes</h2>
+                              
+
+                              <!--<ul><strong>How to use short codes in editors classic mode </strong>
+                                   <li>Open a page or post and choose the <strong>"classic mode"</strong>, then click on the <strong>Visual editing tab</strong>.</li>
+                                   <li>In the editing toolbar, click <strong>short code button</strong> (Plethora logo).</li>
+                                   <li>Select the short code you want from the dropdown list.</li>
+                                   <li>Make your selections from the short code options that load and click <strong>"ok"</strong>.</li>
+                                   <li>Update your page and you are ready.</li>
+                              </ul>-->
+
+                              <h3 id="working_with_visual_composer">Working with the Visual Composer page builder</h3>
+                              <p>Visual composer it's a very steady and flexible plugin configured to work together with Plethora framework.<br> It will help you managing Plethora's shortcodes and create different layouts without coding.<br><strong> Please, note that we do not offer compliance with any other licensed version of Visual Composer plugin apart from the one included in Cleanstart's Package. </strong></p>
+                              <h3 id="Adding_rows_columns">Adding rows &amp; columns</h3>
+                              <p>Adding rows &amp; columns in Cleanstart is one of the most basic and useful group of options, if you want to create your website with the demo standards. You can easily create different combinations just by setting rows and columns.  
+                              </p><strong>Row Settings</strong>
+                              <ul>
+                                   
+                                   <li>Write your <strong>Header Text</strong></li>
+                                   <i>Leave empty if you don't want to display</i>
+                                   <li>Write your <strong>Subheader Text</strong></li>
+                                   <li>Choose <strong>Header style</strong></li>
+                                   <li>Choose <strong>Color setup</strong></li>
+                                   <li>Upload/Select <STRONG>Background Image</STRONG></li>
+                                   <li>Enable or Disable <strong>Parallax effect</strong></li>
+                                   <li>Effect will be displayed only if you set a background image</li>
+                                   <li>Choose to Remove or enable <strong>top margin</strong></li>
+                                   <i>Select 'Yes' to remove possible top margin</i>
+                                   <li>Hide or display <strong>Top Side Corners</strong> effect</li>
+                                   <li>Give your <strong>Extra class</strong></li>
+                                   <li>Save Changes</li>
+                              </ul>
+                              <strong>Column Settings</strong><ul>
+                                   
+                                   <li>Set <strong>Column Width</strong></li>
+                                   <li>Give your <strong>Extra Classes</strong></li>
+                                   <li>Set <strong>Column Alignment</strong></li>
+                                   <li>Select <strong>Column border</strong></li>
+                                   <li>Save Changes</li>
+                         
+                              </ul>
+                              
+                              
+
+                              <h3 id="Plethora_Shorcodes">Plethora Shortcodes</h3>
+
+                              <p>Cleanstart comes with 13 shortcodes that allow you to create unique layouts using many different combinations.</p>
+
+                                   <strong>How to use shortcodes in the backend editor. </strong><ul>
+                                   <li>Open a page and choose <strong>BACKEND EDITOR</strong>.</li>
+                                   <li>Click "Add element" button (The one with the cross symbol).</li>
+                                   <li>Choose "Plethora Shortcodes" from the horizontal menu appearing on top of the popup window.</li>
+                                   <li>Select the shortcode you want from the list.</li>
+                                   <li>Make your selections from the shortcode options that load and click <strong>"save"</strong>.</li>
+                                   <li>Update your page and you are ready</li></ul>                             
+                     
+                              <h4>Buttons</h4>
+                              <ul>
+                                   <li>Type the <strong>title</strong> you want to appear on the button and set the url. <br>You can set the link manually or choose one of the existing pages to link on.  
+                                   </li>
+                                   <li>Select <strong>button color</strong></li>
+                                   <li>Select <strong>button size</strong></li>
+                                   <li>Save changes</li>
+
+                              </ul>
+                              <h4 id="#call_to_action">Call to Action</h4>
+                           
+                              <ul>
+                                   <li>Insert a row</li>
+                                   <li>Set the <a href="#working_with_visual_composer">row options</a> appearing in the pop up window</li>
+                              
+                                   <li>Set the icon image</li>
+                                   <li>Write the title. If you want to enable the <strong>Text Rotator</strong> effect on some of the words used in the title, you'll need to enclose these words in a <strong>&lt;span&gt;</strong> tag with its class set to <strong>rotate</strong>, and separate these words with commas. Here is an example:
+                                   <pre>This is our &lt;span class="rotate"&gt; neweset, best, fastest&lt;/span&gt; product!</pre></li>
+                                   <li>Set Subtitle</li>
+                                   <li>Choose to show or hide display button</li>
+                                   <li>If you choose to show the display button, some additional options will appear.</li>
+                                   <li>Set button title and url</li>
+                                   <li>Select <strong>button color</strong></li>
+                                   <li>Select <strong>button size</strong></li>
+                                   <li>Save changes</li>
+                              </ul>
+                              <h4>Clients</h4>
+                              <p>Select client <strong>images</strong>, set <strong>Title</strong> and (optional) <strong>URL</strong> as Caption.</p>
+                              <h4>Contact Card</h4>
+                              <ul>
+                                   <li>Select <strong>image</strong></li>
+                                   <li>Type <strong>Company name</strong></li>
+                                   <li>Type <strong>Industry</strong></li>
+                                   <li>Set <strong>Contact Information</strong></li>
+                                   <li>Save Changes</li>
+                              </ul>
+                              <h4>Features Teaser</h4>
+                              <ul>
+                                   <li>Select <strong>image</strong></li>
+                                   <li>Set <strong>image link</strong></li>
+                                   <li>Set <strong>title</strong></li>
+                                   <li>Write your text</li>
+                                   <li>Save Changes</li>
+                              
+
+                              </ul>
+                              <h4>Gallery Grid</h4>
+                              <ul>
+                                   <li>Select <strong>images</strong></li>
+                                   <li>Select <strong>grid layout</strong></li>
+                                   <li>Set the <strong>number of grid columns you nead</strong></li>
+                                   <li>Save Changes</li>
+                              </ul>
+                              <h4>Horizontal Teaser</h4>
+                              <ul>
+                                   <li>Set <strong>title</strong></li>
+                                   <li>Write your text</li>
+                                   <li>Set <strong>text section width</strong></li>
+                                   <li>Set <strong>text content position</strong></li>
+                                   <li>Select <strong>type of media</strong></li>
+                              
+
+                                   <li>if you choose video you should add a <strong>video link</strong><br>if you choose image you should  <strong>upload your image</strong>
+                                   <br>
+                                   If you choose Image Compare you should :</li>
+
+                              
+                                   <li>Upload <strong>before image</strong></li>
+                                   <li>Upload <strong>after image</strong></li>
+                                   <li>Set the <strong>default split offset</strong></li>
+                                   <li>Set the <strong>orientation</strong> of the effect</li>
+                                   <li>Save Changes</li>
+
+                              </ul>
+
+                              <h4>Image Compare</h4>
+                              <ul>
+                                   <li>Upload <strong>before image</strong></li>
+                                   <li>Upload <strong>after image</strong></li>
+                                   <li>Set the default <strong>split offset</strong></li>
+                                   <li>Set the <strong>orientation</strong> of the effect</li>
+                                   <li>Save Changes</li>
+                              </ul>
+                              <h4 id="Mailchimp_Form">MailChimp Form</h4>
+                              <ul>
+                                   <li>All fields below accepts html</li>
+                                   <li>Set <strong>title</strong></li>
+                                   <li>Set <strong>subtitle</strong></li>
+                                   <li>Type the text you want to appear at <strong>email field placeholder</strong></li>
+                                   <li>Type the <strong>subscribe button text</strong></li>
+                              </ul>
+                              <h4>Portfolio Grid Settings</h4>
+                              <ul>
+                                   <li>Select <strong>grid layout</strong></li>
+                                   <li>Set the <strong>number of grid columns</strong> you need</li>
+                                   <li>Set the <strong>maximum results</strong> in grid</li>
+                                   <li>Select <strong>Order By</strong> to display results ordered by date or randomly</li>
+                                   <li>Select to display or hide <strong>project types menu</strong></li><li>Select every project type that you <strong>don't want to be included</strong> in results</li>
+                                   <li>Save changes</li>
+                              </ul>
+                              <h4>Priceplan</h4>
+                              <ul>
+                                   <li>Select <strong>Top box layout</strong></li>
+                                   <li>Set price plan <strong>header title</strong></li>
+                                   <li>Set price plan <strong>header subtitle</strong></li>
+                                   <li>Add a <strong>pricing</strong></li>
+                                   <li>Enable or disable <strong>Special plan</strong>.<br>
+                                   <i>Choose enable if you wish this plan to be your Special one!</i></li>
+                                   <li>Type your <strong>button text</strong><br>
+                                   <i>Leave it empty, if you don't need a button.</i></li>
+                                   <li>Set <strong>button link</strong></li>
+                                   <li>Select <strong>how many features</strong> you want to add</li>
+                                   <li>Set <strong>feature description</strong> (html enabled)</li>
+                                   <li>Save changes</li>
+
+                              </ul>
+                              <h4>Service Teaser</h4>
+                              <ul>
+                                   <li>Upload your <strong>image</strong> </li>
+                                   <li>Set <strong>image link</strong></li>
+                                   <li>Set <strong>image title</strong></li>
+                                   <li>Write your <strong>text content</strong></li>
+                                   <li>Choose to show or hide <strong>display button</strong></li>
+                                   <li>Save changes</li>
+
+                              </ul>
+                              <h4>Team Members Grid Settings</h4>
+
+                              <ul>
+                                   <li>Type your <strong>header text</strong> or <strong>leave it empty</strong> if you wish to remain invisible</li>
+                                   <li>Enter a <strong>subheader text</strong> for the section</li>
+                                   <li>Choose <strong>header layout</strong></li>
+                                   <li>Choose <strong>color setup</strong></li>
+                                   <li>Set <strong>background image</strong></li>
+                                   <li>Enable or disable <strong>parallax effect</strong><br>
+                                   <i>Effect will be visible only if you have set a background image</i></li><li>Select 'Yes' or 'No' to remove or keep the <strong>top margin</strong><br>
+                                   <i>Select 'Yes' to remove possible top margin on top</i></li>
+                                   <li>Choose to hide or show <strong>top side corners</strong></li>
+                                   <li>Put your <strong>extra class</strong> if you wish to customize this section </li>
+                                   <li>Save changes</li>
+
+                              </ul>
+                         </div>
+                         <!-- Widgets & Sidebars
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Widgets_Sidebars" class="page-header"><i class="fa fa-picture-o"></i> Widgets &amp; Sidebars</h2>
+                              <h3 id="Working_with_Widgets">Working with Widgets</h3>
+                              <strong>Administration > Appearance > widgets</strong>
+                              <p>Cleanstart includes three custom Plethora widgets and the native WP widgets. You can put as many widgets as you want inside of a sidebar or footer widgetized areas. Below you can read some information on how to add widgets.</p>
+                              <ul>
+                                   <li>Choose a Widget and drag it to the sidebar (widgetized area) you wish it to appear</li>
+                                   <li>To arrange the Widgets within the sidebar, click and drag it into place</li>
+                                   <li>To customize the Widget features, click the down arrow in the upper right corner to expand the Widget's interface</li>
+                                   <li>To remove the Widget, click Remove or Delete</li>
+                                   <li>When finished, make sure to click Save in the widget editing box to save the widgets added to your sidebar</li>
+                              </ul>
+
+
+
+                              <h3 id="Working_with_Sidebars">Working with Sidebars</h3>
+                              <p>Sidebars ( or widgetized areas ) are part of WordPress native functionality.<br> 
+                                   Please, <a href="http://codex.wordpress.org/Sidebars">visit Codex</a> if you want to learn more about sidebars.</p>
+                              
+                              
+                              
+                              <h4>Default sidebars</h4>
+                              <p><strong>Administration > Appearance > widgets</strong></p>
+                              <p>Cleanstart comes with two default sidebars, the blog and the page sidebar, which includes different widgets.
+                                   You can easily choose sidebar and page layout from page/post right Side Panel.</p>
+                              <h4>Custom sidebars</h4>
+                              <p><strong>Administration > Theme Settings > Advanced > Custom Sidebars</strong></p>
+                              <p>Select how many additional sidebars you want.<br>
+                                   The extra sidebars will appear in your widget panel. </p>
+                         </div>
+                         <!-- Tips for advanced users
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Tips_for_advanced_users" class="page-header"><i class="fa fa-rocket"></i> Tips for advanced users</h2>
+                             <p>Plethora Themes Framework provides several built-in functionality that will make things easy for advanced users and developers who want to go deeper customizing Cleanstart. </p>
+                              <h3 id="Activate_Deactivate_Components">Activate/Deactivate Cleanstart's  Components</h3>
+                             <p>You have the option to activate/deactivate any <strong>Custom Post Type</strong>, <strong>Shortcode</strong> or <strong>Widget</strong> that comes with this theme! When a feature is deactivated, the framework does not load the related code. This means that deactivating non used features will result a lighter page load!</p>
+                             <p><strong>Important notice</strong>: Deactivating any feature will not result any PHP errors/warnings/notices, however, you have to pay attention to Custom Post Types logic dependencies: </p>
+                             <ul>
+                                   <li>Deactivating Persons CPT, will disable <strong>Team Grid</strong> shortcode</li>
+                                   <li>Deactivating Portfolio CPT, will disable <strong>Portfolio Grid</strong></li>
+                                   <li>Deactivating Slider CPT, will make <strong>Head Panel</strong> to ignore slider backgrounds (they will display skin color background instead)</li>
+                             </ul>
+                              <h3>Use Developer Comments</h3>
+                              <p>This is an extremely useful tool for developers/designers who want to comprehend faster how this theme works. Developer comments are small bits of information outputted directly in the HTML source. There are four types of comments, each one has its switch on <strong>Theme Settings > Advanced > Dev / Design HTML Comments</strong> tab:
+                              <ul>
+                              <li><strong>Current Page Info</strong>. Info displayed before anything else which gives a short sentence about the type of the current page (i.e. Page type or static Blog page, etc.)</li>
+                              <li><strong>Template Parts</strong>. Get start/end and file name information for every template part file that is used in page. This will help you understand how the template system works.</li>
+                              <li><strong>Theme/Metaboxes Options</strong>. This will show you information for every option (theme setting or metabox setting) used in page.  This will help you understand how options applied and how affect several components display</li>
+                              <li><strong>Layout Checkpoints</strong>. This will help you easily locate all the different elements on source view!</li>
+
+                              </ul>
+                             <p class="alert alert-danger">Note: comments may contain sensitive data that should not be displayed in public. So, for security purposes, they are displayed exclusively to logged-in administrators that have access privileges to the Theme Settings panel.</p>
+
+                             <h3 id="Import_Export">Import/Export Cleanstart's Settings</h3>
+                             <strong> Administration > Theme Settings > Import / Export </strong>
+                             <p>Cleanstart provides the capability to export all theme settings. Keep this safe, as you may keep it as a backup, or you can use it to restore your settings on any Cleanstart Installation.</p>
+                            
+
+
+                       </div>
+
+
+                          <!-- WPML and translation
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="translate" class="page-header"><i class="fa fa-globe"></i> Theme Translation or Multilingual site with WPML</h2>
+                             <p>Cleanstart is a "Translation Ready" theme. This means it can be easily translated to any language by using the build-in Wordpress way of translating themes, using .po and .mo files. But if you need a multilingual site, Cleanstart is also "WPML Ready", fully compatible with the <a href="http://wpml.org/purchase/">WPML plugin</a>.</p>
+                              <h3 id="just_translate">Theme translation using .po and .mo files</h3>
+                            <p>This is a straightforward tutorial that will help you translate a Plethora WordPress theme into the language of your choice. Keep in mind that this is the suggested procedure for a localized website ( single language ). If you need a multilingual website, then you should consider <a href="#wpml">moving to the next section</a> about WPML.</p>
+
+                         <h4><b>Software/resources needed</b></h4>
+
+                         <p>The only thing you need is a Gettext translations editor. On this tutorial we will use <a target="_blank" href="http://poedit.net/">Poedit editor</a>, which is one of the best out there. It is available for both Mac and PC, and it’s free!</p>
+
+                         <h4><b>Things to know about PO/MO/POT files</b></h4>
+
+                         <p>All Plethora themes are translation-ready and come with the related Gettext files (PO/MO and POT files). Consider these files as a catalog containing every single text string used on your theme. What you need to know about them:
+                         <ul>
+                         <li>
+                         <b>PO files</b> are the files which contain the actual translations. Each language will have its own PO file, for example, for French there would be a fr.po file, for German there would be a de.po, for American English there might be an en_US.po.
+                         </li>
+                         <li>
+                         <b>MO files</b> are the compiled versions of PO files and they always have to be together. In our case, you won’t have to deal with it, as it is created automatically by Poedit.
+                         </li>
+                         <li>
+                         <b>POT files</b> are basically the template files for PO files.
+                         </li>
+                         <li>
+                         You can find those files on the /language folder under your Plethora theme’s root directory
+                         </li>
+                         </ul>
+                         </p>
+
+                         <h4><b>Fine…let’s translate!</b></h4>
+                         <ol>
+                         <li>Open the <b>POT</b> file with <b>Poedit</b>.</li><br>
+                         <li>
+                         Go to <b>File > Save as</b> and save your <b>PO</b> language file. As stated above, <b>it is very important that you should name this file using your two letter language code</b>. <a href="http://www.gnu.org/software/gettext/manual/gettext.html#Language-Codes">You can find your country and language code here</a>. For example, a French translation for France should be saved as <b>fr_FR.po</b>, an Egyptian Arabic translation should be saved as <b>ar_EG.po</b>, and an English translation for the United Kingdom should be saved as <b>en_UK.po</b>. 
+                         </li><br>
+                         <li>
+                         Now you are <b>ready to translate</b> your theme. Poedit lists all translatable strings and you can click on any string to translate it. There are three default boxes below the list. One for the original source text, a second one for the translation and a third one that can include notes for translators. Every time you save your file, Poedit will automatically compile a .mo version of the file in the same directory.
+                         </li>
+                         <br>
+                         <img src="images/Translate-your-WP-Theme-in-your-language-1.jpg" />
+                         <br><br>
+                         <li>
+                         After finishing your translation ( it works even if you have not translated all strings ), <b>upload those files</b> to your /language folder <a href="http://www.wpbeginner.com/beginners-guide/how-to-use-ftp-to-upload-files-to-wordpress-for-beginners/">using FTP</a>. 
+                         </li><br>
+                         <li>
+                         If you are already using WordPress in the same language as your theme’s translation files, then WordPress will automatically pick up translation files for your theme. However, if you are using WordPress in default English, then you can still <b>force WordPress to use your translated files</b> by adding this line of code in your wp-config.php file:
+<br><br><pre>
+// Replace fr_FR with your language and country code.
+define ('WPLANG', 'fr_FR');
+</pre>
+                         Note that after WP 4.0 you may select your default language during the installation procedure or under <b>Settings > General</b> in the Dashboard.</p>
+                         </li>
+                         </ol>
+
+                         <h4><b>Are you working on a child theme?</b></h4>
+
+                         <p>Those working with child themes ( kudos to you ), will already have a question in their minds…and the answer is YES! If you translate the PO/MO files on your parent theme, you will lose it on the next theme update. Relax, you may implement your translations on the child theme as well. Just follow the following instructions:</p>
+                         <ol>
+                         <li>
+                         Copy <b>/languages</b> folder from your parent to the child theme directory. On child theme, rename the files with .po/.mo extensions according to your locale ( ie. <b>de_DE.po / de_De.mo</b>  for German installations ). 
+                         </li>
+                         <li>
+                         Put this code into your child theme’s functions.php:
+<br><br><pre>
+add_action('after_setup_theme','plethora_child_translation');
+function plethora_child_translation() {   
+// Replace 'clenastart' with your theme's slug.   
+load_child_theme_textdomain( 'cleanstart', get_stylesheet_directory() . '/languages' );
+}
+</pre>
+                         </li>
+                         <li>
+                         Work with your PO/MO/POT files as referenced above in order to translate your website.
+                         </li></ol>
+
+
+                         <h3 id="wpml">Make your site multilingual with the WPML plugin</h3>
+                            
+                         <p>Cleanstart is "WPML Ready", fully compatible with the <a href="http://wpml.org/purchase/">WPML plugin</a>. It comes with a <b>wpml-config.xml</b> that renders all custom fields, posts, taxonomies and admin fields translatable.</p>
+                            
+<p>First, you need to to purchase a recent version of WPML, including the String Translation and Translation Management modules.</p>
+
+<h4><b>Initial Setup</b></h4>
+<ol>
+<li>
+Install and activate the core WPML plugins (WPML Multilingual CMS, WPML String Translation, WPML Translation Management), and then other WPML plugins that may depend on them.
+</li>
+<li>
+Set up WPML from WPML->Languages. See <a href="http://wpml.org/documentation/getting-started-guide/">WPML Getting Started Guide</a> for complete reference, but the initial simple three-step setup is self-explanatory, asking you to choose your default language, a set of active languages, and a language selector.
+</li>
+</ol>
+
+<h4><b>Translating Pages, Posts and other post types</b></h4>
+
+<p>To translate a page you need to go to Wp admin – Pages and in the list you will see columns for each active language, with a pencil icon (for ‘edit translation’) or a ‘+’ icon (for ‘add translation’) next to each page. Go ahead and edit or add the translated pages. Now you just need to translate your page into the new language.
+</p>
+
+<p>If you want to <b>dublicate your content</b> and then translate it, follow the instructions on <a href="http://wpml.org/documentation/translating-your-contents/displaying-untranslated-content-using-content-duplication/">Displaying Untranslated Content using Content Duplication.</a> This will create the exact same content in different languages and keep the different copies synchronized.</p>
+
+<h4><b>Translating custom post types and taxonomies</b></h4>
+
+<p>Cleanstart comes with extra custom post types such as portfolios, persons, sliders and custom taxonomies. In order to get a similar interface for translation/duplication as for posts and pages, you need to go to WPML->Translation Management, and select the tab ‘Multilingual Content Setup’ to see which custom post types are translatable through our wpml-config.xml file.</p>
+
+<h4><b>Translating Menus and Language Switcher in Header Top Toolbar</b></h4>
+
+<p>WPML can synchronize menus for you. This means that if some entries, for example some pages, posts or categories, are in the English menu, WPML can generate and keep in synch menus for other languages pointing to the translated versions of these pages, posts or categories.</p>
+
+<p>You can add menu translations and synchronize menus across translations by going to <b>Appearance->Menus</b> in your Dashboard.</p>
+
+<p>In order for the language switcher to be displayed in the header you'll need to activate it from <b>Theme Settings > Header --> Header Toolbar (display)</b>. From <b>WPML > Languages > Language switcher options > Language switcher style</b> you should choose "Mobile Friendly always".</p>
+
+<h4><b>Translating theme texts and other strings in your site</b></h4>
+
+<p>To translate strings you need to follow the procedure for Theme and Plugin Localization. Go to <b>WPML > Theme and Plugin Localization</b>, and click on <b>Scan the theme for strings</b> to see which theme strings need to be translated.</p>
+
+                       </div>                      
+                          
+                         
+                         
+                         <!-- Support
+================================================== -->
+                         <div class="bs-docs-section">
+                              <h2 id="Support" class="page-header"><i class="fa fa-flag"></i> Support</h2>
+                              Plethora Themes offers support online through its <a href="http://www.plethorathemes.com/support">support suite</a> but you have to register first with your <a href="http://themeforest.net/forums/thread/how-to-find-item-purchase-code-screenshotmockup/105269#1000773">Themeforest Purchase code</a>.
+</ul>
+                         </div>
+                         
+                         
+                         
+                         
+                         
+                         
+                          <!-- End Col
+================================================== -->                        
+ </div>
+                    
+                    
+                    
+                    
+                         <!-- Sidebar Menu
+================================================== -->                    
+                    <div class="col-md-3 hidden-sm hidden-xs">
+                    
+                         <div class="bs-docs-sidebar hidden-print" role="complementary" data-spy="affix" data-offset-top="144">
+                         
+                         <a class="sitemap_toggle on_sidebar"><i class="fa fa-sitemap"></i> <b>Show Sitemap</b></a>
+                         
+                              <ul class="nav bs-docs-sidenav">
+                        
+   
+
+                                   <li>
+                                        <a href="#Theme_Installation_Updates"><i class="fa fa-th-large"></i> Theme Installation &amp; Updates</a>
+                                   </li>
+                                   <li>
+                                        <a href="#Demo_Content"><i class="fa fa-puzzle-piece"></i> Demo Content</a>
+                                   </li>
+                                   <li>
+                                        <a href="#Setting_up_your_Theme"><i class="fa fa-stack-overflow"></i> Setting up your Theme</a>
+                                   </li>
+
+                                   <li>
+                                        <a href="#Archive_and_other_Options"><i class="fa fa-wrench"></i> Archive & Other Options</a>
+                                   </li>
+                                   <li>
+                                        <a href="#Custom_Post_Types"><i class="fa fa-hand-o-up"></i> Custom Post Types</a>
+                                   </li>
+                                   
+                                   
+                                   <li>
+                                        <a href="#Shortcodes"><i class="fa fa-indent"></i> Shortcodes</a>
+                                   </li>
+                                   <li>
+                                        <a href="#Widgets_Sidebars"><i class="fa fa-picture-o"></i> Widgets &amp; Sidebars</a>
+                                   </li>
+                                   <li>
+                                        <a href="#Tips_for_advanced_users"><i class="fa fa-rocket"></i> Tips for advanced users</a>
+                                   </li>
+
+                                   <li>
+                                        <a href="#translate"><i class="fa fa-globe"></i> WPML & Translation</a>
+                                   </li>
+                                   
+                                   <li>
+                                        <a href="#Support"><i class="fa fa-flag"></i> Support</a>
+                                   </li>
+                                   
+                                   <li>
+                                        <a href="http://doc.plethorathemes.com/cleanstart-wp"><span class="label label-danger">DOCUMENTATION ONLINE</span></a>
+                                   </li>
+                                   
+                                   
+                              </ul>
+                         </div>
+                    </div>
+               </div>
+          </div>
+          <br>
+          <br>
+          <br>
+          <br>
+          <footer>
+               <section class="copyright dark_section">
+                    <div class="container triangles-of-section">
+                         <div class="triangle-up-left"></div>
+                         <div class="square-left"></div>
+                         <div class="triangle-up-right"></div>
+                         <div class="square-right"></div>
+                    </div>
+                    <div class="container">
+                         <div class="row">
+                              <div class="col-sm-6 col-md-6"> Copyright ©2014-2015 all rights reserved </div>
+                              <div class="text-right col-sm-6 col-md-6"> Designed by <a href="http://www.plethorathemes.com">Plethora Themes</a> </div>
+                         </div>
+                    </div>
+               </section>
+          </footer>
+     </div>
+     <script src="./js/jquery-1.10.2.min.js"></script>
+     <script src="./twitter-bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+     <script type="text/javascript" src="./js/modernizr.custom.48287.js"></script>
+     <script type="text/javascript" src="./js/jquery.ui.totop.js"></script>
+     <script type="text/javascript" src="./js/easing.js"></script>
+     <script type="text/javascript" src="./js/cleanstart_theme.js"></script>
+     <!--To collapse the menu -->
+     <script type="text/javascript" src="./js/collapser.js"></script>
+
+
+
+
+
+</div>
+</body>
+</html>

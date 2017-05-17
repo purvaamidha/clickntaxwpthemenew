@@ -1,0 +1,34 @@
+<div class="submenu-linksadded"><a href="#soleprop"><i class="fa fa-briefcase"></i> Sole Proprietorship</a>   <a href="#partner"><i class="fa fa-briefcase"></i> Partnership Firm</a>   <a href="#limited-liab"><i class="fa fa-briefcase"></i> Limited Liability Partnership Incorporation</a>   <a href="#one-person"><i class="fa fa-briefcase"></i> One Person Company</a>   <a href="#private-ltd"><i class="fa fa-briefcase"></i> Private Limited Company</a>   <a href="#public-ltd"><i class="fa fa-briefcase"></i> Public Limited Company</a></div>
+
+
+<i class="fa fa-square" aria-hidden="true" id="sole1"> Sole Proprietorship</i>
+<li ><i class="fa fa-square" aria-hidden="true" id="part1"> Partnership Firm</i>
+
+<li ><i class="fa fa-square" aria-hidden="true" id="limliab1"> Limited Liability Partnership Incorporation</i>
+<li ><i class="fa fa-square" aria-hidden="true"id="pers1"> One Person Company</i>
+<li id="priltd1"><i class="fa fa-square" aria-hidden="true" id="priltd1"> Private Limited Company</i>
+<li id="publtd1"><i class="fa fa-square" aria-hidden="true" id="publtd1"> Public Limited Company</i>
+
+
+ids
+
+incor_soleid
+incor_partnerid
+incor_limited-liabid
+incor_one-personid
+incor_private-ltdid
+incor_public-ltdid
+incor_service-taxid
+incor_features-id
+incor_priceplan-id
+incor_faq-id
+incor_process-id
+
+
+submenu ids
+"overview1"
+services1
+features1
+pricing1
+faq1
+process1
